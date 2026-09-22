@@ -72,12 +72,21 @@ shapely`.)
 
 **Streamlit Community Cloud (free, recommended):**
 
-1. Push this whole `dosm_dashboard/` folder to a GitHub repo.
-2. Go to [share.streamlit.io](https://share.streamlit.io), sign in with
-   GitHub, "New app", point it at the repo and set the main file to
-   `app/app.py`.
-3. Deploy. You get a public URL (`https://<something>.streamlit.app`) — the
+1. Push the repo to GitHub (this `dosm_dashboard/` folder can live as a
+   subfolder of the repo — that's how this project is set up).
+2. **Copy `requirements.txt` to the repo root too** (not just inside
+   `dosm_dashboard/`). Streamlit Cloud only looks for `requirements.txt` at
+   the repo root by default — if it's only inside a subfolder, the deploy
+   will fail with `ModuleNotFoundError` on the first import (e.g. `plotly`),
+   because none of the dependencies got installed.
+3. Go to [share.streamlit.io](https://share.streamlit.io), sign in with
+   GitHub, "New app", point it at the repo, and set the main file path to
+   `dosm_dashboard/app/app.py` (the full path from the repo root, since the
+   app isn't at the root itself).
+4. Deploy. You get a public URL (`https://<something>.streamlit.app`) — the
    jury just opens it in any browser, no install, no login.
+
+Every push to the branch you deployed from triggers an automatic redeploy.
 
 That's it — no server to maintain, and it redeploys automatically if you
 push more commits before the submission deadline.
