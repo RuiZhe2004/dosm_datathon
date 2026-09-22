@@ -1,0 +1,92 @@
+station,lat,lon,note
+MMKC005,6.4306215,99.725943,Sandy Skulls Beach
+MMKC006,6.3648692,99.6731387,Teluk Burau
+MMKC009,6.2249159,99.7160604,Pantai Beras Basah area
+MMPC001,5.2848183,100.1941399,Gertak Sanggul (island)
+MMPC002,5.308987,100.2832409,Bayan Lepas Free Industrial Zone (island)
+MMPC003,5.4447898,100.3789818,Pantai Bersih (mainland Perai)
+MMPC004,5.4779361,100.2680632,Miami Beach / Pantai Miami (island)
+MMPC005,5.2990405,100.1846266,Pantai Pasir Panjang (island)
+MMPC006,5.4728306,100.2466205,Casuarina Beach Resort (island)
+MMPC007,5.4605907,100.2142058,Teluk Bahang area (island)
+MMPC008,5.434655,100.3146159,Gurney Dr (island)
+MMPC009,5.3422195,100.4292878,Perai area (mainland)
+MMPC010,5.3798718,100.3887654,Perai area (mainland)
+MMPC011,5.3960464,100.317182,Jelutong strait (island)
+MMPC012,5.465118,100.2822098,Tanjung Bungah (island)
+MMPC014,5.283818,100.2900359,Batu Maung (island)
+MMPC015,5.4726785,100.2458335,Batu Ferringhi area (island)
+MMPC016,5.4726785,100.2458335,Batu Ferringhi area (island)
+MMPC017,5.4726785,100.2458335,Batu Ferringhi area (island)
+MMAC004,4.2835574,100.6722835,Tanjung Batu area
+MMAC005,4.188066,100.6065589,substitute: Pantai Teluk Batik (nearby)
+MMAC006,4.2652439,100.5913318,Pantai Damai Laut
+MMAC008,4.3478606,100.5737287,Pantai Pasir Panjang Lumut
+MMBC003,3.0166667,101.2666667,Pulau Babi
+MMBC006,2.7896752,101.410954,Pantai Kelanang
+MMNC002,2.4790558,101.8702805,Telok Sinting area
+MMNC010,2.5410912,101.8038231,Port Dickson power station area
+MMNC014,2.4436069,101.8559043,Pantai Purnama
+MMMC005,2.1796865,102.2512155,Pulau Melaka / Malacca Island
+MMMC006,2.1796865,102.2512155,Pulau Melaka / Malacca Island
+MMMC007,2.1796865,102.2512155,Pulau Melaka / Malacca Island
+MMMC008,2.1796865,102.2512155,Pulau Melaka / Malacca Island
+MMJC003,1.4109039,103.7206629,Johor Bahru marine dept area
+MMJC004,1.4689049,103.7807463,Pantai Stulang Laut
+MMJC005,1.478247,103.845852,Kampung Teluk Jawa
+MMJC007,1.4584962,103.7460342,Hospital Sultanah Aminah JB
+MMJC009,1.8982291,104.1039804,Pantai Teluk Mahkota (Mersing)
+MMJC010,2.14211,104.0087,Pantai Tanjung Leman
+MMJC014,1.6085218,104.1531048,substitute: Tanjong Surat (nearby)
+MMJC017,1.3255801,103.4412418,Jeti Kukup
+MMJC022,1.378148,104.2818829,Tanjung Penyusup area
+MMCC005,3.921659,103.370889,Pantai Balok
+MMCC006,3.921659,103.370889,Pantai Balok
+MMCC009,3.8740531,103.3670072,Beserah Beach
+MMCC010,3.8740531,103.3670072,Beserah Beach
+MMCC013,3.8069267,103.3466838,Pantai Gelora Kuantan
+MMCC014,3.8069267,103.3466838,Pantai Gelora Kuantan
+MMCC017,3.5622486,103.432897,Pantai Lagenda
+MMCC018,3.5622486,103.432897,Pantai Lagenda
+MMCC019,3.931782,103.365744,Kuala Api-Api area (Kuantan)
+MMCC020,3.206249,103.4465495,Pantai Tanjung Batu (Pahang)
+MMCC022,2.8424532,103.4667537,Pantai Lanjut
+MMTC003,5.2718504,103.1826955,substitute: Pantai Pandak (nearby)
+MMTC004,4.864542,103.3932989,Rantau Abang
+MMTC005,4.2452042,103.4430478,Kemaman industrial coast area
+MMTC006,4.2452042,103.4430478,Kemaman industrial coast area
+MMTC007,4.2452042,103.4430478,Kemaman industrial coast area
+MMTC012,4.864542,103.3932989,weak match: same as Rantau Abang area
+MMTC013,4.2848055,103.4773483,Pantai Teluk Kalong
+MMDC001,6.2197786,102.1294642,Pantai Sri Tujuh Tumpat
+MMQC001,1.8859177,109.7201924,Sematan area
+MMQC003,5.8280903,118.084788,Sandakan coastal area
+MMQC004,1.685101,110.4488039,Bako area
+MMQC005,1.749109,110.312957,Damai Beach Santubong
+MMQC006,1.8194489,111.1031763,Pantai Tanjung Kembang
+MMQC007,2.8920883,112.0921699,Mukah area
+MMQC009,3.2873116,113.1325683,Kampung Likau area
+MMQC013,2.2852244,111.830643,Sibu esplanade area
+MMQC016,2.2311901,111.2160226,Belawai area
+MMSC001,5.1039814,115.3785719,Brunei Bay area
+MMSC002,5.1039814,115.3785719,Brunei Bay area
+MMSC003,5.1039814,115.3785719,Brunei Bay area
+MMSC004,5.1039814,115.3785719,Brunei Bay area
+MMSC005,5.1039814,115.3785719,Brunei Bay area
+MMSC006,5.1039814,115.3785719,Brunei Bay area
+MMSC007,5.9675263,116.0597399,Sutera Harbour Golf Club KK
+MMSC013,6.1427755,116.1378774,Pantai Dalit Tuaran area
+MMSC014,4.9108242,115.0061783,Mangrove Paradise Resort Klias
+MMSC019,5.8068281,118.0542514,Sandakan coastal area
+MMSC020,5.0120835,118.876559,Semporna area
+MMSC022,4.9427006,118.189935,Kg Lamak Lahad Datu
+MMSC023,4.223742,117.987862,Tinagat Beach Tawau
+MMLC002,5.2602125,115.1741384,Labuan island (address match only)
+MMLC004,5.34113,115.2000551,Layang-Layangan Labuan
+MMJC008,1.4644922,103.7255228,Lido Beach Johor Bahru (audit fix: was a Kota Kinabalu street-name false match)
+MMSC001,5.4977429,115.5444231,Kuala Penyu Sabah (audit fix: mid-bay point fell outside Sabah polygon)
+MMSC002,5.4977429,115.5444231,Kuala Penyu Sabah (audit fix: mid-bay point fell outside Sabah polygon)
+MMSC003,5.4977429,115.5444231,Kuala Penyu Sabah (audit fix: mid-bay point fell outside Sabah polygon)
+MMSC004,5.4977429,115.5444231,Kuala Penyu Sabah (audit fix: mid-bay point fell outside Sabah polygon)
+MMSC005,5.4977429,115.5444231,Kuala Penyu Sabah (audit fix: mid-bay point fell outside Sabah polygon)
+MMSC006,5.4977429,115.5444231,Kuala Penyu Sabah (audit fix: mid-bay point fell outside Sabah polygon)

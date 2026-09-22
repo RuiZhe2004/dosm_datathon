@@ -1,0 +1,189 @@
+state,area,station,mmwqi_2021,mmwqi_2022,mmwqi_2023,mmwqi_2024,mmwqi_2025,pred_2026,pred_cat_2026,lower_95,upper_95,change_vs_2025,cat_2025,category_change
+Kedah,Pantai Merdeka,MMKC001,85,88,91,92,88,88.6,Good,74.3,100.0,0.6,Good,same
+Kedah,Langkawi Island Resort,MMKC002,94,94,96,95,96,95.1,Excellent,80.8,100.0,-0.9,Excellent,same
+Kedah,Pantai Kok,MMKC003,90,83,95,96,96,93.1,Excellent,78.8,100.0,-2.9,Excellent,same
+Kedah,Pantai Kuah,MMKC004,88,90,91,95,91,91.0,Excellent,76.7,100.0,0.0,Excellent,same
+Kedah,Pantai Pasir Tengkorak,MMKC005,96,93,93,95,95,94.7,Excellent,80.4,100.0,-0.3,Excellent,same
+Kedah,Pantai Teluk Burau,MMKC006,94,86,96,94,96,94.1,Excellent,79.8,100.0,-1.9,Excellent,same
+Kedah,Pantai Teluk Nibong,MMKC007,86,92,95,96,96,93.0,Excellent,78.7,100.0,-3.0,Excellent,same
+Kedah,Pantai Tengah,MMKC008,92,92,94,96,95,94.0,Excellent,79.7,100.0,-1.0,Excellent,same
+Kedah,Pantai Beras Basah,MMKC009,92,96,96,96,95,94.7,Excellent,80.4,100.0,-0.3,Excellent,same
+P. Pinang,Gertak Sanggul,MMPC001,81,83,94,91,88,87.3,Good,73.0,100.0,-0.7,Good,same
+P. Pinang,Kawasan Perindustrian Bayan Lepas 1,MMPC002,72,60,79,67,84,74.3,Moderate,60.1,88.6,-9.7,Good,declining
+P. Pinang,Pantai Bersih,MMPC003,75,86,73,84,81,79.5,Moderate,65.2,93.8,-1.5,Good,declining
+P. Pinang,Pantai Miami,MMPC004,70,86,90,88,90,84.4,Good,70.1,98.7,-5.6,Excellent,declining
+P. Pinang,Pantai Pasir Panjang,MMPC005,93,95,93,93,88,91.7,Excellent,77.4,100.0,3.7,Good,improving
+P. Pinang,Batu Feringgi (Casuarina),MMPC006,83,82,93,85,86,85.7,Good,71.4,100.0,-0.3,Good,same
+P. Pinang,Luar Pantai Teluk Bahang,MMPC007,81,88,94,91,94,89.6,Good,75.3,100.0,-4.4,Excellent,declining
+P. Pinang,Persiaran Gurney,MMPC008,60,79,73,84,71,72.2,Moderate,57.9,86.5,1.2,Moderate,same
+P. Pinang,Rumah Pam Baru Perai,MMPC009,68,76,88,83,81,78.8,Moderate,64.5,93.1,-2.2,Good,declining
+P. Pinang,Rumah Pam Lama Perai,MMPC010,65,59,67,72,69,67.3,Moderate,53.1,81.6,-1.7,Moderate,same
+P. Pinang,Selat PP Selatan (Jelutong),MMPC011,59,59,59,57,57,58.0,Moderate,43.7,72.3,1.0,Moderate,same
+P. Pinang,Tanjung Bungah,MMPC012,67,72,90,80,89,80.2,Good,65.9,94.5,-8.8,Good,same
+P. Pinang,Tanjung Bungah 2,MMPC013,70,63,69,87,76,74.5,Moderate,60.2,88.8,-1.5,Moderate,same
+P. Pinang,Batu Maung 2,MMPC014,69,58,72,71,57,65.1,Moderate,50.8,79.4,8.1,Moderate,same
+P. Pinang,Pantai Sungai Batu Ferringhi 3,MMPC015,86,92,92,91,90,89.7,Good,75.5,100.0,-0.3,Excellent,declining
+P. Pinang,Pantai Sungai Batu Ferringhi 2,MMPC016,90,94,94,93,91,91.9,Excellent,77.6,100.0,0.9,Excellent,same
+P. Pinang,Pantai Sungai Batu Ferringhi 1,MMPC017,91,91,92,91,93,91.7,Excellent,77.5,100.0,-1.3,Excellent,same
+Perak,Pantai Pasir Bogak,MMAC001,95,94,92,95,95,94.5,Excellent,80.2,100.0,-0.5,Excellent,same
+Perak,Pantai Teluk Dalam,MMAC002,94,92,93,95,91,93.0,Excellent,78.7,100.0,2.0,Excellent,same
+Perak,Pantai Teluk Batik,MMAC003,78,89,92,95,95,89.9,Good,75.6,100.0,-5.1,Excellent,declining
+Perak,Pantai Tanjung Batu,MMAC004,93,94,93,96,92,93.4,Excellent,79.1,100.0,1.4,Excellent,same
+Perak,Pantai Teluk Rubiah,MMAC005,90,81,88,96,95,91.5,Excellent,77.2,100.0,-3.5,Excellent,same
+Perak,Pantai Damai Laut,MMAC006,94,91,93,95,91,92.9,Excellent,78.6,100.0,1.9,Excellent,same
+Perak,Pantai Teluk Senangin,MMAC007,90,93,95,95,92,92.7,Excellent,78.4,100.0,0.7,Excellent,same
+Perak,Pantai Pasir Panjang,MMAC008,91,95,94,95,96,94.2,Excellent,79.9,100.0,-1.8,Excellent,same
+Selangor,Pantai Bagan Lalang,MMBC001,84,84,89,86,91,87.3,Good,73.0,100.0,-3.7,Excellent,declining
+Selangor,Pantai Morib,MMBC002,68,84,88,85,72,77.4,Moderate,63.1,91.6,5.4,Moderate,same
+Selangor,Selat Pulau Babi,MMBC003,87,91,95,89,71,84.2,Good,69.9,98.5,13.2,Moderate,improving
+Selangor,Selat Klang Utara,MMBC004,62,56,79,56,55,60.5,Moderate,46.2,74.8,5.5,Moderate,same
+Selangor,Pantai Remis,MMBC005,83,79,92,84,80,83.2,Good,68.9,97.5,3.2,Good,same
+Selangor,Pantai Klanang,MMBC006,74,69,82,66,68,71.2,Moderate,56.9,85.5,3.2,Moderate,same
+N. Sembilan,Bagan Pinang,MMNC001,91,90,95,95,90,92.0,Excellent,77.7,100.0,2.0,Excellent,same
+N. Sembilan,Telok Sinting,MMNC002,87,94,89,91,90,89.8,Good,75.5,100.0,-0.2,Excellent,declining
+N. Sembilan,Port Dickson Bandar,MMNC003,88,88,93,95,91,91.1,Excellent,76.8,100.0,0.1,Excellent,same
+N. Sembilan,Port Dickson Batu 4,MMNC004,88,89,89,95,92,90.9,Excellent,76.6,100.0,-1.1,Excellent,same
+N. Sembilan,Port Dickson Batu 5,MMNC005,73,81,94,95,89,86.3,Good,72.0,100.0,-2.7,Good,same
+N. Sembilan,Port Dickson Batu 6,MMNC006,90,93,96,93,91,92.1,Excellent,77.8,100.0,1.1,Excellent,same
+N. Sembilan,Port Dickson Batu 7,MMNC007,93,95,94,93,92,93.1,Excellent,78.8,100.0,1.1,Excellent,same
+N. Sembilan,Port Dickson Batu 8,MMNC008,93,95,95,94,95,94.3,Excellent,80.0,100.0,-0.7,Excellent,same
+N. Sembilan,Port Dickson Batu 10,MMNC009,92,97,95,95,91,93.3,Excellent,79.0,100.0,2.3,Excellent,same
+N. Sembilan,Port Dickson Janakuasa TNB,MMNC010,70,90,93,95,91,87.0,Good,72.7,100.0,-4.0,Excellent,declining
+N. Sembilan,Telok Pelanduk,MMNC011,91,94,92,93,91,91.9,Excellent,77.6,100.0,0.9,Excellent,same
+N. Sembilan,Pantai Cermin,MMNC012,94,94,94,92,94,93.6,Excellent,79.3,100.0,-0.4,Excellent,same
+N. Sembilan,Pantai Teluk Kemang,MMNC013,91,95,95,94,94,93.5,Excellent,79.2,100.0,-0.5,Excellent,same
+N. Sembilan,Pantai Seri Purnama,MMNC014,92,96,92,95,95,93.9,Excellent,79.6,100.0,-1.1,Excellent,same
+Melaka,Pantai Rombang,MMMC001,88,88,91,93,87,89.2,Good,74.9,100.0,2.2,Good,same
+Melaka,Pantai Kundur,MMMC002,89,83,89,90,90,88.9,Good,74.6,100.0,-1.1,Excellent,declining
+Melaka,Pantai Tanjung Bidara,MMMC003,69,87,92,94,86,84.6,Good,70.3,98.9,-1.4,Good,same
+Melaka,Teluk Gong,MMMC004,60,90,90,92,85,81.7,Good,67.4,96.0,-3.3,Good,same
+Melaka,Pulau Melaka Point A1,MMMC005,89,83,88,88,82,85.9,Good,71.6,100.0,3.9,Good,same
+Melaka,Pulau Melaka Point A2,MMMC006,80,83,92,88,90,86.8,Good,72.5,100.0,-3.2,Excellent,declining
+Melaka,Pulau Melaka Point B1,MMMC007,58,57,54,57,59,57.4,Moderate,43.1,71.7,-1.6,Moderate,same
+Melaka,Pulau Melaka Point B2,MMMC008,57,57,55,56,58,56.8,Moderate,42.5,71.1,-1.2,Moderate,same
+Melaka,Pantai Klebang,MMMC009,87,89,88,85,91,88.1,Good,73.8,100.0,-2.9,Excellent,declining
+Johor,Tanjung Bin,MMJC001,90,91,93,93,87,90.3,Excellent,76.0,100.0,3.3,Good,improving
+Johor,Pelabuhan Tanjung Pelepas,MMJC002,91,82,80,92,86,87.2,Good,72.9,100.0,1.2,Good,same
+Johor,Hadapan Jabatan Laut,MMJC003,82,81,69,83,73,77.5,Moderate,63.2,91.8,4.5,Moderate,same
+Johor,Pantai Stulang Laut,MMJC004,56,55,56,55,53,54.8,Moderate,40.5,69.1,1.8,Moderate,same
+Johor,Jeti Teluk Jawa,MMJC005,70,59,64,79,59,66.6,Moderate,52.3,80.9,7.6,Moderate,same
+Johor,Pelabuhan Pasir Gudang,MMJC006,59,66,58,59,57,59.0,Moderate,44.7,73.3,2.0,Moderate,same
+Johor,Hadapan HSAJB,MMJC007,58,51,56,56,53,55.1,Moderate,40.8,69.4,2.1,Moderate,same
+Johor,Pantai Lido,MMJC008,54,50,55,54,52,53.1,Moderate,38.8,67.4,1.1,Moderate,same
+Johor,Pantai Teluk Mahkota,MMJC009,93,95,93,95,91,93.0,Excellent,78.7,100.0,2.0,Excellent,same
+Johor,Pantai Tanjung Leman,MMJC010,97,94,96,96,93,95.1,Excellent,80.8,100.0,2.1,Excellent,same
+Johor,Pantai Sri Pantai,MMJC011,91,95,97,96,94,94.2,Excellent,80.0,100.0,0.2,Excellent,same
+Johor,Tanjung Merak,MMJC012,85,89,92,95,90,90.0,Excellent,75.7,100.0,0.0,Excellent,same
+Johor,Tanjung Pengelih,MMJC013,92,88,94,95,92,92.5,Excellent,78.2,100.0,0.5,Excellent,same
+Johor,Pantai Tanjong Stapa,MMJC014,72,77,93,95,76,81.6,Good,67.3,95.9,5.6,Moderate,improving
+Johor,Pantai Teluk Gorek,MMJC015,93,93,95,96,94,94.2,Excellent,79.9,100.0,0.2,Excellent,same
+Johor,Pantai Air Papan,MMJC016,92,93,95,95,95,94.1,Excellent,79.8,100.0,-0.9,Excellent,same
+Johor,Jeti Kukup,MMJC017,62,83,70,76,77,72.8,Moderate,58.5,87.1,-4.2,Moderate,same
+Johor,Pasir Gogok,MMJC018,89,89,91,93,84,88.6,Good,74.3,100.0,4.6,Good,same
+Johor,Tanjung Buai,MMJC019,91,87,89,90,83,87.7,Good,73.4,100.0,4.7,Good,same
+Johor,Pantai Desaru,MMJC020,94,95,96,94,96,95.0,Excellent,80.7,100.0,-1.0,Excellent,same
+Johor,Tanjung Sepang,MMJC021,90,93,92,94,88,90.8,Excellent,76.6,100.0,2.8,Good,improving
+Johor,Tanjung Penyusup,MMJC022,93,93,95,94,93,93.5,Excellent,79.2,100.0,0.5,Excellent,same
+Johor,Pantai Sungai Lurus,MMJC023,88,85,94,94,84,88.6,Good,74.3,100.0,4.6,Good,same
+Johor,Punggur,MMJC024,90,79,95,81,74,82.9,Good,68.6,97.2,8.9,Moderate,improving
+Johor,Pantai Penyabung,MMJC025,95,96,94,95,95,95.0,Excellent,80.7,100.0,-0.0,Excellent,same
+Johor,Tanjung Resang,MMJC026,92,94,94,95,94,93.7,Excellent,79.4,100.0,-0.3,Excellent,same
+Johor,Tanjung Balau,MMJC027,94,94,97,96,94,94.9,Excellent,80.6,100.0,0.9,Excellent,same
+Johor,Batu Layar,MMJC028,92,95,97,96,94,94.5,Excellent,80.2,100.0,0.5,Excellent,same
+Johor,Tanjung Sengat,MMJC029,85,92,83,89,88,87.2,Good,72.9,100.0,-0.8,Good,same
+Pahang,Pantai Cherating (Club Med A),MMCC001,95,80,96,96,95,93.8,Excellent,79.5,100.0,-1.2,Excellent,same
+Pahang,Pantai Cherating (Club Med B),MMCC002,97,87,96,97,96,95.5,Excellent,81.2,100.0,-0.5,Excellent,same
+Pahang,Pantai Cherating (Legend A),MMCC003,93,93,96,95,94,94.2,Excellent,79.9,100.0,0.2,Excellent,same
+Pahang,Pantai Cherating (Legend B),MMCC004,95,94,96,97,96,95.8,Excellent,81.5,100.0,-0.2,Excellent,same
+Pahang,Pantai Muhibbah Balok A,MMCC005,90,93,96,94,93,92.9,Excellent,78.6,100.0,-0.1,Excellent,same
+Pahang,Pantai Muhibbah Balok B,MMCC006,74,90,92,94,72,81.9,Good,67.6,96.2,9.9,Moderate,improving
+Pahang,Pantai Batu Hitam A,MMCC007,92,93,92,95,93,93.0,Excellent,78.7,100.0,0.0,Excellent,same
+Pahang,Pantai Batu Hitam B,MMCC008,84,96,94,97,92,91.8,Excellent,77.5,100.0,-0.2,Excellent,same
+Pahang,Pantai Berserah A,MMCC009,93,93,93,95,96,94.3,Excellent,80.0,100.0,-1.7,Excellent,same
+Pahang,Pantai Berserah B,MMCC010,90,90,94,93,95,92.7,Excellent,78.4,100.0,-2.3,Excellent,same
+Pahang,Pantai Teluk Cempedak A,MMCC011,94,95,95,92,93,93.5,Excellent,79.2,100.0,0.5,Excellent,same
+Pahang,Pantai Teluk Cempedak B,MMCC012,93,95,96,87,95,93.0,Excellent,78.7,100.0,-2.0,Excellent,same
+Pahang,Pantai Teluk Gelora A,MMCC013,72,70,95,91,94,85.8,Good,71.5,100.0,-8.2,Excellent,declining
+Pahang,Pantai Teluk Gelora B,MMCC014,59,59,92,87,89,78.7,Moderate,64.4,93.0,-10.3,Good,declining
+Pahang,Pantai Sepat A,MMCC015,94,96,96,96,94,94.9,Excellent,80.6,100.0,0.9,Excellent,same
+Pahang,Pantai Sepat B,MMCC016,95,95,94,95,94,94.6,Excellent,80.3,100.0,0.6,Excellent,same
+Pahang,Pantai Legenda A,MMCC017,92,95,96,96,95,94.6,Excellent,80.3,100.0,-0.4,Excellent,same
+Pahang,Pantai Legenda B,MMCC018,92,95,97,96,96,95.1,Excellent,80.8,100.0,-0.9,Excellent,same
+Pahang,Pantai Kuala Api-Api,MMCC019,94,95,96,96,95,95.1,Excellent,80.8,100.0,0.1,Excellent,same
+Pahang,Pantai Tanjung Batu,MMCC020,94,92,96,95,96,94.9,Excellent,80.6,100.0,-1.1,Excellent,same
+Pahang,Pantai Chendor,MMCC021,92,84,95,96,95,93.4,Excellent,79.1,100.0,-1.6,Excellent,same
+Pahang,Pantai Lanjut,MMCC022,94,91,95,93,96,94.2,Excellent,79.9,100.0,-1.8,Excellent,same
+Terengganu,Pantai Batu Buruk,MMTC001,88,95,91,97,95,93.2,Excellent,78.9,100.0,-1.8,Excellent,same
+Terengganu,Pantai Bukit Keluang,MMTC002,96,95,96,96,95,95.6,Excellent,81.3,100.0,0.6,Excellent,same
+Terengganu,Pantai Chendering,MMTC003,95,95,97,96,93,94.9,Excellent,80.6,100.0,1.9,Excellent,same
+Terengganu,Pantai Rantau Abang,MMTC004,96,97,97,96,94,95.6,Excellent,81.4,100.0,1.6,Excellent,same
+Terengganu,KIPC Utara,MMTC005,95,94,96,96,96,95.6,Excellent,81.3,100.0,-0.4,Excellent,same
+Terengganu,KIPC Tengah,MMTC006,94,94,96,96,95,95.0,Excellent,80.7,100.0,0.0,Excellent,same
+Terengganu,KIPC Selatan,MMTC007,95,95,96,95,93,94.5,Excellent,80.3,100.0,1.5,Excellent,same
+Terengganu,Pantai Rhu 10,MMTC008,97,90,97,97,96,96.0,Excellent,81.7,100.0,-0.0,Excellent,same
+Terengganu,Pantai Tok Jembal,MMTC009,95,96,97,96,94,95.3,Excellent,81.0,100.0,1.3,Excellent,same
+Terengganu,Pantai Kelulut,MMTC010,96,97,97,96,89,94.1,Excellent,79.9,100.0,5.1,Good,improving
+Terengganu,Pantai Teluk Ketapang,MMTC011,96,96,97,96,95,95.8,Excellent,81.6,100.0,0.8,Excellent,same
+Terengganu,Pantai Kuala Abang,MMTC012,95,97,97,96,95,95.7,Excellent,81.4,100.0,0.7,Excellent,same
+Terengganu,Pantai Teluk Kalong,MMTC013,95,97,96,97,96,96.1,Excellent,81.8,100.0,0.1,Excellent,same
+Terengganu,Pantai Sura,MMTC014,94,96,97,96,92,94.5,Excellent,80.2,100.0,2.5,Excellent,same
+Terengganu,Pantai Tanjung Bidara,MMTC015,94,97,97,97,96,96.0,Excellent,81.7,100.0,-0.0,Excellent,same
+Terengganu,Pantai Kemasik,MMTC016,97,97,96,95,95,95.8,Excellent,81.5,100.0,0.8,Excellent,same
+Kelantan,Pantai Seri Tujuh,MMDC001,93,94,95,95,94,94.1,Excellent,79.8,100.0,0.1,Excellent,same
+Kelantan,Pantai Cahaya Bulan,MMDC002,95,95,96,97,95,95.6,Excellent,81.3,100.0,0.6,Excellent,same
+Kelantan,Pantai Sabak,MMDC003,95,95,96,96,93,94.8,Excellent,80.5,100.0,1.8,Excellent,same
+Kelantan,Pantai Irama Bachok,MMDC004,95,93,95,96,95,95.0,Excellent,80.7,100.0,0.0,Excellent,same
+Kelantan,Pantai Bisikan Bayu,MMDC005,95,94,96,96,95,95.3,Excellent,81.0,100.0,0.3,Excellent,same
+Kelantan,Pantai Melawi,MMDC006,95,95,95,96,95,95.2,Excellent,80.9,100.0,0.2,Excellent,same
+Sarawak,Pantai Sematan,MMQC001,93,90,66,68,79,79.3,Moderate,65.0,93.6,0.3,Moderate,same
+Sarawak,Pantai Pandan,MMQC002,92,86,62,60,75,75.2,Moderate,60.9,89.4,0.2,Moderate,same
+Sarawak,Pantai Pasir Putih,MMQC003,84,85,76,64,75,76.0,Moderate,61.7,90.3,1.0,Moderate,same
+Sarawak,Pantai Bako,MMQC004,89,91,70,63,80,78.3,Moderate,64.0,92.5,-1.7,Good,declining
+Sarawak,Pantai Damai,MMQC005,86,89,75,74,89,83.1,Good,68.8,97.4,-5.9,Good,same
+Sarawak,Pantai Tanjung Kembang,MMQC006,77,90,58,70,69,71.7,Moderate,57.4,86.0,2.7,Moderate,same
+Sarawak,Pantai Harmoni Mukah,MMQC007,67,73,76,78,73,73.1,Moderate,58.8,87.3,0.1,Moderate,same
+Sarawak,Pantai Tanjung Batu,MMQC008,81,74,58,68,66,69.7,Moderate,55.4,84.0,3.7,Moderate,same
+Sarawak,Pantai Likau,MMQC009,88,66,58,75,83,77.1,Moderate,62.8,91.4,-5.9,Good,declining
+Sarawak,Pantai Emas,MMQC010,75,66,58,72,76,71.2,Moderate,57.0,85.5,-4.8,Moderate,same
+Sarawak,Pantai Piasau,MMQC011,85,74,72,58,65,70.3,Moderate,56.0,84.6,5.3,Moderate,same
+Sarawak,Pantai Brighton,MMQC012,75,56,61,57,74,66.9,Moderate,52.6,81.2,-7.1,Moderate,same
+Sarawak,Pantai Esplaned,MMQC013,83,56,57,57,82,70.6,Moderate,56.3,84.9,-11.4,Good,declining
+Sarawak,Pantai Beraya,MMQC014,83,57,58,58,81,70.8,Moderate,56.5,85.1,-10.2,Good,declining
+Sarawak,Pantai Bungai,MMQC015,75,66,56,57,83,69.9,Moderate,55.6,84.2,-13.1,Good,declining
+Sarawak,Pantai Belawai,MMQC016,67,92,64,61,73,69.7,Moderate,55.4,84.0,-3.3,Moderate,same
+Sarawak,Pantai Mukah,MMQC017,89,89,76,75,79,81.1,Good,66.9,95.4,2.1,Moderate,improving
+Sarawak,Tanjung Kidurong,MMQC018,80,90,58,75,69,73.4,Moderate,59.2,87.7,4.4,Moderate,same
+Sarawak,Pasir Pandak,MMQC019,91,91,66,74,78,79.9,Moderate,65.6,94.1,1.9,Moderate,same
+Sarawak,Rambungan,MMQC020,93,83,71,76,82,81.9,Good,67.6,96.2,-0.1,Good,same
+Sarawak,Sri Tanjung Lawas,MMQC021,68,67,59,59,84,69.5,Moderate,55.2,83.8,-14.5,Good,declining
+Sarawak,Pantai Luak,MMQC022,84,56,57,57,70,67.3,Moderate,53.0,81.6,-2.7,Moderate,same
+Sarawak,Pasir Panjang,MMQC023,86,78,58,68,75,74.0,Moderate,59.7,88.3,-1.0,Moderate,same
+Sabah,Pantai Teluk Brunei 1,MMSC001,73,61,60,74,65,67.7,Moderate,53.4,82.0,2.7,Moderate,same
+Sabah,Pantai Teluk Brunei 2,MMSC002,84,67,59,75,79,75.2,Moderate,60.9,89.5,-3.8,Moderate,same
+Sabah,Pantai Teluk Brunei 3,MMSC003,75,67,59,66,67,67.5,Moderate,53.2,81.8,0.5,Moderate,same
+Sabah,Pantai Teluk Brunei 4,MMSC004,84,60,59,66,81,73.2,Moderate,58.9,87.5,-7.8,Good,declining
+Sabah,Pantai Teluk Brunei 5,MMSC005,69,59,59,59,74,65.9,Moderate,51.6,80.2,-8.1,Moderate,same
+Sabah,Pantai Teluk Brunei 6,MMSC006,58,59,59,74,89,70.9,Moderate,56.6,85.2,-18.1,Good,declining
+Sabah,Borneo Golf Seawater,MMSC007,59,67,59,71,81,68.9,Moderate,54.7,83.2,-12.1,Good,declining
+Sabah,Pantai Manis Papar,MMSC008,59,60,62,59,74,64.0,Moderate,49.8,78.3,-10.0,Moderate,same
+Sabah,Pantai Melinsung,MMSC009,70,59,65,60,60,63.0,Moderate,48.7,77.3,3.0,Moderate,same
+Sabah,Pantai Tanjung Aru (Roll Skating),MMSC010,65,57,58,61,87,68.9,Moderate,54.6,83.2,-18.1,Good,declining
+Sabah,Pantai Tanjung Aru (No. 3),MMSC011,76,57,59,64,87,72.3,Moderate,58.0,86.6,-14.7,Good,declining
+Sabah,Pantai Lok Kawi,MMSC012,65,58,59,58,83,67.3,Moderate,53.0,81.6,-15.7,Good,declining
+Sabah,Pantai Dalit Tuaran,MMSC013,58,58,59,74,59,61.8,Moderate,47.5,76.1,2.8,Moderate,same
+Sabah,Mangrove Paradise,MMSC014,58,58,61,72,66,63.8,Moderate,49.5,78.1,-2.2,Moderate,same
+Sabah,Pantai Sabandar,MMSC015,58,58,59,73,62,62.5,Moderate,48.2,76.8,0.5,Moderate,same
+Sabah,Pantai Bak-Bak Kudat,MMSC016,76,85,59,64,78,72.5,Moderate,58.2,86.8,-5.5,Moderate,same
+Sabah,Pasir Putih Sandakan,MMSC017,83,82,58,73,73,74.1,Moderate,59.8,88.4,1.1,Moderate,same
+Sabah,Pantai TLDM,MMSC018,75,62,59,89,79,75.5,Moderate,61.2,89.7,-3.5,Moderate,same
+Sabah,Pantai Batu Sapi,MMSC019,76,75,58,77,79,74.4,Moderate,60.1,88.7,-4.6,Moderate,same
+Sabah,Pantai Ulu Tungku,MMSC020,57,58,59,69,65,62.3,Moderate,48.0,76.6,-2.7,Moderate,same
+Sabah,Pantai Sarina Kunak,MMSC021,58,58,59,62,69,62.3,Moderate,48.0,76.6,-6.7,Moderate,same
+Sabah,Pantai Kg. Lamak,MMSC022,57,61,59,68,80,66.9,Moderate,52.6,81.2,-13.1,Good,declining
+Sabah,Pantai Tinagat,MMSC023,58,68,58,88,62,66.5,Moderate,52.2,80.8,4.5,Moderate,same
+Sabah,Pantai Tanjung Aru (Rest Lido),MMSC024,69,58,59,81,89,74.9,Moderate,60.6,89.2,-14.1,Good,declining
+W.P. Labuan,Pulau Papan,MMLC001,59,58,59,58,83,65.9,Moderate,51.6,80.2,-17.1,Good,declining
+W.P. Labuan,Kiamsam,MMLC002,58,58,59,72,79,67.4,Moderate,53.1,81.7,-11.6,Moderate,same
+W.P. Labuan,Sungai Pagar,MMLC003,58,59,59,76,75,67.1,Moderate,52.8,81.4,-7.9,Moderate,same
+W.P. Labuan,LayangLayangan,MMLC004,57,58,59,74,88,70.3,Moderate,56.0,84.6,-17.7,Good,declining
+W.P. Labuan,Tanjung Aru,MMLC005,59,60,59,65,71,64.0,Moderate,49.7,78.3,-7.0,Moderate,same

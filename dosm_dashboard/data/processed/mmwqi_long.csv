@@ -1,0 +1,1129 @@
+state,area,station,year,mmwqi,kind,lower_95,upper_95,category,state_canon
+Kedah,Pantai Merdeka,MMKC001,2021,85.0,actual,,,Good,Kedah
+Kedah,Langkawi Island Resort,MMKC002,2021,94.0,actual,,,Excellent,Kedah
+Kedah,Pantai Kok,MMKC003,2021,90.0,actual,,,Excellent,Kedah
+Kedah,Pantai Kuah,MMKC004,2021,88.0,actual,,,Good,Kedah
+Kedah,Pantai Pasir Tengkorak,MMKC005,2021,96.0,actual,,,Excellent,Kedah
+Kedah,Pantai Teluk Burau,MMKC006,2021,94.0,actual,,,Excellent,Kedah
+Kedah,Pantai Teluk Nibong,MMKC007,2021,86.0,actual,,,Good,Kedah
+Kedah,Pantai Tengah,MMKC008,2021,92.0,actual,,,Excellent,Kedah
+Kedah,Pantai Beras Basah,MMKC009,2021,92.0,actual,,,Excellent,Kedah
+P. Pinang,Gertak Sanggul,MMPC001,2021,81.0,actual,,,Good,Penang
+P. Pinang,Kawasan Perindustrian Bayan Lepas 1,MMPC002,2021,72.0,actual,,,Moderate,Penang
+P. Pinang,Pantai Bersih,MMPC003,2021,75.0,actual,,,Moderate,Penang
+P. Pinang,Pantai Miami,MMPC004,2021,70.0,actual,,,Moderate,Penang
+P. Pinang,Pantai Pasir Panjang,MMPC005,2021,93.0,actual,,,Excellent,Penang
+P. Pinang,Batu Feringgi (Casuarina),MMPC006,2021,83.0,actual,,,Good,Penang
+P. Pinang,Luar Pantai Teluk Bahang,MMPC007,2021,81.0,actual,,,Good,Penang
+P. Pinang,Persiaran Gurney,MMPC008,2021,60.0,actual,,,Moderate,Penang
+P. Pinang,Rumah Pam Baru Perai,MMPC009,2021,68.0,actual,,,Moderate,Penang
+P. Pinang,Rumah Pam Lama Perai,MMPC010,2021,65.0,actual,,,Moderate,Penang
+P. Pinang,Selat PP Selatan (Jelutong),MMPC011,2021,59.0,actual,,,Moderate,Penang
+P. Pinang,Tanjung Bungah,MMPC012,2021,67.0,actual,,,Moderate,Penang
+P. Pinang,Tanjung Bungah 2,MMPC013,2021,70.0,actual,,,Moderate,Penang
+P. Pinang,Batu Maung 2,MMPC014,2021,69.0,actual,,,Moderate,Penang
+P. Pinang,Pantai Sungai Batu Ferringhi 3,MMPC015,2021,86.0,actual,,,Good,Penang
+P. Pinang,Pantai Sungai Batu Ferringhi 2,MMPC016,2021,90.0,actual,,,Excellent,Penang
+P. Pinang,Pantai Sungai Batu Ferringhi 1,MMPC017,2021,91.0,actual,,,Excellent,Penang
+Perak,Pantai Pasir Bogak,MMAC001,2021,95.0,actual,,,Excellent,Perak
+Perak,Pantai Teluk Dalam,MMAC002,2021,94.0,actual,,,Excellent,Perak
+Perak,Pantai Teluk Batik,MMAC003,2021,78.0,actual,,,Moderate,Perak
+Perak,Pantai Tanjung Batu,MMAC004,2021,93.0,actual,,,Excellent,Perak
+Perak,Pantai Teluk Rubiah,MMAC005,2021,90.0,actual,,,Excellent,Perak
+Perak,Pantai Damai Laut,MMAC006,2021,94.0,actual,,,Excellent,Perak
+Perak,Pantai Teluk Senangin,MMAC007,2021,90.0,actual,,,Excellent,Perak
+Perak,Pantai Pasir Panjang,MMAC008,2021,91.0,actual,,,Excellent,Perak
+Selangor,Pantai Bagan Lalang,MMBC001,2021,84.0,actual,,,Good,Selangor
+Selangor,Pantai Morib,MMBC002,2021,68.0,actual,,,Moderate,Selangor
+Selangor,Selat Pulau Babi,MMBC003,2021,87.0,actual,,,Good,Selangor
+Selangor,Selat Klang Utara,MMBC004,2021,62.0,actual,,,Moderate,Selangor
+Selangor,Pantai Remis,MMBC005,2021,83.0,actual,,,Good,Selangor
+Selangor,Pantai Klanang,MMBC006,2021,74.0,actual,,,Moderate,Selangor
+N. Sembilan,Bagan Pinang,MMNC001,2021,91.0,actual,,,Excellent,Negeri Sembilan
+N. Sembilan,Telok Sinting,MMNC002,2021,87.0,actual,,,Good,Negeri Sembilan
+N. Sembilan,Port Dickson Bandar,MMNC003,2021,88.0,actual,,,Good,Negeri Sembilan
+N. Sembilan,Port Dickson Batu 4,MMNC004,2021,88.0,actual,,,Good,Negeri Sembilan
+N. Sembilan,Port Dickson Batu 5,MMNC005,2021,73.0,actual,,,Moderate,Negeri Sembilan
+N. Sembilan,Port Dickson Batu 6,MMNC006,2021,90.0,actual,,,Excellent,Negeri Sembilan
+N. Sembilan,Port Dickson Batu 7,MMNC007,2021,93.0,actual,,,Excellent,Negeri Sembilan
+N. Sembilan,Port Dickson Batu 8,MMNC008,2021,93.0,actual,,,Excellent,Negeri Sembilan
+N. Sembilan,Port Dickson Batu 10,MMNC009,2021,92.0,actual,,,Excellent,Negeri Sembilan
+N. Sembilan,Port Dickson Janakuasa TNB,MMNC010,2021,70.0,actual,,,Moderate,Negeri Sembilan
+N. Sembilan,Telok Pelanduk,MMNC011,2021,91.0,actual,,,Excellent,Negeri Sembilan
+N. Sembilan,Pantai Cermin,MMNC012,2021,94.0,actual,,,Excellent,Negeri Sembilan
+N. Sembilan,Pantai Teluk Kemang,MMNC013,2021,91.0,actual,,,Excellent,Negeri Sembilan
+N. Sembilan,Pantai Seri Purnama,MMNC014,2021,92.0,actual,,,Excellent,Negeri Sembilan
+Melaka,Pantai Rombang,MMMC001,2021,88.0,actual,,,Good,Malacca
+Melaka,Pantai Kundur,MMMC002,2021,89.0,actual,,,Good,Malacca
+Melaka,Pantai Tanjung Bidara,MMMC003,2021,69.0,actual,,,Moderate,Malacca
+Melaka,Teluk Gong,MMMC004,2021,60.0,actual,,,Moderate,Malacca
+Melaka,Pulau Melaka Point A1,MMMC005,2021,89.0,actual,,,Good,Malacca
+Melaka,Pulau Melaka Point A2,MMMC006,2021,80.0,actual,,,Good,Malacca
+Melaka,Pulau Melaka Point B1,MMMC007,2021,58.0,actual,,,Moderate,Malacca
+Melaka,Pulau Melaka Point B2,MMMC008,2021,57.0,actual,,,Moderate,Malacca
+Melaka,Pantai Klebang,MMMC009,2021,87.0,actual,,,Good,Malacca
+Johor,Tanjung Bin,MMJC001,2021,90.0,actual,,,Excellent,Johor
+Johor,Pelabuhan Tanjung Pelepas,MMJC002,2021,91.0,actual,,,Excellent,Johor
+Johor,Hadapan Jabatan Laut,MMJC003,2021,82.0,actual,,,Good,Johor
+Johor,Pantai Stulang Laut,MMJC004,2021,56.0,actual,,,Moderate,Johor
+Johor,Jeti Teluk Jawa,MMJC005,2021,70.0,actual,,,Moderate,Johor
+Johor,Pelabuhan Pasir Gudang,MMJC006,2021,59.0,actual,,,Moderate,Johor
+Johor,Hadapan HSAJB,MMJC007,2021,58.0,actual,,,Moderate,Johor
+Johor,Pantai Lido,MMJC008,2021,54.0,actual,,,Moderate,Johor
+Johor,Pantai Teluk Mahkota,MMJC009,2021,93.0,actual,,,Excellent,Johor
+Johor,Pantai Tanjung Leman,MMJC010,2021,97.0,actual,,,Excellent,Johor
+Johor,Pantai Sri Pantai,MMJC011,2021,91.0,actual,,,Excellent,Johor
+Johor,Tanjung Merak,MMJC012,2021,85.0,actual,,,Good,Johor
+Johor,Tanjung Pengelih,MMJC013,2021,92.0,actual,,,Excellent,Johor
+Johor,Pantai Tanjong Stapa,MMJC014,2021,72.0,actual,,,Moderate,Johor
+Johor,Pantai Teluk Gorek,MMJC015,2021,93.0,actual,,,Excellent,Johor
+Johor,Pantai Air Papan,MMJC016,2021,92.0,actual,,,Excellent,Johor
+Johor,Jeti Kukup,MMJC017,2021,62.0,actual,,,Moderate,Johor
+Johor,Pasir Gogok,MMJC018,2021,89.0,actual,,,Good,Johor
+Johor,Tanjung Buai,MMJC019,2021,91.0,actual,,,Excellent,Johor
+Johor,Pantai Desaru,MMJC020,2021,94.0,actual,,,Excellent,Johor
+Johor,Tanjung Sepang,MMJC021,2021,90.0,actual,,,Excellent,Johor
+Johor,Tanjung Penyusup,MMJC022,2021,93.0,actual,,,Excellent,Johor
+Johor,Pantai Sungai Lurus,MMJC023,2021,88.0,actual,,,Good,Johor
+Johor,Punggur,MMJC024,2021,90.0,actual,,,Excellent,Johor
+Johor,Pantai Penyabung,MMJC025,2021,95.0,actual,,,Excellent,Johor
+Johor,Tanjung Resang,MMJC026,2021,92.0,actual,,,Excellent,Johor
+Johor,Tanjung Balau,MMJC027,2021,94.0,actual,,,Excellent,Johor
+Johor,Batu Layar,MMJC028,2021,92.0,actual,,,Excellent,Johor
+Johor,Tanjung Sengat,MMJC029,2021,85.0,actual,,,Good,Johor
+Pahang,Pantai Cherating (Club Med A),MMCC001,2021,95.0,actual,,,Excellent,Pahang
+Pahang,Pantai Cherating (Club Med B),MMCC002,2021,97.0,actual,,,Excellent,Pahang
+Pahang,Pantai Cherating (Legend A),MMCC003,2021,93.0,actual,,,Excellent,Pahang
+Pahang,Pantai Cherating (Legend B),MMCC004,2021,95.0,actual,,,Excellent,Pahang
+Pahang,Pantai Muhibbah Balok A,MMCC005,2021,90.0,actual,,,Excellent,Pahang
+Pahang,Pantai Muhibbah Balok B,MMCC006,2021,74.0,actual,,,Moderate,Pahang
+Pahang,Pantai Batu Hitam A,MMCC007,2021,92.0,actual,,,Excellent,Pahang
+Pahang,Pantai Batu Hitam B,MMCC008,2021,84.0,actual,,,Good,Pahang
+Pahang,Pantai Berserah A,MMCC009,2021,93.0,actual,,,Excellent,Pahang
+Pahang,Pantai Berserah B,MMCC010,2021,90.0,actual,,,Excellent,Pahang
+Pahang,Pantai Teluk Cempedak A,MMCC011,2021,94.0,actual,,,Excellent,Pahang
+Pahang,Pantai Teluk Cempedak B,MMCC012,2021,93.0,actual,,,Excellent,Pahang
+Pahang,Pantai Teluk Gelora A,MMCC013,2021,72.0,actual,,,Moderate,Pahang
+Pahang,Pantai Teluk Gelora B,MMCC014,2021,59.0,actual,,,Moderate,Pahang
+Pahang,Pantai Sepat A,MMCC015,2021,94.0,actual,,,Excellent,Pahang
+Pahang,Pantai Sepat B,MMCC016,2021,95.0,actual,,,Excellent,Pahang
+Pahang,Pantai Legenda A,MMCC017,2021,92.0,actual,,,Excellent,Pahang
+Pahang,Pantai Legenda B,MMCC018,2021,92.0,actual,,,Excellent,Pahang
+Pahang,Pantai Kuala Api-Api,MMCC019,2021,94.0,actual,,,Excellent,Pahang
+Pahang,Pantai Tanjung Batu,MMCC020,2021,94.0,actual,,,Excellent,Pahang
+Pahang,Pantai Chendor,MMCC021,2021,92.0,actual,,,Excellent,Pahang
+Pahang,Pantai Lanjut,MMCC022,2021,94.0,actual,,,Excellent,Pahang
+Terengganu,Pantai Batu Buruk,MMTC001,2021,88.0,actual,,,Good,Terengganu
+Terengganu,Pantai Bukit Keluang,MMTC002,2021,96.0,actual,,,Excellent,Terengganu
+Terengganu,Pantai Chendering,MMTC003,2021,95.0,actual,,,Excellent,Terengganu
+Terengganu,Pantai Rantau Abang,MMTC004,2021,96.0,actual,,,Excellent,Terengganu
+Terengganu,KIPC Utara,MMTC005,2021,95.0,actual,,,Excellent,Terengganu
+Terengganu,KIPC Tengah,MMTC006,2021,94.0,actual,,,Excellent,Terengganu
+Terengganu,KIPC Selatan,MMTC007,2021,95.0,actual,,,Excellent,Terengganu
+Terengganu,Pantai Rhu 10,MMTC008,2021,97.0,actual,,,Excellent,Terengganu
+Terengganu,Pantai Tok Jembal,MMTC009,2021,95.0,actual,,,Excellent,Terengganu
+Terengganu,Pantai Kelulut,MMTC010,2021,96.0,actual,,,Excellent,Terengganu
+Terengganu,Pantai Teluk Ketapang,MMTC011,2021,96.0,actual,,,Excellent,Terengganu
+Terengganu,Pantai Kuala Abang,MMTC012,2021,95.0,actual,,,Excellent,Terengganu
+Terengganu,Pantai Teluk Kalong,MMTC013,2021,95.0,actual,,,Excellent,Terengganu
+Terengganu,Pantai Sura,MMTC014,2021,94.0,actual,,,Excellent,Terengganu
+Terengganu,Pantai Tanjung Bidara,MMTC015,2021,94.0,actual,,,Excellent,Terengganu
+Terengganu,Pantai Kemasik,MMTC016,2021,97.0,actual,,,Excellent,Terengganu
+Kelantan,Pantai Seri Tujuh,MMDC001,2021,93.0,actual,,,Excellent,Kelantan
+Kelantan,Pantai Cahaya Bulan,MMDC002,2021,95.0,actual,,,Excellent,Kelantan
+Kelantan,Pantai Sabak,MMDC003,2021,95.0,actual,,,Excellent,Kelantan
+Kelantan,Pantai Irama Bachok,MMDC004,2021,95.0,actual,,,Excellent,Kelantan
+Kelantan,Pantai Bisikan Bayu,MMDC005,2021,95.0,actual,,,Excellent,Kelantan
+Kelantan,Pantai Melawi,MMDC006,2021,95.0,actual,,,Excellent,Kelantan
+Sarawak,Pantai Sematan,MMQC001,2021,93.0,actual,,,Excellent,Sarawak
+Sarawak,Pantai Pandan,MMQC002,2021,92.0,actual,,,Excellent,Sarawak
+Sarawak,Pantai Pasir Putih,MMQC003,2021,84.0,actual,,,Good,Sarawak
+Sarawak,Pantai Bako,MMQC004,2021,89.0,actual,,,Good,Sarawak
+Sarawak,Pantai Damai,MMQC005,2021,86.0,actual,,,Good,Sarawak
+Sarawak,Pantai Tanjung Kembang,MMQC006,2021,77.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Harmoni Mukah,MMQC007,2021,67.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Tanjung Batu,MMQC008,2021,81.0,actual,,,Good,Sarawak
+Sarawak,Pantai Likau,MMQC009,2021,88.0,actual,,,Good,Sarawak
+Sarawak,Pantai Emas,MMQC010,2021,75.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Piasau,MMQC011,2021,85.0,actual,,,Good,Sarawak
+Sarawak,Pantai Brighton,MMQC012,2021,75.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Esplaned,MMQC013,2021,83.0,actual,,,Good,Sarawak
+Sarawak,Pantai Beraya,MMQC014,2021,83.0,actual,,,Good,Sarawak
+Sarawak,Pantai Bungai,MMQC015,2021,75.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Belawai,MMQC016,2021,67.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Mukah,MMQC017,2021,89.0,actual,,,Good,Sarawak
+Sarawak,Tanjung Kidurong,MMQC018,2021,80.0,actual,,,Good,Sarawak
+Sarawak,Pasir Pandak,MMQC019,2021,91.0,actual,,,Excellent,Sarawak
+Sarawak,Rambungan,MMQC020,2021,93.0,actual,,,Excellent,Sarawak
+Sarawak,Sri Tanjung Lawas,MMQC021,2021,68.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Luak,MMQC022,2021,84.0,actual,,,Good,Sarawak
+Sarawak,Pasir Panjang,MMQC023,2021,86.0,actual,,,Good,Sarawak
+Sabah,Pantai Teluk Brunei 1,MMSC001,2021,73.0,actual,,,Moderate,Sabah
+Sabah,Pantai Teluk Brunei 2,MMSC002,2021,84.0,actual,,,Good,Sabah
+Sabah,Pantai Teluk Brunei 3,MMSC003,2021,75.0,actual,,,Moderate,Sabah
+Sabah,Pantai Teluk Brunei 4,MMSC004,2021,84.0,actual,,,Good,Sabah
+Sabah,Pantai Teluk Brunei 5,MMSC005,2021,69.0,actual,,,Moderate,Sabah
+Sabah,Pantai Teluk Brunei 6,MMSC006,2021,58.0,actual,,,Moderate,Sabah
+Sabah,Borneo Golf Seawater,MMSC007,2021,59.0,actual,,,Moderate,Sabah
+Sabah,Pantai Manis Papar,MMSC008,2021,59.0,actual,,,Moderate,Sabah
+Sabah,Pantai Melinsung,MMSC009,2021,70.0,actual,,,Moderate,Sabah
+Sabah,Pantai Tanjung Aru (Roll Skating),MMSC010,2021,65.0,actual,,,Moderate,Sabah
+Sabah,Pantai Tanjung Aru (No. 3),MMSC011,2021,76.0,actual,,,Moderate,Sabah
+Sabah,Pantai Lok Kawi,MMSC012,2021,65.0,actual,,,Moderate,Sabah
+Sabah,Pantai Dalit Tuaran,MMSC013,2021,58.0,actual,,,Moderate,Sabah
+Sabah,Mangrove Paradise,MMSC014,2021,58.0,actual,,,Moderate,Sabah
+Sabah,Pantai Sabandar,MMSC015,2021,58.0,actual,,,Moderate,Sabah
+Sabah,Pantai Bak-Bak Kudat,MMSC016,2021,76.0,actual,,,Moderate,Sabah
+Sabah,Pasir Putih Sandakan,MMSC017,2021,83.0,actual,,,Good,Sabah
+Sabah,Pantai TLDM,MMSC018,2021,75.0,actual,,,Moderate,Sabah
+Sabah,Pantai Batu Sapi,MMSC019,2021,76.0,actual,,,Moderate,Sabah
+Sabah,Pantai Ulu Tungku,MMSC020,2021,57.0,actual,,,Moderate,Sabah
+Sabah,Pantai Sarina Kunak,MMSC021,2021,58.0,actual,,,Moderate,Sabah
+Sabah,Pantai Kg. Lamak,MMSC022,2021,57.0,actual,,,Moderate,Sabah
+Sabah,Pantai Tinagat,MMSC023,2021,58.0,actual,,,Moderate,Sabah
+Sabah,Pantai Tanjung Aru (Rest Lido),MMSC024,2021,69.0,actual,,,Moderate,Sabah
+W.P. Labuan,Pulau Papan,MMLC001,2021,59.0,actual,,,Moderate,Labuan
+W.P. Labuan,Kiamsam,MMLC002,2021,58.0,actual,,,Moderate,Labuan
+W.P. Labuan,Sungai Pagar,MMLC003,2021,58.0,actual,,,Moderate,Labuan
+W.P. Labuan,LayangLayangan,MMLC004,2021,57.0,actual,,,Moderate,Labuan
+W.P. Labuan,Tanjung Aru,MMLC005,2021,59.0,actual,,,Moderate,Labuan
+Kedah,Pantai Merdeka,MMKC001,2022,88.0,actual,,,Good,Kedah
+Kedah,Langkawi Island Resort,MMKC002,2022,94.0,actual,,,Excellent,Kedah
+Kedah,Pantai Kok,MMKC003,2022,83.0,actual,,,Good,Kedah
+Kedah,Pantai Kuah,MMKC004,2022,90.0,actual,,,Excellent,Kedah
+Kedah,Pantai Pasir Tengkorak,MMKC005,2022,93.0,actual,,,Excellent,Kedah
+Kedah,Pantai Teluk Burau,MMKC006,2022,86.0,actual,,,Good,Kedah
+Kedah,Pantai Teluk Nibong,MMKC007,2022,92.0,actual,,,Excellent,Kedah
+Kedah,Pantai Tengah,MMKC008,2022,92.0,actual,,,Excellent,Kedah
+Kedah,Pantai Beras Basah,MMKC009,2022,96.0,actual,,,Excellent,Kedah
+P. Pinang,Gertak Sanggul,MMPC001,2022,83.0,actual,,,Good,Penang
+P. Pinang,Kawasan Perindustrian Bayan Lepas 1,MMPC002,2022,60.0,actual,,,Moderate,Penang
+P. Pinang,Pantai Bersih,MMPC003,2022,86.0,actual,,,Good,Penang
+P. Pinang,Pantai Miami,MMPC004,2022,86.0,actual,,,Good,Penang
+P. Pinang,Pantai Pasir Panjang,MMPC005,2022,95.0,actual,,,Excellent,Penang
+P. Pinang,Batu Feringgi (Casuarina),MMPC006,2022,82.0,actual,,,Good,Penang
+P. Pinang,Luar Pantai Teluk Bahang,MMPC007,2022,88.0,actual,,,Good,Penang
+P. Pinang,Persiaran Gurney,MMPC008,2022,79.0,actual,,,Moderate,Penang
+P. Pinang,Rumah Pam Baru Perai,MMPC009,2022,76.0,actual,,,Moderate,Penang
+P. Pinang,Rumah Pam Lama Perai,MMPC010,2022,59.0,actual,,,Moderate,Penang
+P. Pinang,Selat PP Selatan (Jelutong),MMPC011,2022,59.0,actual,,,Moderate,Penang
+P. Pinang,Tanjung Bungah,MMPC012,2022,72.0,actual,,,Moderate,Penang
+P. Pinang,Tanjung Bungah 2,MMPC013,2022,63.0,actual,,,Moderate,Penang
+P. Pinang,Batu Maung 2,MMPC014,2022,58.0,actual,,,Moderate,Penang
+P. Pinang,Pantai Sungai Batu Ferringhi 3,MMPC015,2022,92.0,actual,,,Excellent,Penang
+P. Pinang,Pantai Sungai Batu Ferringhi 2,MMPC016,2022,94.0,actual,,,Excellent,Penang
+P. Pinang,Pantai Sungai Batu Ferringhi 1,MMPC017,2022,91.0,actual,,,Excellent,Penang
+Perak,Pantai Pasir Bogak,MMAC001,2022,94.0,actual,,,Excellent,Perak
+Perak,Pantai Teluk Dalam,MMAC002,2022,92.0,actual,,,Excellent,Perak
+Perak,Pantai Teluk Batik,MMAC003,2022,89.0,actual,,,Good,Perak
+Perak,Pantai Tanjung Batu,MMAC004,2022,94.0,actual,,,Excellent,Perak
+Perak,Pantai Teluk Rubiah,MMAC005,2022,81.0,actual,,,Good,Perak
+Perak,Pantai Damai Laut,MMAC006,2022,91.0,actual,,,Excellent,Perak
+Perak,Pantai Teluk Senangin,MMAC007,2022,93.0,actual,,,Excellent,Perak
+Perak,Pantai Pasir Panjang,MMAC008,2022,95.0,actual,,,Excellent,Perak
+Selangor,Pantai Bagan Lalang,MMBC001,2022,84.0,actual,,,Good,Selangor
+Selangor,Pantai Morib,MMBC002,2022,84.0,actual,,,Good,Selangor
+Selangor,Selat Pulau Babi,MMBC003,2022,91.0,actual,,,Excellent,Selangor
+Selangor,Selat Klang Utara,MMBC004,2022,56.0,actual,,,Moderate,Selangor
+Selangor,Pantai Remis,MMBC005,2022,79.0,actual,,,Moderate,Selangor
+Selangor,Pantai Klanang,MMBC006,2022,69.0,actual,,,Moderate,Selangor
+N. Sembilan,Bagan Pinang,MMNC001,2022,90.0,actual,,,Excellent,Negeri Sembilan
+N. Sembilan,Telok Sinting,MMNC002,2022,94.0,actual,,,Excellent,Negeri Sembilan
+N. Sembilan,Port Dickson Bandar,MMNC003,2022,88.0,actual,,,Good,Negeri Sembilan
+N. Sembilan,Port Dickson Batu 4,MMNC004,2022,89.0,actual,,,Good,Negeri Sembilan
+N. Sembilan,Port Dickson Batu 5,MMNC005,2022,81.0,actual,,,Good,Negeri Sembilan
+N. Sembilan,Port Dickson Batu 6,MMNC006,2022,93.0,actual,,,Excellent,Negeri Sembilan
+N. Sembilan,Port Dickson Batu 7,MMNC007,2022,95.0,actual,,,Excellent,Negeri Sembilan
+N. Sembilan,Port Dickson Batu 8,MMNC008,2022,95.0,actual,,,Excellent,Negeri Sembilan
+N. Sembilan,Port Dickson Batu 10,MMNC009,2022,97.0,actual,,,Excellent,Negeri Sembilan
+N. Sembilan,Port Dickson Janakuasa TNB,MMNC010,2022,90.0,actual,,,Excellent,Negeri Sembilan
+N. Sembilan,Telok Pelanduk,MMNC011,2022,94.0,actual,,,Excellent,Negeri Sembilan
+N. Sembilan,Pantai Cermin,MMNC012,2022,94.0,actual,,,Excellent,Negeri Sembilan
+N. Sembilan,Pantai Teluk Kemang,MMNC013,2022,95.0,actual,,,Excellent,Negeri Sembilan
+N. Sembilan,Pantai Seri Purnama,MMNC014,2022,96.0,actual,,,Excellent,Negeri Sembilan
+Melaka,Pantai Rombang,MMMC001,2022,88.0,actual,,,Good,Malacca
+Melaka,Pantai Kundur,MMMC002,2022,83.0,actual,,,Good,Malacca
+Melaka,Pantai Tanjung Bidara,MMMC003,2022,87.0,actual,,,Good,Malacca
+Melaka,Teluk Gong,MMMC004,2022,90.0,actual,,,Excellent,Malacca
+Melaka,Pulau Melaka Point A1,MMMC005,2022,83.0,actual,,,Good,Malacca
+Melaka,Pulau Melaka Point A2,MMMC006,2022,83.0,actual,,,Good,Malacca
+Melaka,Pulau Melaka Point B1,MMMC007,2022,57.0,actual,,,Moderate,Malacca
+Melaka,Pulau Melaka Point B2,MMMC008,2022,57.0,actual,,,Moderate,Malacca
+Melaka,Pantai Klebang,MMMC009,2022,89.0,actual,,,Good,Malacca
+Johor,Tanjung Bin,MMJC001,2022,91.0,actual,,,Excellent,Johor
+Johor,Pelabuhan Tanjung Pelepas,MMJC002,2022,82.0,actual,,,Good,Johor
+Johor,Hadapan Jabatan Laut,MMJC003,2022,81.0,actual,,,Good,Johor
+Johor,Pantai Stulang Laut,MMJC004,2022,55.0,actual,,,Moderate,Johor
+Johor,Jeti Teluk Jawa,MMJC005,2022,59.0,actual,,,Moderate,Johor
+Johor,Pelabuhan Pasir Gudang,MMJC006,2022,66.0,actual,,,Moderate,Johor
+Johor,Hadapan HSAJB,MMJC007,2022,51.0,actual,,,Moderate,Johor
+Johor,Pantai Lido,MMJC008,2022,50.0,actual,,,Poor,Johor
+Johor,Pantai Teluk Mahkota,MMJC009,2022,95.0,actual,,,Excellent,Johor
+Johor,Pantai Tanjung Leman,MMJC010,2022,94.0,actual,,,Excellent,Johor
+Johor,Pantai Sri Pantai,MMJC011,2022,95.0,actual,,,Excellent,Johor
+Johor,Tanjung Merak,MMJC012,2022,89.0,actual,,,Good,Johor
+Johor,Tanjung Pengelih,MMJC013,2022,88.0,actual,,,Good,Johor
+Johor,Pantai Tanjong Stapa,MMJC014,2022,77.0,actual,,,Moderate,Johor
+Johor,Pantai Teluk Gorek,MMJC015,2022,93.0,actual,,,Excellent,Johor
+Johor,Pantai Air Papan,MMJC016,2022,93.0,actual,,,Excellent,Johor
+Johor,Jeti Kukup,MMJC017,2022,83.0,actual,,,Good,Johor
+Johor,Pasir Gogok,MMJC018,2022,89.0,actual,,,Good,Johor
+Johor,Tanjung Buai,MMJC019,2022,87.0,actual,,,Good,Johor
+Johor,Pantai Desaru,MMJC020,2022,95.0,actual,,,Excellent,Johor
+Johor,Tanjung Sepang,MMJC021,2022,93.0,actual,,,Excellent,Johor
+Johor,Tanjung Penyusup,MMJC022,2022,93.0,actual,,,Excellent,Johor
+Johor,Pantai Sungai Lurus,MMJC023,2022,85.0,actual,,,Good,Johor
+Johor,Punggur,MMJC024,2022,79.0,actual,,,Moderate,Johor
+Johor,Pantai Penyabung,MMJC025,2022,96.0,actual,,,Excellent,Johor
+Johor,Tanjung Resang,MMJC026,2022,94.0,actual,,,Excellent,Johor
+Johor,Tanjung Balau,MMJC027,2022,94.0,actual,,,Excellent,Johor
+Johor,Batu Layar,MMJC028,2022,95.0,actual,,,Excellent,Johor
+Johor,Tanjung Sengat,MMJC029,2022,92.0,actual,,,Excellent,Johor
+Pahang,Pantai Cherating (Club Med A),MMCC001,2022,80.0,actual,,,Good,Pahang
+Pahang,Pantai Cherating (Club Med B),MMCC002,2022,87.0,actual,,,Good,Pahang
+Pahang,Pantai Cherating (Legend A),MMCC003,2022,93.0,actual,,,Excellent,Pahang
+Pahang,Pantai Cherating (Legend B),MMCC004,2022,94.0,actual,,,Excellent,Pahang
+Pahang,Pantai Muhibbah Balok A,MMCC005,2022,93.0,actual,,,Excellent,Pahang
+Pahang,Pantai Muhibbah Balok B,MMCC006,2022,90.0,actual,,,Excellent,Pahang
+Pahang,Pantai Batu Hitam A,MMCC007,2022,93.0,actual,,,Excellent,Pahang
+Pahang,Pantai Batu Hitam B,MMCC008,2022,96.0,actual,,,Excellent,Pahang
+Pahang,Pantai Berserah A,MMCC009,2022,93.0,actual,,,Excellent,Pahang
+Pahang,Pantai Berserah B,MMCC010,2022,90.0,actual,,,Excellent,Pahang
+Pahang,Pantai Teluk Cempedak A,MMCC011,2022,95.0,actual,,,Excellent,Pahang
+Pahang,Pantai Teluk Cempedak B,MMCC012,2022,95.0,actual,,,Excellent,Pahang
+Pahang,Pantai Teluk Gelora A,MMCC013,2022,70.0,actual,,,Moderate,Pahang
+Pahang,Pantai Teluk Gelora B,MMCC014,2022,59.0,actual,,,Moderate,Pahang
+Pahang,Pantai Sepat A,MMCC015,2022,96.0,actual,,,Excellent,Pahang
+Pahang,Pantai Sepat B,MMCC016,2022,95.0,actual,,,Excellent,Pahang
+Pahang,Pantai Legenda A,MMCC017,2022,95.0,actual,,,Excellent,Pahang
+Pahang,Pantai Legenda B,MMCC018,2022,95.0,actual,,,Excellent,Pahang
+Pahang,Pantai Kuala Api-Api,MMCC019,2022,95.0,actual,,,Excellent,Pahang
+Pahang,Pantai Tanjung Batu,MMCC020,2022,92.0,actual,,,Excellent,Pahang
+Pahang,Pantai Chendor,MMCC021,2022,84.0,actual,,,Good,Pahang
+Pahang,Pantai Lanjut,MMCC022,2022,91.0,actual,,,Excellent,Pahang
+Terengganu,Pantai Batu Buruk,MMTC001,2022,95.0,actual,,,Excellent,Terengganu
+Terengganu,Pantai Bukit Keluang,MMTC002,2022,95.0,actual,,,Excellent,Terengganu
+Terengganu,Pantai Chendering,MMTC003,2022,95.0,actual,,,Excellent,Terengganu
+Terengganu,Pantai Rantau Abang,MMTC004,2022,97.0,actual,,,Excellent,Terengganu
+Terengganu,KIPC Utara,MMTC005,2022,94.0,actual,,,Excellent,Terengganu
+Terengganu,KIPC Tengah,MMTC006,2022,94.0,actual,,,Excellent,Terengganu
+Terengganu,KIPC Selatan,MMTC007,2022,95.0,actual,,,Excellent,Terengganu
+Terengganu,Pantai Rhu 10,MMTC008,2022,90.0,actual,,,Excellent,Terengganu
+Terengganu,Pantai Tok Jembal,MMTC009,2022,96.0,actual,,,Excellent,Terengganu
+Terengganu,Pantai Kelulut,MMTC010,2022,97.0,actual,,,Excellent,Terengganu
+Terengganu,Pantai Teluk Ketapang,MMTC011,2022,96.0,actual,,,Excellent,Terengganu
+Terengganu,Pantai Kuala Abang,MMTC012,2022,97.0,actual,,,Excellent,Terengganu
+Terengganu,Pantai Teluk Kalong,MMTC013,2022,97.0,actual,,,Excellent,Terengganu
+Terengganu,Pantai Sura,MMTC014,2022,96.0,actual,,,Excellent,Terengganu
+Terengganu,Pantai Tanjung Bidara,MMTC015,2022,97.0,actual,,,Excellent,Terengganu
+Terengganu,Pantai Kemasik,MMTC016,2022,97.0,actual,,,Excellent,Terengganu
+Kelantan,Pantai Seri Tujuh,MMDC001,2022,94.0,actual,,,Excellent,Kelantan
+Kelantan,Pantai Cahaya Bulan,MMDC002,2022,95.0,actual,,,Excellent,Kelantan
+Kelantan,Pantai Sabak,MMDC003,2022,95.0,actual,,,Excellent,Kelantan
+Kelantan,Pantai Irama Bachok,MMDC004,2022,93.0,actual,,,Excellent,Kelantan
+Kelantan,Pantai Bisikan Bayu,MMDC005,2022,94.0,actual,,,Excellent,Kelantan
+Kelantan,Pantai Melawi,MMDC006,2022,95.0,actual,,,Excellent,Kelantan
+Sarawak,Pantai Sematan,MMQC001,2022,90.0,actual,,,Excellent,Sarawak
+Sarawak,Pantai Pandan,MMQC002,2022,86.0,actual,,,Good,Sarawak
+Sarawak,Pantai Pasir Putih,MMQC003,2022,85.0,actual,,,Good,Sarawak
+Sarawak,Pantai Bako,MMQC004,2022,91.0,actual,,,Excellent,Sarawak
+Sarawak,Pantai Damai,MMQC005,2022,89.0,actual,,,Good,Sarawak
+Sarawak,Pantai Tanjung Kembang,MMQC006,2022,90.0,actual,,,Excellent,Sarawak
+Sarawak,Pantai Harmoni Mukah,MMQC007,2022,73.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Tanjung Batu,MMQC008,2022,74.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Likau,MMQC009,2022,66.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Emas,MMQC010,2022,66.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Piasau,MMQC011,2022,74.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Brighton,MMQC012,2022,56.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Esplaned,MMQC013,2022,56.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Beraya,MMQC014,2022,57.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Bungai,MMQC015,2022,66.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Belawai,MMQC016,2022,92.0,actual,,,Excellent,Sarawak
+Sarawak,Pantai Mukah,MMQC017,2022,89.0,actual,,,Good,Sarawak
+Sarawak,Tanjung Kidurong,MMQC018,2022,90.0,actual,,,Excellent,Sarawak
+Sarawak,Pasir Pandak,MMQC019,2022,91.0,actual,,,Excellent,Sarawak
+Sarawak,Rambungan,MMQC020,2022,83.0,actual,,,Good,Sarawak
+Sarawak,Sri Tanjung Lawas,MMQC021,2022,67.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Luak,MMQC022,2022,56.0,actual,,,Moderate,Sarawak
+Sarawak,Pasir Panjang,MMQC023,2022,78.0,actual,,,Moderate,Sarawak
+Sabah,Pantai Teluk Brunei 1,MMSC001,2022,61.0,actual,,,Moderate,Sabah
+Sabah,Pantai Teluk Brunei 2,MMSC002,2022,67.0,actual,,,Moderate,Sabah
+Sabah,Pantai Teluk Brunei 3,MMSC003,2022,67.0,actual,,,Moderate,Sabah
+Sabah,Pantai Teluk Brunei 4,MMSC004,2022,60.0,actual,,,Moderate,Sabah
+Sabah,Pantai Teluk Brunei 5,MMSC005,2022,59.0,actual,,,Moderate,Sabah
+Sabah,Pantai Teluk Brunei 6,MMSC006,2022,59.0,actual,,,Moderate,Sabah
+Sabah,Borneo Golf Seawater,MMSC007,2022,67.0,actual,,,Moderate,Sabah
+Sabah,Pantai Manis Papar,MMSC008,2022,60.0,actual,,,Moderate,Sabah
+Sabah,Pantai Melinsung,MMSC009,2022,59.0,actual,,,Moderate,Sabah
+Sabah,Pantai Tanjung Aru (Roll Skating),MMSC010,2022,57.0,actual,,,Moderate,Sabah
+Sabah,Pantai Tanjung Aru (No. 3),MMSC011,2022,57.0,actual,,,Moderate,Sabah
+Sabah,Pantai Lok Kawi,MMSC012,2022,58.0,actual,,,Moderate,Sabah
+Sabah,Pantai Dalit Tuaran,MMSC013,2022,58.0,actual,,,Moderate,Sabah
+Sabah,Mangrove Paradise,MMSC014,2022,58.0,actual,,,Moderate,Sabah
+Sabah,Pantai Sabandar,MMSC015,2022,58.0,actual,,,Moderate,Sabah
+Sabah,Pantai Bak-Bak Kudat,MMSC016,2022,85.0,actual,,,Good,Sabah
+Sabah,Pasir Putih Sandakan,MMSC017,2022,82.0,actual,,,Good,Sabah
+Sabah,Pantai TLDM,MMSC018,2022,62.0,actual,,,Moderate,Sabah
+Sabah,Pantai Batu Sapi,MMSC019,2022,75.0,actual,,,Moderate,Sabah
+Sabah,Pantai Ulu Tungku,MMSC020,2022,58.0,actual,,,Moderate,Sabah
+Sabah,Pantai Sarina Kunak,MMSC021,2022,58.0,actual,,,Moderate,Sabah
+Sabah,Pantai Kg. Lamak,MMSC022,2022,61.0,actual,,,Moderate,Sabah
+Sabah,Pantai Tinagat,MMSC023,2022,68.0,actual,,,Moderate,Sabah
+Sabah,Pantai Tanjung Aru (Rest Lido),MMSC024,2022,58.0,actual,,,Moderate,Sabah
+W.P. Labuan,Pulau Papan,MMLC001,2022,58.0,actual,,,Moderate,Labuan
+W.P. Labuan,Kiamsam,MMLC002,2022,58.0,actual,,,Moderate,Labuan
+W.P. Labuan,Sungai Pagar,MMLC003,2022,59.0,actual,,,Moderate,Labuan
+W.P. Labuan,LayangLayangan,MMLC004,2022,58.0,actual,,,Moderate,Labuan
+W.P. Labuan,Tanjung Aru,MMLC005,2022,60.0,actual,,,Moderate,Labuan
+Kedah,Pantai Merdeka,MMKC001,2023,91.0,actual,,,Excellent,Kedah
+Kedah,Langkawi Island Resort,MMKC002,2023,96.0,actual,,,Excellent,Kedah
+Kedah,Pantai Kok,MMKC003,2023,95.0,actual,,,Excellent,Kedah
+Kedah,Pantai Kuah,MMKC004,2023,91.0,actual,,,Excellent,Kedah
+Kedah,Pantai Pasir Tengkorak,MMKC005,2023,93.0,actual,,,Excellent,Kedah
+Kedah,Pantai Teluk Burau,MMKC006,2023,96.0,actual,,,Excellent,Kedah
+Kedah,Pantai Teluk Nibong,MMKC007,2023,95.0,actual,,,Excellent,Kedah
+Kedah,Pantai Tengah,MMKC008,2023,94.0,actual,,,Excellent,Kedah
+Kedah,Pantai Beras Basah,MMKC009,2023,96.0,actual,,,Excellent,Kedah
+P. Pinang,Gertak Sanggul,MMPC001,2023,94.0,actual,,,Excellent,Penang
+P. Pinang,Kawasan Perindustrian Bayan Lepas 1,MMPC002,2023,79.0,actual,,,Moderate,Penang
+P. Pinang,Pantai Bersih,MMPC003,2023,73.0,actual,,,Moderate,Penang
+P. Pinang,Pantai Miami,MMPC004,2023,90.0,actual,,,Excellent,Penang
+P. Pinang,Pantai Pasir Panjang,MMPC005,2023,93.0,actual,,,Excellent,Penang
+P. Pinang,Batu Feringgi (Casuarina),MMPC006,2023,93.0,actual,,,Excellent,Penang
+P. Pinang,Luar Pantai Teluk Bahang,MMPC007,2023,94.0,actual,,,Excellent,Penang
+P. Pinang,Persiaran Gurney,MMPC008,2023,73.0,actual,,,Moderate,Penang
+P. Pinang,Rumah Pam Baru Perai,MMPC009,2023,88.0,actual,,,Good,Penang
+P. Pinang,Rumah Pam Lama Perai,MMPC010,2023,67.0,actual,,,Moderate,Penang
+P. Pinang,Selat PP Selatan (Jelutong),MMPC011,2023,59.0,actual,,,Moderate,Penang
+P. Pinang,Tanjung Bungah,MMPC012,2023,90.0,actual,,,Excellent,Penang
+P. Pinang,Tanjung Bungah 2,MMPC013,2023,69.0,actual,,,Moderate,Penang
+P. Pinang,Batu Maung 2,MMPC014,2023,72.0,actual,,,Moderate,Penang
+P. Pinang,Pantai Sungai Batu Ferringhi 3,MMPC015,2023,92.0,actual,,,Excellent,Penang
+P. Pinang,Pantai Sungai Batu Ferringhi 2,MMPC016,2023,94.0,actual,,,Excellent,Penang
+P. Pinang,Pantai Sungai Batu Ferringhi 1,MMPC017,2023,92.0,actual,,,Excellent,Penang
+Perak,Pantai Pasir Bogak,MMAC001,2023,92.0,actual,,,Excellent,Perak
+Perak,Pantai Teluk Dalam,MMAC002,2023,93.0,actual,,,Excellent,Perak
+Perak,Pantai Teluk Batik,MMAC003,2023,92.0,actual,,,Excellent,Perak
+Perak,Pantai Tanjung Batu,MMAC004,2023,93.0,actual,,,Excellent,Perak
+Perak,Pantai Teluk Rubiah,MMAC005,2023,88.0,actual,,,Good,Perak
+Perak,Pantai Damai Laut,MMAC006,2023,93.0,actual,,,Excellent,Perak
+Perak,Pantai Teluk Senangin,MMAC007,2023,95.0,actual,,,Excellent,Perak
+Perak,Pantai Pasir Panjang,MMAC008,2023,94.0,actual,,,Excellent,Perak
+Selangor,Pantai Bagan Lalang,MMBC001,2023,89.0,actual,,,Good,Selangor
+Selangor,Pantai Morib,MMBC002,2023,88.0,actual,,,Good,Selangor
+Selangor,Selat Pulau Babi,MMBC003,2023,95.0,actual,,,Excellent,Selangor
+Selangor,Selat Klang Utara,MMBC004,2023,79.0,actual,,,Moderate,Selangor
+Selangor,Pantai Remis,MMBC005,2023,92.0,actual,,,Excellent,Selangor
+Selangor,Pantai Klanang,MMBC006,2023,82.0,actual,,,Good,Selangor
+N. Sembilan,Bagan Pinang,MMNC001,2023,95.0,actual,,,Excellent,Negeri Sembilan
+N. Sembilan,Telok Sinting,MMNC002,2023,89.0,actual,,,Good,Negeri Sembilan
+N. Sembilan,Port Dickson Bandar,MMNC003,2023,93.0,actual,,,Excellent,Negeri Sembilan
+N. Sembilan,Port Dickson Batu 4,MMNC004,2023,89.0,actual,,,Good,Negeri Sembilan
+N. Sembilan,Port Dickson Batu 5,MMNC005,2023,94.0,actual,,,Excellent,Negeri Sembilan
+N. Sembilan,Port Dickson Batu 6,MMNC006,2023,96.0,actual,,,Excellent,Negeri Sembilan
+N. Sembilan,Port Dickson Batu 7,MMNC007,2023,94.0,actual,,,Excellent,Negeri Sembilan
+N. Sembilan,Port Dickson Batu 8,MMNC008,2023,95.0,actual,,,Excellent,Negeri Sembilan
+N. Sembilan,Port Dickson Batu 10,MMNC009,2023,95.0,actual,,,Excellent,Negeri Sembilan
+N. Sembilan,Port Dickson Janakuasa TNB,MMNC010,2023,93.0,actual,,,Excellent,Negeri Sembilan
+N. Sembilan,Telok Pelanduk,MMNC011,2023,92.0,actual,,,Excellent,Negeri Sembilan
+N. Sembilan,Pantai Cermin,MMNC012,2023,94.0,actual,,,Excellent,Negeri Sembilan
+N. Sembilan,Pantai Teluk Kemang,MMNC013,2023,95.0,actual,,,Excellent,Negeri Sembilan
+N. Sembilan,Pantai Seri Purnama,MMNC014,2023,92.0,actual,,,Excellent,Negeri Sembilan
+Melaka,Pantai Rombang,MMMC001,2023,91.0,actual,,,Excellent,Malacca
+Melaka,Pantai Kundur,MMMC002,2023,89.0,actual,,,Good,Malacca
+Melaka,Pantai Tanjung Bidara,MMMC003,2023,92.0,actual,,,Excellent,Malacca
+Melaka,Teluk Gong,MMMC004,2023,90.0,actual,,,Excellent,Malacca
+Melaka,Pulau Melaka Point A1,MMMC005,2023,88.0,actual,,,Good,Malacca
+Melaka,Pulau Melaka Point A2,MMMC006,2023,92.0,actual,,,Excellent,Malacca
+Melaka,Pulau Melaka Point B1,MMMC007,2023,54.0,actual,,,Moderate,Malacca
+Melaka,Pulau Melaka Point B2,MMMC008,2023,55.0,actual,,,Moderate,Malacca
+Melaka,Pantai Klebang,MMMC009,2023,88.0,actual,,,Good,Malacca
+Johor,Tanjung Bin,MMJC001,2023,93.0,actual,,,Excellent,Johor
+Johor,Pelabuhan Tanjung Pelepas,MMJC002,2023,80.0,actual,,,Good,Johor
+Johor,Hadapan Jabatan Laut,MMJC003,2023,69.0,actual,,,Moderate,Johor
+Johor,Pantai Stulang Laut,MMJC004,2023,56.0,actual,,,Moderate,Johor
+Johor,Jeti Teluk Jawa,MMJC005,2023,64.0,actual,,,Moderate,Johor
+Johor,Pelabuhan Pasir Gudang,MMJC006,2023,58.0,actual,,,Moderate,Johor
+Johor,Hadapan HSAJB,MMJC007,2023,56.0,actual,,,Moderate,Johor
+Johor,Pantai Lido,MMJC008,2023,55.0,actual,,,Moderate,Johor
+Johor,Pantai Teluk Mahkota,MMJC009,2023,93.0,actual,,,Excellent,Johor
+Johor,Pantai Tanjung Leman,MMJC010,2023,96.0,actual,,,Excellent,Johor
+Johor,Pantai Sri Pantai,MMJC011,2023,97.0,actual,,,Excellent,Johor
+Johor,Tanjung Merak,MMJC012,2023,92.0,actual,,,Excellent,Johor
+Johor,Tanjung Pengelih,MMJC013,2023,94.0,actual,,,Excellent,Johor
+Johor,Pantai Tanjong Stapa,MMJC014,2023,93.0,actual,,,Excellent,Johor
+Johor,Pantai Teluk Gorek,MMJC015,2023,95.0,actual,,,Excellent,Johor
+Johor,Pantai Air Papan,MMJC016,2023,95.0,actual,,,Excellent,Johor
+Johor,Jeti Kukup,MMJC017,2023,70.0,actual,,,Moderate,Johor
+Johor,Pasir Gogok,MMJC018,2023,91.0,actual,,,Excellent,Johor
+Johor,Tanjung Buai,MMJC019,2023,89.0,actual,,,Good,Johor
+Johor,Pantai Desaru,MMJC020,2023,96.0,actual,,,Excellent,Johor
+Johor,Tanjung Sepang,MMJC021,2023,92.0,actual,,,Excellent,Johor
+Johor,Tanjung Penyusup,MMJC022,2023,95.0,actual,,,Excellent,Johor
+Johor,Pantai Sungai Lurus,MMJC023,2023,94.0,actual,,,Excellent,Johor
+Johor,Punggur,MMJC024,2023,95.0,actual,,,Excellent,Johor
+Johor,Pantai Penyabung,MMJC025,2023,94.0,actual,,,Excellent,Johor
+Johor,Tanjung Resang,MMJC026,2023,94.0,actual,,,Excellent,Johor
+Johor,Tanjung Balau,MMJC027,2023,97.0,actual,,,Excellent,Johor
+Johor,Batu Layar,MMJC028,2023,97.0,actual,,,Excellent,Johor
+Johor,Tanjung Sengat,MMJC029,2023,83.0,actual,,,Good,Johor
+Pahang,Pantai Cherating (Club Med A),MMCC001,2023,96.0,actual,,,Excellent,Pahang
+Pahang,Pantai Cherating (Club Med B),MMCC002,2023,96.0,actual,,,Excellent,Pahang
+Pahang,Pantai Cherating (Legend A),MMCC003,2023,96.0,actual,,,Excellent,Pahang
+Pahang,Pantai Cherating (Legend B),MMCC004,2023,96.0,actual,,,Excellent,Pahang
+Pahang,Pantai Muhibbah Balok A,MMCC005,2023,96.0,actual,,,Excellent,Pahang
+Pahang,Pantai Muhibbah Balok B,MMCC006,2023,92.0,actual,,,Excellent,Pahang
+Pahang,Pantai Batu Hitam A,MMCC007,2023,92.0,actual,,,Excellent,Pahang
+Pahang,Pantai Batu Hitam B,MMCC008,2023,94.0,actual,,,Excellent,Pahang
+Pahang,Pantai Berserah A,MMCC009,2023,93.0,actual,,,Excellent,Pahang
+Pahang,Pantai Berserah B,MMCC010,2023,94.0,actual,,,Excellent,Pahang
+Pahang,Pantai Teluk Cempedak A,MMCC011,2023,95.0,actual,,,Excellent,Pahang
+Pahang,Pantai Teluk Cempedak B,MMCC012,2023,96.0,actual,,,Excellent,Pahang
+Pahang,Pantai Teluk Gelora A,MMCC013,2023,95.0,actual,,,Excellent,Pahang
+Pahang,Pantai Teluk Gelora B,MMCC014,2023,92.0,actual,,,Excellent,Pahang
+Pahang,Pantai Sepat A,MMCC015,2023,96.0,actual,,,Excellent,Pahang
+Pahang,Pantai Sepat B,MMCC016,2023,94.0,actual,,,Excellent,Pahang
+Pahang,Pantai Legenda A,MMCC017,2023,96.0,actual,,,Excellent,Pahang
+Pahang,Pantai Legenda B,MMCC018,2023,97.0,actual,,,Excellent,Pahang
+Pahang,Pantai Kuala Api-Api,MMCC019,2023,96.0,actual,,,Excellent,Pahang
+Pahang,Pantai Tanjung Batu,MMCC020,2023,96.0,actual,,,Excellent,Pahang
+Pahang,Pantai Chendor,MMCC021,2023,95.0,actual,,,Excellent,Pahang
+Pahang,Pantai Lanjut,MMCC022,2023,95.0,actual,,,Excellent,Pahang
+Terengganu,Pantai Batu Buruk,MMTC001,2023,91.0,actual,,,Excellent,Terengganu
+Terengganu,Pantai Bukit Keluang,MMTC002,2023,96.0,actual,,,Excellent,Terengganu
+Terengganu,Pantai Chendering,MMTC003,2023,97.0,actual,,,Excellent,Terengganu
+Terengganu,Pantai Rantau Abang,MMTC004,2023,97.0,actual,,,Excellent,Terengganu
+Terengganu,KIPC Utara,MMTC005,2023,96.0,actual,,,Excellent,Terengganu
+Terengganu,KIPC Tengah,MMTC006,2023,96.0,actual,,,Excellent,Terengganu
+Terengganu,KIPC Selatan,MMTC007,2023,96.0,actual,,,Excellent,Terengganu
+Terengganu,Pantai Rhu 10,MMTC008,2023,97.0,actual,,,Excellent,Terengganu
+Terengganu,Pantai Tok Jembal,MMTC009,2023,97.0,actual,,,Excellent,Terengganu
+Terengganu,Pantai Kelulut,MMTC010,2023,97.0,actual,,,Excellent,Terengganu
+Terengganu,Pantai Teluk Ketapang,MMTC011,2023,97.0,actual,,,Excellent,Terengganu
+Terengganu,Pantai Kuala Abang,MMTC012,2023,97.0,actual,,,Excellent,Terengganu
+Terengganu,Pantai Teluk Kalong,MMTC013,2023,96.0,actual,,,Excellent,Terengganu
+Terengganu,Pantai Sura,MMTC014,2023,97.0,actual,,,Excellent,Terengganu
+Terengganu,Pantai Tanjung Bidara,MMTC015,2023,97.0,actual,,,Excellent,Terengganu
+Terengganu,Pantai Kemasik,MMTC016,2023,96.0,actual,,,Excellent,Terengganu
+Kelantan,Pantai Seri Tujuh,MMDC001,2023,95.0,actual,,,Excellent,Kelantan
+Kelantan,Pantai Cahaya Bulan,MMDC002,2023,96.0,actual,,,Excellent,Kelantan
+Kelantan,Pantai Sabak,MMDC003,2023,96.0,actual,,,Excellent,Kelantan
+Kelantan,Pantai Irama Bachok,MMDC004,2023,95.0,actual,,,Excellent,Kelantan
+Kelantan,Pantai Bisikan Bayu,MMDC005,2023,96.0,actual,,,Excellent,Kelantan
+Kelantan,Pantai Melawi,MMDC006,2023,95.0,actual,,,Excellent,Kelantan
+Sarawak,Pantai Sematan,MMQC001,2023,66.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Pandan,MMQC002,2023,62.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Pasir Putih,MMQC003,2023,76.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Bako,MMQC004,2023,70.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Damai,MMQC005,2023,75.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Tanjung Kembang,MMQC006,2023,58.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Harmoni Mukah,MMQC007,2023,76.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Tanjung Batu,MMQC008,2023,58.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Likau,MMQC009,2023,58.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Emas,MMQC010,2023,58.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Piasau,MMQC011,2023,72.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Brighton,MMQC012,2023,61.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Esplaned,MMQC013,2023,57.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Beraya,MMQC014,2023,58.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Bungai,MMQC015,2023,56.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Belawai,MMQC016,2023,64.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Mukah,MMQC017,2023,76.0,actual,,,Moderate,Sarawak
+Sarawak,Tanjung Kidurong,MMQC018,2023,58.0,actual,,,Moderate,Sarawak
+Sarawak,Pasir Pandak,MMQC019,2023,66.0,actual,,,Moderate,Sarawak
+Sarawak,Rambungan,MMQC020,2023,71.0,actual,,,Moderate,Sarawak
+Sarawak,Sri Tanjung Lawas,MMQC021,2023,59.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Luak,MMQC022,2023,57.0,actual,,,Moderate,Sarawak
+Sarawak,Pasir Panjang,MMQC023,2023,58.0,actual,,,Moderate,Sarawak
+Sabah,Pantai Teluk Brunei 1,MMSC001,2023,60.0,actual,,,Moderate,Sabah
+Sabah,Pantai Teluk Brunei 2,MMSC002,2023,59.0,actual,,,Moderate,Sabah
+Sabah,Pantai Teluk Brunei 3,MMSC003,2023,59.0,actual,,,Moderate,Sabah
+Sabah,Pantai Teluk Brunei 4,MMSC004,2023,59.0,actual,,,Moderate,Sabah
+Sabah,Pantai Teluk Brunei 5,MMSC005,2023,59.0,actual,,,Moderate,Sabah
+Sabah,Pantai Teluk Brunei 6,MMSC006,2023,59.0,actual,,,Moderate,Sabah
+Sabah,Borneo Golf Seawater,MMSC007,2023,59.0,actual,,,Moderate,Sabah
+Sabah,Pantai Manis Papar,MMSC008,2023,62.0,actual,,,Moderate,Sabah
+Sabah,Pantai Melinsung,MMSC009,2023,65.0,actual,,,Moderate,Sabah
+Sabah,Pantai Tanjung Aru (Roll Skating),MMSC010,2023,58.0,actual,,,Moderate,Sabah
+Sabah,Pantai Tanjung Aru (No. 3),MMSC011,2023,59.0,actual,,,Moderate,Sabah
+Sabah,Pantai Lok Kawi,MMSC012,2023,59.0,actual,,,Moderate,Sabah
+Sabah,Pantai Dalit Tuaran,MMSC013,2023,59.0,actual,,,Moderate,Sabah
+Sabah,Mangrove Paradise,MMSC014,2023,61.0,actual,,,Moderate,Sabah
+Sabah,Pantai Sabandar,MMSC015,2023,59.0,actual,,,Moderate,Sabah
+Sabah,Pantai Bak-Bak Kudat,MMSC016,2023,59.0,actual,,,Moderate,Sabah
+Sabah,Pasir Putih Sandakan,MMSC017,2023,58.0,actual,,,Moderate,Sabah
+Sabah,Pantai TLDM,MMSC018,2023,59.0,actual,,,Moderate,Sabah
+Sabah,Pantai Batu Sapi,MMSC019,2023,58.0,actual,,,Moderate,Sabah
+Sabah,Pantai Ulu Tungku,MMSC020,2023,59.0,actual,,,Moderate,Sabah
+Sabah,Pantai Sarina Kunak,MMSC021,2023,59.0,actual,,,Moderate,Sabah
+Sabah,Pantai Kg. Lamak,MMSC022,2023,59.0,actual,,,Moderate,Sabah
+Sabah,Pantai Tinagat,MMSC023,2023,58.0,actual,,,Moderate,Sabah
+Sabah,Pantai Tanjung Aru (Rest Lido),MMSC024,2023,59.0,actual,,,Moderate,Sabah
+W.P. Labuan,Pulau Papan,MMLC001,2023,59.0,actual,,,Moderate,Labuan
+W.P. Labuan,Kiamsam,MMLC002,2023,59.0,actual,,,Moderate,Labuan
+W.P. Labuan,Sungai Pagar,MMLC003,2023,59.0,actual,,,Moderate,Labuan
+W.P. Labuan,LayangLayangan,MMLC004,2023,59.0,actual,,,Moderate,Labuan
+W.P. Labuan,Tanjung Aru,MMLC005,2023,59.0,actual,,,Moderate,Labuan
+Kedah,Pantai Merdeka,MMKC001,2024,92.0,actual,,,Excellent,Kedah
+Kedah,Langkawi Island Resort,MMKC002,2024,95.0,actual,,,Excellent,Kedah
+Kedah,Pantai Kok,MMKC003,2024,96.0,actual,,,Excellent,Kedah
+Kedah,Pantai Kuah,MMKC004,2024,95.0,actual,,,Excellent,Kedah
+Kedah,Pantai Pasir Tengkorak,MMKC005,2024,95.0,actual,,,Excellent,Kedah
+Kedah,Pantai Teluk Burau,MMKC006,2024,94.0,actual,,,Excellent,Kedah
+Kedah,Pantai Teluk Nibong,MMKC007,2024,96.0,actual,,,Excellent,Kedah
+Kedah,Pantai Tengah,MMKC008,2024,96.0,actual,,,Excellent,Kedah
+Kedah,Pantai Beras Basah,MMKC009,2024,96.0,actual,,,Excellent,Kedah
+P. Pinang,Gertak Sanggul,MMPC001,2024,91.0,actual,,,Excellent,Penang
+P. Pinang,Kawasan Perindustrian Bayan Lepas 1,MMPC002,2024,67.0,actual,,,Moderate,Penang
+P. Pinang,Pantai Bersih,MMPC003,2024,84.0,actual,,,Good,Penang
+P. Pinang,Pantai Miami,MMPC004,2024,88.0,actual,,,Good,Penang
+P. Pinang,Pantai Pasir Panjang,MMPC005,2024,93.0,actual,,,Excellent,Penang
+P. Pinang,Batu Feringgi (Casuarina),MMPC006,2024,85.0,actual,,,Good,Penang
+P. Pinang,Luar Pantai Teluk Bahang,MMPC007,2024,91.0,actual,,,Excellent,Penang
+P. Pinang,Persiaran Gurney,MMPC008,2024,84.0,actual,,,Good,Penang
+P. Pinang,Rumah Pam Baru Perai,MMPC009,2024,83.0,actual,,,Good,Penang
+P. Pinang,Rumah Pam Lama Perai,MMPC010,2024,72.0,actual,,,Moderate,Penang
+P. Pinang,Selat PP Selatan (Jelutong),MMPC011,2024,57.0,actual,,,Moderate,Penang
+P. Pinang,Tanjung Bungah,MMPC012,2024,80.0,actual,,,Good,Penang
+P. Pinang,Tanjung Bungah 2,MMPC013,2024,87.0,actual,,,Good,Penang
+P. Pinang,Batu Maung 2,MMPC014,2024,71.0,actual,,,Moderate,Penang
+P. Pinang,Pantai Sungai Batu Ferringhi 3,MMPC015,2024,91.0,actual,,,Excellent,Penang
+P. Pinang,Pantai Sungai Batu Ferringhi 2,MMPC016,2024,93.0,actual,,,Excellent,Penang
+P. Pinang,Pantai Sungai Batu Ferringhi 1,MMPC017,2024,91.0,actual,,,Excellent,Penang
+Perak,Pantai Pasir Bogak,MMAC001,2024,95.0,actual,,,Excellent,Perak
+Perak,Pantai Teluk Dalam,MMAC002,2024,95.0,actual,,,Excellent,Perak
+Perak,Pantai Teluk Batik,MMAC003,2024,95.0,actual,,,Excellent,Perak
+Perak,Pantai Tanjung Batu,MMAC004,2024,96.0,actual,,,Excellent,Perak
+Perak,Pantai Teluk Rubiah,MMAC005,2024,96.0,actual,,,Excellent,Perak
+Perak,Pantai Damai Laut,MMAC006,2024,95.0,actual,,,Excellent,Perak
+Perak,Pantai Teluk Senangin,MMAC007,2024,95.0,actual,,,Excellent,Perak
+Perak,Pantai Pasir Panjang,MMAC008,2024,95.0,actual,,,Excellent,Perak
+Selangor,Pantai Bagan Lalang,MMBC001,2024,86.0,actual,,,Good,Selangor
+Selangor,Pantai Morib,MMBC002,2024,85.0,actual,,,Good,Selangor
+Selangor,Selat Pulau Babi,MMBC003,2024,89.0,actual,,,Good,Selangor
+Selangor,Selat Klang Utara,MMBC004,2024,56.0,actual,,,Moderate,Selangor
+Selangor,Pantai Remis,MMBC005,2024,84.0,actual,,,Good,Selangor
+Selangor,Pantai Klanang,MMBC006,2024,66.0,actual,,,Moderate,Selangor
+N. Sembilan,Bagan Pinang,MMNC001,2024,95.0,actual,,,Excellent,Negeri Sembilan
+N. Sembilan,Telok Sinting,MMNC002,2024,91.0,actual,,,Excellent,Negeri Sembilan
+N. Sembilan,Port Dickson Bandar,MMNC003,2024,95.0,actual,,,Excellent,Negeri Sembilan
+N. Sembilan,Port Dickson Batu 4,MMNC004,2024,95.0,actual,,,Excellent,Negeri Sembilan
+N. Sembilan,Port Dickson Batu 5,MMNC005,2024,95.0,actual,,,Excellent,Negeri Sembilan
+N. Sembilan,Port Dickson Batu 6,MMNC006,2024,93.0,actual,,,Excellent,Negeri Sembilan
+N. Sembilan,Port Dickson Batu 7,MMNC007,2024,93.0,actual,,,Excellent,Negeri Sembilan
+N. Sembilan,Port Dickson Batu 8,MMNC008,2024,94.0,actual,,,Excellent,Negeri Sembilan
+N. Sembilan,Port Dickson Batu 10,MMNC009,2024,95.0,actual,,,Excellent,Negeri Sembilan
+N. Sembilan,Port Dickson Janakuasa TNB,MMNC010,2024,95.0,actual,,,Excellent,Negeri Sembilan
+N. Sembilan,Telok Pelanduk,MMNC011,2024,93.0,actual,,,Excellent,Negeri Sembilan
+N. Sembilan,Pantai Cermin,MMNC012,2024,92.0,actual,,,Excellent,Negeri Sembilan
+N. Sembilan,Pantai Teluk Kemang,MMNC013,2024,94.0,actual,,,Excellent,Negeri Sembilan
+N. Sembilan,Pantai Seri Purnama,MMNC014,2024,95.0,actual,,,Excellent,Negeri Sembilan
+Melaka,Pantai Rombang,MMMC001,2024,93.0,actual,,,Excellent,Malacca
+Melaka,Pantai Kundur,MMMC002,2024,90.0,actual,,,Excellent,Malacca
+Melaka,Pantai Tanjung Bidara,MMMC003,2024,94.0,actual,,,Excellent,Malacca
+Melaka,Teluk Gong,MMMC004,2024,92.0,actual,,,Excellent,Malacca
+Melaka,Pulau Melaka Point A1,MMMC005,2024,88.0,actual,,,Good,Malacca
+Melaka,Pulau Melaka Point A2,MMMC006,2024,88.0,actual,,,Good,Malacca
+Melaka,Pulau Melaka Point B1,MMMC007,2024,57.0,actual,,,Moderate,Malacca
+Melaka,Pulau Melaka Point B2,MMMC008,2024,56.0,actual,,,Moderate,Malacca
+Melaka,Pantai Klebang,MMMC009,2024,85.0,actual,,,Good,Malacca
+Johor,Tanjung Bin,MMJC001,2024,93.0,actual,,,Excellent,Johor
+Johor,Pelabuhan Tanjung Pelepas,MMJC002,2024,92.0,actual,,,Excellent,Johor
+Johor,Hadapan Jabatan Laut,MMJC003,2024,83.0,actual,,,Good,Johor
+Johor,Pantai Stulang Laut,MMJC004,2024,55.0,actual,,,Moderate,Johor
+Johor,Jeti Teluk Jawa,MMJC005,2024,79.0,actual,,,Moderate,Johor
+Johor,Pelabuhan Pasir Gudang,MMJC006,2024,59.0,actual,,,Moderate,Johor
+Johor,Hadapan HSAJB,MMJC007,2024,56.0,actual,,,Moderate,Johor
+Johor,Pantai Lido,MMJC008,2024,54.0,actual,,,Moderate,Johor
+Johor,Pantai Teluk Mahkota,MMJC009,2024,95.0,actual,,,Excellent,Johor
+Johor,Pantai Tanjung Leman,MMJC010,2024,96.0,actual,,,Excellent,Johor
+Johor,Pantai Sri Pantai,MMJC011,2024,96.0,actual,,,Excellent,Johor
+Johor,Tanjung Merak,MMJC012,2024,95.0,actual,,,Excellent,Johor
+Johor,Tanjung Pengelih,MMJC013,2024,95.0,actual,,,Excellent,Johor
+Johor,Pantai Tanjong Stapa,MMJC014,2024,95.0,actual,,,Excellent,Johor
+Johor,Pantai Teluk Gorek,MMJC015,2024,96.0,actual,,,Excellent,Johor
+Johor,Pantai Air Papan,MMJC016,2024,95.0,actual,,,Excellent,Johor
+Johor,Jeti Kukup,MMJC017,2024,76.0,actual,,,Moderate,Johor
+Johor,Pasir Gogok,MMJC018,2024,93.0,actual,,,Excellent,Johor
+Johor,Tanjung Buai,MMJC019,2024,90.0,actual,,,Excellent,Johor
+Johor,Pantai Desaru,MMJC020,2024,94.0,actual,,,Excellent,Johor
+Johor,Tanjung Sepang,MMJC021,2024,94.0,actual,,,Excellent,Johor
+Johor,Tanjung Penyusup,MMJC022,2024,94.0,actual,,,Excellent,Johor
+Johor,Pantai Sungai Lurus,MMJC023,2024,94.0,actual,,,Excellent,Johor
+Johor,Punggur,MMJC024,2024,81.0,actual,,,Good,Johor
+Johor,Pantai Penyabung,MMJC025,2024,95.0,actual,,,Excellent,Johor
+Johor,Tanjung Resang,MMJC026,2024,95.0,actual,,,Excellent,Johor
+Johor,Tanjung Balau,MMJC027,2024,96.0,actual,,,Excellent,Johor
+Johor,Batu Layar,MMJC028,2024,96.0,actual,,,Excellent,Johor
+Johor,Tanjung Sengat,MMJC029,2024,89.0,actual,,,Good,Johor
+Pahang,Pantai Cherating (Club Med A),MMCC001,2024,96.0,actual,,,Excellent,Pahang
+Pahang,Pantai Cherating (Club Med B),MMCC002,2024,97.0,actual,,,Excellent,Pahang
+Pahang,Pantai Cherating (Legend A),MMCC003,2024,95.0,actual,,,Excellent,Pahang
+Pahang,Pantai Cherating (Legend B),MMCC004,2024,97.0,actual,,,Excellent,Pahang
+Pahang,Pantai Muhibbah Balok A,MMCC005,2024,94.0,actual,,,Excellent,Pahang
+Pahang,Pantai Muhibbah Balok B,MMCC006,2024,94.0,actual,,,Excellent,Pahang
+Pahang,Pantai Batu Hitam A,MMCC007,2024,95.0,actual,,,Excellent,Pahang
+Pahang,Pantai Batu Hitam B,MMCC008,2024,97.0,actual,,,Excellent,Pahang
+Pahang,Pantai Berserah A,MMCC009,2024,95.0,actual,,,Excellent,Pahang
+Pahang,Pantai Berserah B,MMCC010,2024,93.0,actual,,,Excellent,Pahang
+Pahang,Pantai Teluk Cempedak A,MMCC011,2024,92.0,actual,,,Excellent,Pahang
+Pahang,Pantai Teluk Cempedak B,MMCC012,2024,87.0,actual,,,Good,Pahang
+Pahang,Pantai Teluk Gelora A,MMCC013,2024,91.0,actual,,,Excellent,Pahang
+Pahang,Pantai Teluk Gelora B,MMCC014,2024,87.0,actual,,,Good,Pahang
+Pahang,Pantai Sepat A,MMCC015,2024,96.0,actual,,,Excellent,Pahang
+Pahang,Pantai Sepat B,MMCC016,2024,95.0,actual,,,Excellent,Pahang
+Pahang,Pantai Legenda A,MMCC017,2024,96.0,actual,,,Excellent,Pahang
+Pahang,Pantai Legenda B,MMCC018,2024,96.0,actual,,,Excellent,Pahang
+Pahang,Pantai Kuala Api-Api,MMCC019,2024,96.0,actual,,,Excellent,Pahang
+Pahang,Pantai Tanjung Batu,MMCC020,2024,95.0,actual,,,Excellent,Pahang
+Pahang,Pantai Chendor,MMCC021,2024,96.0,actual,,,Excellent,Pahang
+Pahang,Pantai Lanjut,MMCC022,2024,93.0,actual,,,Excellent,Pahang
+Terengganu,Pantai Batu Buruk,MMTC001,2024,97.0,actual,,,Excellent,Terengganu
+Terengganu,Pantai Bukit Keluang,MMTC002,2024,96.0,actual,,,Excellent,Terengganu
+Terengganu,Pantai Chendering,MMTC003,2024,96.0,actual,,,Excellent,Terengganu
+Terengganu,Pantai Rantau Abang,MMTC004,2024,96.0,actual,,,Excellent,Terengganu
+Terengganu,KIPC Utara,MMTC005,2024,96.0,actual,,,Excellent,Terengganu
+Terengganu,KIPC Tengah,MMTC006,2024,96.0,actual,,,Excellent,Terengganu
+Terengganu,KIPC Selatan,MMTC007,2024,95.0,actual,,,Excellent,Terengganu
+Terengganu,Pantai Rhu 10,MMTC008,2024,97.0,actual,,,Excellent,Terengganu
+Terengganu,Pantai Tok Jembal,MMTC009,2024,96.0,actual,,,Excellent,Terengganu
+Terengganu,Pantai Kelulut,MMTC010,2024,96.0,actual,,,Excellent,Terengganu
+Terengganu,Pantai Teluk Ketapang,MMTC011,2024,96.0,actual,,,Excellent,Terengganu
+Terengganu,Pantai Kuala Abang,MMTC012,2024,96.0,actual,,,Excellent,Terengganu
+Terengganu,Pantai Teluk Kalong,MMTC013,2024,97.0,actual,,,Excellent,Terengganu
+Terengganu,Pantai Sura,MMTC014,2024,96.0,actual,,,Excellent,Terengganu
+Terengganu,Pantai Tanjung Bidara,MMTC015,2024,97.0,actual,,,Excellent,Terengganu
+Terengganu,Pantai Kemasik,MMTC016,2024,95.0,actual,,,Excellent,Terengganu
+Kelantan,Pantai Seri Tujuh,MMDC001,2024,95.0,actual,,,Excellent,Kelantan
+Kelantan,Pantai Cahaya Bulan,MMDC002,2024,97.0,actual,,,Excellent,Kelantan
+Kelantan,Pantai Sabak,MMDC003,2024,96.0,actual,,,Excellent,Kelantan
+Kelantan,Pantai Irama Bachok,MMDC004,2024,96.0,actual,,,Excellent,Kelantan
+Kelantan,Pantai Bisikan Bayu,MMDC005,2024,96.0,actual,,,Excellent,Kelantan
+Kelantan,Pantai Melawi,MMDC006,2024,96.0,actual,,,Excellent,Kelantan
+Sarawak,Pantai Sematan,MMQC001,2024,68.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Pandan,MMQC002,2024,60.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Pasir Putih,MMQC003,2024,64.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Bako,MMQC004,2024,63.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Damai,MMQC005,2024,74.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Tanjung Kembang,MMQC006,2024,70.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Harmoni Mukah,MMQC007,2024,78.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Tanjung Batu,MMQC008,2024,68.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Likau,MMQC009,2024,75.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Emas,MMQC010,2024,72.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Piasau,MMQC011,2024,58.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Brighton,MMQC012,2024,57.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Esplaned,MMQC013,2024,57.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Beraya,MMQC014,2024,58.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Bungai,MMQC015,2024,57.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Belawai,MMQC016,2024,61.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Mukah,MMQC017,2024,75.0,actual,,,Moderate,Sarawak
+Sarawak,Tanjung Kidurong,MMQC018,2024,75.0,actual,,,Moderate,Sarawak
+Sarawak,Pasir Pandak,MMQC019,2024,74.0,actual,,,Moderate,Sarawak
+Sarawak,Rambungan,MMQC020,2024,76.0,actual,,,Moderate,Sarawak
+Sarawak,Sri Tanjung Lawas,MMQC021,2024,59.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Luak,MMQC022,2024,57.0,actual,,,Moderate,Sarawak
+Sarawak,Pasir Panjang,MMQC023,2024,68.0,actual,,,Moderate,Sarawak
+Sabah,Pantai Teluk Brunei 1,MMSC001,2024,74.0,actual,,,Moderate,Sabah
+Sabah,Pantai Teluk Brunei 2,MMSC002,2024,75.0,actual,,,Moderate,Sabah
+Sabah,Pantai Teluk Brunei 3,MMSC003,2024,66.0,actual,,,Moderate,Sabah
+Sabah,Pantai Teluk Brunei 4,MMSC004,2024,66.0,actual,,,Moderate,Sabah
+Sabah,Pantai Teluk Brunei 5,MMSC005,2024,59.0,actual,,,Moderate,Sabah
+Sabah,Pantai Teluk Brunei 6,MMSC006,2024,74.0,actual,,,Moderate,Sabah
+Sabah,Borneo Golf Seawater,MMSC007,2024,71.0,actual,,,Moderate,Sabah
+Sabah,Pantai Manis Papar,MMSC008,2024,59.0,actual,,,Moderate,Sabah
+Sabah,Pantai Melinsung,MMSC009,2024,60.0,actual,,,Moderate,Sabah
+Sabah,Pantai Tanjung Aru (Roll Skating),MMSC010,2024,61.0,actual,,,Moderate,Sabah
+Sabah,Pantai Tanjung Aru (No. 3),MMSC011,2024,64.0,actual,,,Moderate,Sabah
+Sabah,Pantai Lok Kawi,MMSC012,2024,58.0,actual,,,Moderate,Sabah
+Sabah,Pantai Dalit Tuaran,MMSC013,2024,74.0,actual,,,Moderate,Sabah
+Sabah,Mangrove Paradise,MMSC014,2024,72.0,actual,,,Moderate,Sabah
+Sabah,Pantai Sabandar,MMSC015,2024,73.0,actual,,,Moderate,Sabah
+Sabah,Pantai Bak-Bak Kudat,MMSC016,2024,64.0,actual,,,Moderate,Sabah
+Sabah,Pasir Putih Sandakan,MMSC017,2024,73.0,actual,,,Moderate,Sabah
+Sabah,Pantai TLDM,MMSC018,2024,89.0,actual,,,Good,Sabah
+Sabah,Pantai Batu Sapi,MMSC019,2024,77.0,actual,,,Moderate,Sabah
+Sabah,Pantai Ulu Tungku,MMSC020,2024,69.0,actual,,,Moderate,Sabah
+Sabah,Pantai Sarina Kunak,MMSC021,2024,62.0,actual,,,Moderate,Sabah
+Sabah,Pantai Kg. Lamak,MMSC022,2024,68.0,actual,,,Moderate,Sabah
+Sabah,Pantai Tinagat,MMSC023,2024,88.0,actual,,,Good,Sabah
+Sabah,Pantai Tanjung Aru (Rest Lido),MMSC024,2024,81.0,actual,,,Good,Sabah
+W.P. Labuan,Pulau Papan,MMLC001,2024,58.0,actual,,,Moderate,Labuan
+W.P. Labuan,Kiamsam,MMLC002,2024,72.0,actual,,,Moderate,Labuan
+W.P. Labuan,Sungai Pagar,MMLC003,2024,76.0,actual,,,Moderate,Labuan
+W.P. Labuan,LayangLayangan,MMLC004,2024,74.0,actual,,,Moderate,Labuan
+W.P. Labuan,Tanjung Aru,MMLC005,2024,65.0,actual,,,Moderate,Labuan
+Kedah,Pantai Merdeka,MMKC001,2025,88.0,actual,,,Good,Kedah
+Kedah,Langkawi Island Resort,MMKC002,2025,96.0,actual,,,Excellent,Kedah
+Kedah,Pantai Kok,MMKC003,2025,96.0,actual,,,Excellent,Kedah
+Kedah,Pantai Kuah,MMKC004,2025,91.0,actual,,,Excellent,Kedah
+Kedah,Pantai Pasir Tengkorak,MMKC005,2025,95.0,actual,,,Excellent,Kedah
+Kedah,Pantai Teluk Burau,MMKC006,2025,96.0,actual,,,Excellent,Kedah
+Kedah,Pantai Teluk Nibong,MMKC007,2025,96.0,actual,,,Excellent,Kedah
+Kedah,Pantai Tengah,MMKC008,2025,95.0,actual,,,Excellent,Kedah
+Kedah,Pantai Beras Basah,MMKC009,2025,95.0,actual,,,Excellent,Kedah
+P. Pinang,Gertak Sanggul,MMPC001,2025,88.0,actual,,,Good,Penang
+P. Pinang,Kawasan Perindustrian Bayan Lepas 1,MMPC002,2025,84.0,actual,,,Good,Penang
+P. Pinang,Pantai Bersih,MMPC003,2025,81.0,actual,,,Good,Penang
+P. Pinang,Pantai Miami,MMPC004,2025,90.0,actual,,,Excellent,Penang
+P. Pinang,Pantai Pasir Panjang,MMPC005,2025,88.0,actual,,,Good,Penang
+P. Pinang,Batu Feringgi (Casuarina),MMPC006,2025,86.0,actual,,,Good,Penang
+P. Pinang,Luar Pantai Teluk Bahang,MMPC007,2025,94.0,actual,,,Excellent,Penang
+P. Pinang,Persiaran Gurney,MMPC008,2025,71.0,actual,,,Moderate,Penang
+P. Pinang,Rumah Pam Baru Perai,MMPC009,2025,81.0,actual,,,Good,Penang
+P. Pinang,Rumah Pam Lama Perai,MMPC010,2025,69.0,actual,,,Moderate,Penang
+P. Pinang,Selat PP Selatan (Jelutong),MMPC011,2025,57.0,actual,,,Moderate,Penang
+P. Pinang,Tanjung Bungah,MMPC012,2025,89.0,actual,,,Good,Penang
+P. Pinang,Tanjung Bungah 2,MMPC013,2025,76.0,actual,,,Moderate,Penang
+P. Pinang,Batu Maung 2,MMPC014,2025,57.0,actual,,,Moderate,Penang
+P. Pinang,Pantai Sungai Batu Ferringhi 3,MMPC015,2025,90.0,actual,,,Excellent,Penang
+P. Pinang,Pantai Sungai Batu Ferringhi 2,MMPC016,2025,91.0,actual,,,Excellent,Penang
+P. Pinang,Pantai Sungai Batu Ferringhi 1,MMPC017,2025,93.0,actual,,,Excellent,Penang
+Perak,Pantai Pasir Bogak,MMAC001,2025,95.0,actual,,,Excellent,Perak
+Perak,Pantai Teluk Dalam,MMAC002,2025,91.0,actual,,,Excellent,Perak
+Perak,Pantai Teluk Batik,MMAC003,2025,95.0,actual,,,Excellent,Perak
+Perak,Pantai Tanjung Batu,MMAC004,2025,92.0,actual,,,Excellent,Perak
+Perak,Pantai Teluk Rubiah,MMAC005,2025,95.0,actual,,,Excellent,Perak
+Perak,Pantai Damai Laut,MMAC006,2025,91.0,actual,,,Excellent,Perak
+Perak,Pantai Teluk Senangin,MMAC007,2025,92.0,actual,,,Excellent,Perak
+Perak,Pantai Pasir Panjang,MMAC008,2025,96.0,actual,,,Excellent,Perak
+Selangor,Pantai Bagan Lalang,MMBC001,2025,91.0,actual,,,Excellent,Selangor
+Selangor,Pantai Morib,MMBC002,2025,72.0,actual,,,Moderate,Selangor
+Selangor,Selat Pulau Babi,MMBC003,2025,71.0,actual,,,Moderate,Selangor
+Selangor,Selat Klang Utara,MMBC004,2025,55.0,actual,,,Moderate,Selangor
+Selangor,Pantai Remis,MMBC005,2025,80.0,actual,,,Good,Selangor
+Selangor,Pantai Klanang,MMBC006,2025,68.0,actual,,,Moderate,Selangor
+N. Sembilan,Bagan Pinang,MMNC001,2025,90.0,actual,,,Excellent,Negeri Sembilan
+N. Sembilan,Telok Sinting,MMNC002,2025,90.0,actual,,,Excellent,Negeri Sembilan
+N. Sembilan,Port Dickson Bandar,MMNC003,2025,91.0,actual,,,Excellent,Negeri Sembilan
+N. Sembilan,Port Dickson Batu 4,MMNC004,2025,92.0,actual,,,Excellent,Negeri Sembilan
+N. Sembilan,Port Dickson Batu 5,MMNC005,2025,89.0,actual,,,Good,Negeri Sembilan
+N. Sembilan,Port Dickson Batu 6,MMNC006,2025,91.0,actual,,,Excellent,Negeri Sembilan
+N. Sembilan,Port Dickson Batu 7,MMNC007,2025,92.0,actual,,,Excellent,Negeri Sembilan
+N. Sembilan,Port Dickson Batu 8,MMNC008,2025,95.0,actual,,,Excellent,Negeri Sembilan
+N. Sembilan,Port Dickson Batu 10,MMNC009,2025,91.0,actual,,,Excellent,Negeri Sembilan
+N. Sembilan,Port Dickson Janakuasa TNB,MMNC010,2025,91.0,actual,,,Excellent,Negeri Sembilan
+N. Sembilan,Telok Pelanduk,MMNC011,2025,91.0,actual,,,Excellent,Negeri Sembilan
+N. Sembilan,Pantai Cermin,MMNC012,2025,94.0,actual,,,Excellent,Negeri Sembilan
+N. Sembilan,Pantai Teluk Kemang,MMNC013,2025,94.0,actual,,,Excellent,Negeri Sembilan
+N. Sembilan,Pantai Seri Purnama,MMNC014,2025,95.0,actual,,,Excellent,Negeri Sembilan
+Melaka,Pantai Rombang,MMMC001,2025,87.0,actual,,,Good,Malacca
+Melaka,Pantai Kundur,MMMC002,2025,90.0,actual,,,Excellent,Malacca
+Melaka,Pantai Tanjung Bidara,MMMC003,2025,86.0,actual,,,Good,Malacca
+Melaka,Teluk Gong,MMMC004,2025,85.0,actual,,,Good,Malacca
+Melaka,Pulau Melaka Point A1,MMMC005,2025,82.0,actual,,,Good,Malacca
+Melaka,Pulau Melaka Point A2,MMMC006,2025,90.0,actual,,,Excellent,Malacca
+Melaka,Pulau Melaka Point B1,MMMC007,2025,59.0,actual,,,Moderate,Malacca
+Melaka,Pulau Melaka Point B2,MMMC008,2025,58.0,actual,,,Moderate,Malacca
+Melaka,Pantai Klebang,MMMC009,2025,91.0,actual,,,Excellent,Malacca
+Johor,Tanjung Bin,MMJC001,2025,87.0,actual,,,Good,Johor
+Johor,Pelabuhan Tanjung Pelepas,MMJC002,2025,86.0,actual,,,Good,Johor
+Johor,Hadapan Jabatan Laut,MMJC003,2025,73.0,actual,,,Moderate,Johor
+Johor,Pantai Stulang Laut,MMJC004,2025,53.0,actual,,,Moderate,Johor
+Johor,Jeti Teluk Jawa,MMJC005,2025,59.0,actual,,,Moderate,Johor
+Johor,Pelabuhan Pasir Gudang,MMJC006,2025,57.0,actual,,,Moderate,Johor
+Johor,Hadapan HSAJB,MMJC007,2025,53.0,actual,,,Moderate,Johor
+Johor,Pantai Lido,MMJC008,2025,52.0,actual,,,Moderate,Johor
+Johor,Pantai Teluk Mahkota,MMJC009,2025,91.0,actual,,,Excellent,Johor
+Johor,Pantai Tanjung Leman,MMJC010,2025,93.0,actual,,,Excellent,Johor
+Johor,Pantai Sri Pantai,MMJC011,2025,94.0,actual,,,Excellent,Johor
+Johor,Tanjung Merak,MMJC012,2025,90.0,actual,,,Excellent,Johor
+Johor,Tanjung Pengelih,MMJC013,2025,92.0,actual,,,Excellent,Johor
+Johor,Pantai Tanjong Stapa,MMJC014,2025,76.0,actual,,,Moderate,Johor
+Johor,Pantai Teluk Gorek,MMJC015,2025,94.0,actual,,,Excellent,Johor
+Johor,Pantai Air Papan,MMJC016,2025,95.0,actual,,,Excellent,Johor
+Johor,Jeti Kukup,MMJC017,2025,77.0,actual,,,Moderate,Johor
+Johor,Pasir Gogok,MMJC018,2025,84.0,actual,,,Good,Johor
+Johor,Tanjung Buai,MMJC019,2025,83.0,actual,,,Good,Johor
+Johor,Pantai Desaru,MMJC020,2025,96.0,actual,,,Excellent,Johor
+Johor,Tanjung Sepang,MMJC021,2025,88.0,actual,,,Good,Johor
+Johor,Tanjung Penyusup,MMJC022,2025,93.0,actual,,,Excellent,Johor
+Johor,Pantai Sungai Lurus,MMJC023,2025,84.0,actual,,,Good,Johor
+Johor,Punggur,MMJC024,2025,74.0,actual,,,Moderate,Johor
+Johor,Pantai Penyabung,MMJC025,2025,95.0,actual,,,Excellent,Johor
+Johor,Tanjung Resang,MMJC026,2025,94.0,actual,,,Excellent,Johor
+Johor,Tanjung Balau,MMJC027,2025,94.0,actual,,,Excellent,Johor
+Johor,Batu Layar,MMJC028,2025,94.0,actual,,,Excellent,Johor
+Johor,Tanjung Sengat,MMJC029,2025,88.0,actual,,,Good,Johor
+Pahang,Pantai Cherating (Club Med A),MMCC001,2025,95.0,actual,,,Excellent,Pahang
+Pahang,Pantai Cherating (Club Med B),MMCC002,2025,96.0,actual,,,Excellent,Pahang
+Pahang,Pantai Cherating (Legend A),MMCC003,2025,94.0,actual,,,Excellent,Pahang
+Pahang,Pantai Cherating (Legend B),MMCC004,2025,96.0,actual,,,Excellent,Pahang
+Pahang,Pantai Muhibbah Balok A,MMCC005,2025,93.0,actual,,,Excellent,Pahang
+Pahang,Pantai Muhibbah Balok B,MMCC006,2025,72.0,actual,,,Moderate,Pahang
+Pahang,Pantai Batu Hitam A,MMCC007,2025,93.0,actual,,,Excellent,Pahang
+Pahang,Pantai Batu Hitam B,MMCC008,2025,92.0,actual,,,Excellent,Pahang
+Pahang,Pantai Berserah A,MMCC009,2025,96.0,actual,,,Excellent,Pahang
+Pahang,Pantai Berserah B,MMCC010,2025,95.0,actual,,,Excellent,Pahang
+Pahang,Pantai Teluk Cempedak A,MMCC011,2025,93.0,actual,,,Excellent,Pahang
+Pahang,Pantai Teluk Cempedak B,MMCC012,2025,95.0,actual,,,Excellent,Pahang
+Pahang,Pantai Teluk Gelora A,MMCC013,2025,94.0,actual,,,Excellent,Pahang
+Pahang,Pantai Teluk Gelora B,MMCC014,2025,89.0,actual,,,Good,Pahang
+Pahang,Pantai Sepat A,MMCC015,2025,94.0,actual,,,Excellent,Pahang
+Pahang,Pantai Sepat B,MMCC016,2025,94.0,actual,,,Excellent,Pahang
+Pahang,Pantai Legenda A,MMCC017,2025,95.0,actual,,,Excellent,Pahang
+Pahang,Pantai Legenda B,MMCC018,2025,96.0,actual,,,Excellent,Pahang
+Pahang,Pantai Kuala Api-Api,MMCC019,2025,95.0,actual,,,Excellent,Pahang
+Pahang,Pantai Tanjung Batu,MMCC020,2025,96.0,actual,,,Excellent,Pahang
+Pahang,Pantai Chendor,MMCC021,2025,95.0,actual,,,Excellent,Pahang
+Pahang,Pantai Lanjut,MMCC022,2025,96.0,actual,,,Excellent,Pahang
+Terengganu,Pantai Batu Buruk,MMTC001,2025,95.0,actual,,,Excellent,Terengganu
+Terengganu,Pantai Bukit Keluang,MMTC002,2025,95.0,actual,,,Excellent,Terengganu
+Terengganu,Pantai Chendering,MMTC003,2025,93.0,actual,,,Excellent,Terengganu
+Terengganu,Pantai Rantau Abang,MMTC004,2025,94.0,actual,,,Excellent,Terengganu
+Terengganu,KIPC Utara,MMTC005,2025,96.0,actual,,,Excellent,Terengganu
+Terengganu,KIPC Tengah,MMTC006,2025,95.0,actual,,,Excellent,Terengganu
+Terengganu,KIPC Selatan,MMTC007,2025,93.0,actual,,,Excellent,Terengganu
+Terengganu,Pantai Rhu 10,MMTC008,2025,96.0,actual,,,Excellent,Terengganu
+Terengganu,Pantai Tok Jembal,MMTC009,2025,94.0,actual,,,Excellent,Terengganu
+Terengganu,Pantai Kelulut,MMTC010,2025,89.0,actual,,,Good,Terengganu
+Terengganu,Pantai Teluk Ketapang,MMTC011,2025,95.0,actual,,,Excellent,Terengganu
+Terengganu,Pantai Kuala Abang,MMTC012,2025,95.0,actual,,,Excellent,Terengganu
+Terengganu,Pantai Teluk Kalong,MMTC013,2025,96.0,actual,,,Excellent,Terengganu
+Terengganu,Pantai Sura,MMTC014,2025,92.0,actual,,,Excellent,Terengganu
+Terengganu,Pantai Tanjung Bidara,MMTC015,2025,96.0,actual,,,Excellent,Terengganu
+Terengganu,Pantai Kemasik,MMTC016,2025,95.0,actual,,,Excellent,Terengganu
+Kelantan,Pantai Seri Tujuh,MMDC001,2025,94.0,actual,,,Excellent,Kelantan
+Kelantan,Pantai Cahaya Bulan,MMDC002,2025,95.0,actual,,,Excellent,Kelantan
+Kelantan,Pantai Sabak,MMDC003,2025,93.0,actual,,,Excellent,Kelantan
+Kelantan,Pantai Irama Bachok,MMDC004,2025,95.0,actual,,,Excellent,Kelantan
+Kelantan,Pantai Bisikan Bayu,MMDC005,2025,95.0,actual,,,Excellent,Kelantan
+Kelantan,Pantai Melawi,MMDC006,2025,95.0,actual,,,Excellent,Kelantan
+Sarawak,Pantai Sematan,MMQC001,2025,79.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Pandan,MMQC002,2025,75.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Pasir Putih,MMQC003,2025,75.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Bako,MMQC004,2025,80.0,actual,,,Good,Sarawak
+Sarawak,Pantai Damai,MMQC005,2025,89.0,actual,,,Good,Sarawak
+Sarawak,Pantai Tanjung Kembang,MMQC006,2025,69.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Harmoni Mukah,MMQC007,2025,73.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Tanjung Batu,MMQC008,2025,66.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Likau,MMQC009,2025,83.0,actual,,,Good,Sarawak
+Sarawak,Pantai Emas,MMQC010,2025,76.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Piasau,MMQC011,2025,65.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Brighton,MMQC012,2025,74.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Esplaned,MMQC013,2025,82.0,actual,,,Good,Sarawak
+Sarawak,Pantai Beraya,MMQC014,2025,81.0,actual,,,Good,Sarawak
+Sarawak,Pantai Bungai,MMQC015,2025,83.0,actual,,,Good,Sarawak
+Sarawak,Pantai Belawai,MMQC016,2025,73.0,actual,,,Moderate,Sarawak
+Sarawak,Pantai Mukah,MMQC017,2025,79.0,actual,,,Moderate,Sarawak
+Sarawak,Tanjung Kidurong,MMQC018,2025,69.0,actual,,,Moderate,Sarawak
+Sarawak,Pasir Pandak,MMQC019,2025,78.0,actual,,,Moderate,Sarawak
+Sarawak,Rambungan,MMQC020,2025,82.0,actual,,,Good,Sarawak
+Sarawak,Sri Tanjung Lawas,MMQC021,2025,84.0,actual,,,Good,Sarawak
+Sarawak,Pantai Luak,MMQC022,2025,70.0,actual,,,Moderate,Sarawak
+Sarawak,Pasir Panjang,MMQC023,2025,75.0,actual,,,Moderate,Sarawak
+Sabah,Pantai Teluk Brunei 1,MMSC001,2025,65.0,actual,,,Moderate,Sabah
+Sabah,Pantai Teluk Brunei 2,MMSC002,2025,79.0,actual,,,Moderate,Sabah
+Sabah,Pantai Teluk Brunei 3,MMSC003,2025,67.0,actual,,,Moderate,Sabah
+Sabah,Pantai Teluk Brunei 4,MMSC004,2025,81.0,actual,,,Good,Sabah
+Sabah,Pantai Teluk Brunei 5,MMSC005,2025,74.0,actual,,,Moderate,Sabah
+Sabah,Pantai Teluk Brunei 6,MMSC006,2025,89.0,actual,,,Good,Sabah
+Sabah,Borneo Golf Seawater,MMSC007,2025,81.0,actual,,,Good,Sabah
+Sabah,Pantai Manis Papar,MMSC008,2025,74.0,actual,,,Moderate,Sabah
+Sabah,Pantai Melinsung,MMSC009,2025,60.0,actual,,,Moderate,Sabah
+Sabah,Pantai Tanjung Aru (Roll Skating),MMSC010,2025,87.0,actual,,,Good,Sabah
+Sabah,Pantai Tanjung Aru (No. 3),MMSC011,2025,87.0,actual,,,Good,Sabah
+Sabah,Pantai Lok Kawi,MMSC012,2025,83.0,actual,,,Good,Sabah
+Sabah,Pantai Dalit Tuaran,MMSC013,2025,59.0,actual,,,Moderate,Sabah
+Sabah,Mangrove Paradise,MMSC014,2025,66.0,actual,,,Moderate,Sabah
+Sabah,Pantai Sabandar,MMSC015,2025,62.0,actual,,,Moderate,Sabah
+Sabah,Pantai Bak-Bak Kudat,MMSC016,2025,78.0,actual,,,Moderate,Sabah
+Sabah,Pasir Putih Sandakan,MMSC017,2025,73.0,actual,,,Moderate,Sabah
+Sabah,Pantai TLDM,MMSC018,2025,79.0,actual,,,Moderate,Sabah
+Sabah,Pantai Batu Sapi,MMSC019,2025,79.0,actual,,,Moderate,Sabah
+Sabah,Pantai Ulu Tungku,MMSC020,2025,65.0,actual,,,Moderate,Sabah
+Sabah,Pantai Sarina Kunak,MMSC021,2025,69.0,actual,,,Moderate,Sabah
+Sabah,Pantai Kg. Lamak,MMSC022,2025,80.0,actual,,,Good,Sabah
+Sabah,Pantai Tinagat,MMSC023,2025,62.0,actual,,,Moderate,Sabah
+Sabah,Pantai Tanjung Aru (Rest Lido),MMSC024,2025,89.0,actual,,,Good,Sabah
+W.P. Labuan,Pulau Papan,MMLC001,2025,83.0,actual,,,Good,Labuan
+W.P. Labuan,Kiamsam,MMLC002,2025,79.0,actual,,,Moderate,Labuan
+W.P. Labuan,Sungai Pagar,MMLC003,2025,75.0,actual,,,Moderate,Labuan
+W.P. Labuan,LayangLayangan,MMLC004,2025,88.0,actual,,,Good,Labuan
+W.P. Labuan,Tanjung Aru,MMLC005,2025,71.0,actual,,,Moderate,Labuan
+Kedah,Pantai Merdeka,MMKC001,2026,88.6,forecast,74.3,100.0,Good,Kedah
+Kedah,Langkawi Island Resort,MMKC002,2026,95.1,forecast,80.8,100.0,Excellent,Kedah
+Kedah,Pantai Kok,MMKC003,2026,93.1,forecast,78.8,100.0,Excellent,Kedah
+Kedah,Pantai Kuah,MMKC004,2026,91.0,forecast,76.7,100.0,Excellent,Kedah
+Kedah,Pantai Pasir Tengkorak,MMKC005,2026,94.7,forecast,80.4,100.0,Excellent,Kedah
+Kedah,Pantai Teluk Burau,MMKC006,2026,94.1,forecast,79.8,100.0,Excellent,Kedah
+Kedah,Pantai Teluk Nibong,MMKC007,2026,93.0,forecast,78.7,100.0,Excellent,Kedah
+Kedah,Pantai Tengah,MMKC008,2026,94.0,forecast,79.7,100.0,Excellent,Kedah
+Kedah,Pantai Beras Basah,MMKC009,2026,94.7,forecast,80.4,100.0,Excellent,Kedah
+P. Pinang,Gertak Sanggul,MMPC001,2026,87.3,forecast,73.0,100.0,Good,Penang
+P. Pinang,Kawasan Perindustrian Bayan Lepas 1,MMPC002,2026,74.3,forecast,60.1,88.6,Moderate,Penang
+P. Pinang,Pantai Bersih,MMPC003,2026,79.5,forecast,65.2,93.8,Moderate,Penang
+P. Pinang,Pantai Miami,MMPC004,2026,84.4,forecast,70.1,98.7,Good,Penang
+P. Pinang,Pantai Pasir Panjang,MMPC005,2026,91.7,forecast,77.4,100.0,Excellent,Penang
+P. Pinang,Batu Feringgi (Casuarina),MMPC006,2026,85.7,forecast,71.4,100.0,Good,Penang
+P. Pinang,Luar Pantai Teluk Bahang,MMPC007,2026,89.6,forecast,75.3,100.0,Good,Penang
+P. Pinang,Persiaran Gurney,MMPC008,2026,72.2,forecast,57.9,86.5,Moderate,Penang
+P. Pinang,Rumah Pam Baru Perai,MMPC009,2026,78.8,forecast,64.5,93.1,Moderate,Penang
+P. Pinang,Rumah Pam Lama Perai,MMPC010,2026,67.3,forecast,53.1,81.6,Moderate,Penang
+P. Pinang,Selat PP Selatan (Jelutong),MMPC011,2026,58.0,forecast,43.7,72.3,Moderate,Penang
+P. Pinang,Tanjung Bungah,MMPC012,2026,80.2,forecast,65.9,94.5,Good,Penang
+P. Pinang,Tanjung Bungah 2,MMPC013,2026,74.5,forecast,60.2,88.8,Moderate,Penang
+P. Pinang,Batu Maung 2,MMPC014,2026,65.1,forecast,50.8,79.4,Moderate,Penang
+P. Pinang,Pantai Sungai Batu Ferringhi 3,MMPC015,2026,89.7,forecast,75.5,100.0,Good,Penang
+P. Pinang,Pantai Sungai Batu Ferringhi 2,MMPC016,2026,91.9,forecast,77.6,100.0,Excellent,Penang
+P. Pinang,Pantai Sungai Batu Ferringhi 1,MMPC017,2026,91.7,forecast,77.5,100.0,Excellent,Penang
+Perak,Pantai Pasir Bogak,MMAC001,2026,94.5,forecast,80.2,100.0,Excellent,Perak
+Perak,Pantai Teluk Dalam,MMAC002,2026,93.0,forecast,78.7,100.0,Excellent,Perak
+Perak,Pantai Teluk Batik,MMAC003,2026,89.9,forecast,75.6,100.0,Good,Perak
+Perak,Pantai Tanjung Batu,MMAC004,2026,93.4,forecast,79.1,100.0,Excellent,Perak
+Perak,Pantai Teluk Rubiah,MMAC005,2026,91.5,forecast,77.2,100.0,Excellent,Perak
+Perak,Pantai Damai Laut,MMAC006,2026,92.9,forecast,78.6,100.0,Excellent,Perak
+Perak,Pantai Teluk Senangin,MMAC007,2026,92.7,forecast,78.4,100.0,Excellent,Perak
+Perak,Pantai Pasir Panjang,MMAC008,2026,94.2,forecast,79.9,100.0,Excellent,Perak
+Selangor,Pantai Bagan Lalang,MMBC001,2026,87.3,forecast,73.0,100.0,Good,Selangor
+Selangor,Pantai Morib,MMBC002,2026,77.4,forecast,63.1,91.6,Moderate,Selangor
+Selangor,Selat Pulau Babi,MMBC003,2026,84.2,forecast,69.9,98.5,Good,Selangor
+Selangor,Selat Klang Utara,MMBC004,2026,60.5,forecast,46.2,74.8,Moderate,Selangor
+Selangor,Pantai Remis,MMBC005,2026,83.2,forecast,68.9,97.5,Good,Selangor
+Selangor,Pantai Klanang,MMBC006,2026,71.2,forecast,56.9,85.5,Moderate,Selangor
+N. Sembilan,Bagan Pinang,MMNC001,2026,92.0,forecast,77.7,100.0,Excellent,Negeri Sembilan
+N. Sembilan,Telok Sinting,MMNC002,2026,89.8,forecast,75.5,100.0,Good,Negeri Sembilan
+N. Sembilan,Port Dickson Bandar,MMNC003,2026,91.1,forecast,76.8,100.0,Excellent,Negeri Sembilan
+N. Sembilan,Port Dickson Batu 4,MMNC004,2026,90.9,forecast,76.6,100.0,Excellent,Negeri Sembilan
+N. Sembilan,Port Dickson Batu 5,MMNC005,2026,86.3,forecast,72.0,100.0,Good,Negeri Sembilan
+N. Sembilan,Port Dickson Batu 6,MMNC006,2026,92.1,forecast,77.8,100.0,Excellent,Negeri Sembilan
+N. Sembilan,Port Dickson Batu 7,MMNC007,2026,93.1,forecast,78.8,100.0,Excellent,Negeri Sembilan
+N. Sembilan,Port Dickson Batu 8,MMNC008,2026,94.3,forecast,80.0,100.0,Excellent,Negeri Sembilan
+N. Sembilan,Port Dickson Batu 10,MMNC009,2026,93.3,forecast,79.0,100.0,Excellent,Negeri Sembilan
+N. Sembilan,Port Dickson Janakuasa TNB,MMNC010,2026,87.0,forecast,72.7,100.0,Good,Negeri Sembilan
+N. Sembilan,Telok Pelanduk,MMNC011,2026,91.9,forecast,77.6,100.0,Excellent,Negeri Sembilan
+N. Sembilan,Pantai Cermin,MMNC012,2026,93.6,forecast,79.3,100.0,Excellent,Negeri Sembilan
+N. Sembilan,Pantai Teluk Kemang,MMNC013,2026,93.5,forecast,79.2,100.0,Excellent,Negeri Sembilan
+N. Sembilan,Pantai Seri Purnama,MMNC014,2026,93.9,forecast,79.6,100.0,Excellent,Negeri Sembilan
+Melaka,Pantai Rombang,MMMC001,2026,89.2,forecast,74.9,100.0,Good,Malacca
+Melaka,Pantai Kundur,MMMC002,2026,88.9,forecast,74.6,100.0,Good,Malacca
+Melaka,Pantai Tanjung Bidara,MMMC003,2026,84.6,forecast,70.3,98.9,Good,Malacca
+Melaka,Teluk Gong,MMMC004,2026,81.7,forecast,67.4,96.0,Good,Malacca
+Melaka,Pulau Melaka Point A1,MMMC005,2026,85.9,forecast,71.6,100.0,Good,Malacca
+Melaka,Pulau Melaka Point A2,MMMC006,2026,86.8,forecast,72.5,100.0,Good,Malacca
+Melaka,Pulau Melaka Point B1,MMMC007,2026,57.4,forecast,43.1,71.7,Moderate,Malacca
+Melaka,Pulau Melaka Point B2,MMMC008,2026,56.8,forecast,42.5,71.1,Moderate,Malacca
+Melaka,Pantai Klebang,MMMC009,2026,88.1,forecast,73.8,100.0,Good,Malacca
+Johor,Tanjung Bin,MMJC001,2026,90.3,forecast,76.0,100.0,Excellent,Johor
+Johor,Pelabuhan Tanjung Pelepas,MMJC002,2026,87.2,forecast,72.9,100.0,Good,Johor
+Johor,Hadapan Jabatan Laut,MMJC003,2026,77.5,forecast,63.2,91.8,Moderate,Johor
+Johor,Pantai Stulang Laut,MMJC004,2026,54.8,forecast,40.5,69.1,Moderate,Johor
+Johor,Jeti Teluk Jawa,MMJC005,2026,66.6,forecast,52.3,80.9,Moderate,Johor
+Johor,Pelabuhan Pasir Gudang,MMJC006,2026,59.0,forecast,44.7,73.3,Moderate,Johor
+Johor,Hadapan HSAJB,MMJC007,2026,55.1,forecast,40.8,69.4,Moderate,Johor
+Johor,Pantai Lido,MMJC008,2026,53.1,forecast,38.8,67.4,Moderate,Johor
+Johor,Pantai Teluk Mahkota,MMJC009,2026,93.0,forecast,78.7,100.0,Excellent,Johor
+Johor,Pantai Tanjung Leman,MMJC010,2026,95.1,forecast,80.8,100.0,Excellent,Johor
+Johor,Pantai Sri Pantai,MMJC011,2026,94.2,forecast,80.0,100.0,Excellent,Johor
+Johor,Tanjung Merak,MMJC012,2026,90.0,forecast,75.7,100.0,Excellent,Johor
+Johor,Tanjung Pengelih,MMJC013,2026,92.5,forecast,78.2,100.0,Excellent,Johor
+Johor,Pantai Tanjong Stapa,MMJC014,2026,81.6,forecast,67.3,95.9,Good,Johor
+Johor,Pantai Teluk Gorek,MMJC015,2026,94.2,forecast,79.9,100.0,Excellent,Johor
+Johor,Pantai Air Papan,MMJC016,2026,94.1,forecast,79.8,100.0,Excellent,Johor
+Johor,Jeti Kukup,MMJC017,2026,72.8,forecast,58.5,87.1,Moderate,Johor
+Johor,Pasir Gogok,MMJC018,2026,88.6,forecast,74.3,100.0,Good,Johor
+Johor,Tanjung Buai,MMJC019,2026,87.7,forecast,73.4,100.0,Good,Johor
+Johor,Pantai Desaru,MMJC020,2026,95.0,forecast,80.7,100.0,Excellent,Johor
+Johor,Tanjung Sepang,MMJC021,2026,90.8,forecast,76.6,100.0,Excellent,Johor
+Johor,Tanjung Penyusup,MMJC022,2026,93.5,forecast,79.2,100.0,Excellent,Johor
+Johor,Pantai Sungai Lurus,MMJC023,2026,88.6,forecast,74.3,100.0,Good,Johor
+Johor,Punggur,MMJC024,2026,82.9,forecast,68.6,97.2,Good,Johor
+Johor,Pantai Penyabung,MMJC025,2026,95.0,forecast,80.7,100.0,Excellent,Johor
+Johor,Tanjung Resang,MMJC026,2026,93.7,forecast,79.4,100.0,Excellent,Johor
+Johor,Tanjung Balau,MMJC027,2026,94.9,forecast,80.6,100.0,Excellent,Johor
+Johor,Batu Layar,MMJC028,2026,94.5,forecast,80.2,100.0,Excellent,Johor
+Johor,Tanjung Sengat,MMJC029,2026,87.2,forecast,72.9,100.0,Good,Johor
+Pahang,Pantai Cherating (Club Med A),MMCC001,2026,93.8,forecast,79.5,100.0,Excellent,Pahang
+Pahang,Pantai Cherating (Club Med B),MMCC002,2026,95.5,forecast,81.2,100.0,Excellent,Pahang
+Pahang,Pantai Cherating (Legend A),MMCC003,2026,94.2,forecast,79.9,100.0,Excellent,Pahang
+Pahang,Pantai Cherating (Legend B),MMCC004,2026,95.8,forecast,81.5,100.0,Excellent,Pahang
+Pahang,Pantai Muhibbah Balok A,MMCC005,2026,92.9,forecast,78.6,100.0,Excellent,Pahang
+Pahang,Pantai Muhibbah Balok B,MMCC006,2026,81.9,forecast,67.6,96.2,Good,Pahang
+Pahang,Pantai Batu Hitam A,MMCC007,2026,93.0,forecast,78.7,100.0,Excellent,Pahang
+Pahang,Pantai Batu Hitam B,MMCC008,2026,91.8,forecast,77.5,100.0,Excellent,Pahang
+Pahang,Pantai Berserah A,MMCC009,2026,94.3,forecast,80.0,100.0,Excellent,Pahang
+Pahang,Pantai Berserah B,MMCC010,2026,92.7,forecast,78.4,100.0,Excellent,Pahang
+Pahang,Pantai Teluk Cempedak A,MMCC011,2026,93.5,forecast,79.2,100.0,Excellent,Pahang
+Pahang,Pantai Teluk Cempedak B,MMCC012,2026,93.0,forecast,78.7,100.0,Excellent,Pahang
+Pahang,Pantai Teluk Gelora A,MMCC013,2026,85.8,forecast,71.5,100.0,Good,Pahang
+Pahang,Pantai Teluk Gelora B,MMCC014,2026,78.7,forecast,64.4,93.0,Moderate,Pahang
+Pahang,Pantai Sepat A,MMCC015,2026,94.9,forecast,80.6,100.0,Excellent,Pahang
+Pahang,Pantai Sepat B,MMCC016,2026,94.6,forecast,80.3,100.0,Excellent,Pahang
+Pahang,Pantai Legenda A,MMCC017,2026,94.6,forecast,80.3,100.0,Excellent,Pahang
+Pahang,Pantai Legenda B,MMCC018,2026,95.1,forecast,80.8,100.0,Excellent,Pahang
+Pahang,Pantai Kuala Api-Api,MMCC019,2026,95.1,forecast,80.8,100.0,Excellent,Pahang
+Pahang,Pantai Tanjung Batu,MMCC020,2026,94.9,forecast,80.6,100.0,Excellent,Pahang
+Pahang,Pantai Chendor,MMCC021,2026,93.4,forecast,79.1,100.0,Excellent,Pahang
+Pahang,Pantai Lanjut,MMCC022,2026,94.2,forecast,79.9,100.0,Excellent,Pahang
+Terengganu,Pantai Batu Buruk,MMTC001,2026,93.2,forecast,78.9,100.0,Excellent,Terengganu
+Terengganu,Pantai Bukit Keluang,MMTC002,2026,95.6,forecast,81.3,100.0,Excellent,Terengganu
+Terengganu,Pantai Chendering,MMTC003,2026,94.9,forecast,80.6,100.0,Excellent,Terengganu
+Terengganu,Pantai Rantau Abang,MMTC004,2026,95.6,forecast,81.4,100.0,Excellent,Terengganu
+Terengganu,KIPC Utara,MMTC005,2026,95.6,forecast,81.3,100.0,Excellent,Terengganu
+Terengganu,KIPC Tengah,MMTC006,2026,95.0,forecast,80.7,100.0,Excellent,Terengganu
+Terengganu,KIPC Selatan,MMTC007,2026,94.5,forecast,80.3,100.0,Excellent,Terengganu
+Terengganu,Pantai Rhu 10,MMTC008,2026,96.0,forecast,81.7,100.0,Excellent,Terengganu
+Terengganu,Pantai Tok Jembal,MMTC009,2026,95.3,forecast,81.0,100.0,Excellent,Terengganu
+Terengganu,Pantai Kelulut,MMTC010,2026,94.1,forecast,79.9,100.0,Excellent,Terengganu
+Terengganu,Pantai Teluk Ketapang,MMTC011,2026,95.8,forecast,81.6,100.0,Excellent,Terengganu
+Terengganu,Pantai Kuala Abang,MMTC012,2026,95.7,forecast,81.4,100.0,Excellent,Terengganu
+Terengganu,Pantai Teluk Kalong,MMTC013,2026,96.1,forecast,81.8,100.0,Excellent,Terengganu
+Terengganu,Pantai Sura,MMTC014,2026,94.5,forecast,80.2,100.0,Excellent,Terengganu
+Terengganu,Pantai Tanjung Bidara,MMTC015,2026,96.0,forecast,81.7,100.0,Excellent,Terengganu
+Terengganu,Pantai Kemasik,MMTC016,2026,95.8,forecast,81.5,100.0,Excellent,Terengganu
+Kelantan,Pantai Seri Tujuh,MMDC001,2026,94.1,forecast,79.8,100.0,Excellent,Kelantan
+Kelantan,Pantai Cahaya Bulan,MMDC002,2026,95.6,forecast,81.3,100.0,Excellent,Kelantan
+Kelantan,Pantai Sabak,MMDC003,2026,94.8,forecast,80.5,100.0,Excellent,Kelantan
+Kelantan,Pantai Irama Bachok,MMDC004,2026,95.0,forecast,80.7,100.0,Excellent,Kelantan
+Kelantan,Pantai Bisikan Bayu,MMDC005,2026,95.3,forecast,81.0,100.0,Excellent,Kelantan
+Kelantan,Pantai Melawi,MMDC006,2026,95.2,forecast,80.9,100.0,Excellent,Kelantan
+Sarawak,Pantai Sematan,MMQC001,2026,79.3,forecast,65.0,93.6,Moderate,Sarawak
+Sarawak,Pantai Pandan,MMQC002,2026,75.2,forecast,60.9,89.4,Moderate,Sarawak
+Sarawak,Pantai Pasir Putih,MMQC003,2026,76.0,forecast,61.7,90.3,Moderate,Sarawak
+Sarawak,Pantai Bako,MMQC004,2026,78.3,forecast,64.0,92.5,Moderate,Sarawak
+Sarawak,Pantai Damai,MMQC005,2026,83.1,forecast,68.8,97.4,Good,Sarawak
+Sarawak,Pantai Tanjung Kembang,MMQC006,2026,71.7,forecast,57.4,86.0,Moderate,Sarawak
+Sarawak,Pantai Harmoni Mukah,MMQC007,2026,73.1,forecast,58.8,87.3,Moderate,Sarawak
+Sarawak,Pantai Tanjung Batu,MMQC008,2026,69.7,forecast,55.4,84.0,Moderate,Sarawak
+Sarawak,Pantai Likau,MMQC009,2026,77.1,forecast,62.8,91.4,Moderate,Sarawak
+Sarawak,Pantai Emas,MMQC010,2026,71.2,forecast,57.0,85.5,Moderate,Sarawak
+Sarawak,Pantai Piasau,MMQC011,2026,70.3,forecast,56.0,84.6,Moderate,Sarawak
+Sarawak,Pantai Brighton,MMQC012,2026,66.9,forecast,52.6,81.2,Moderate,Sarawak
+Sarawak,Pantai Esplaned,MMQC013,2026,70.6,forecast,56.3,84.9,Moderate,Sarawak
+Sarawak,Pantai Beraya,MMQC014,2026,70.8,forecast,56.5,85.1,Moderate,Sarawak
+Sarawak,Pantai Bungai,MMQC015,2026,69.9,forecast,55.6,84.2,Moderate,Sarawak
+Sarawak,Pantai Belawai,MMQC016,2026,69.7,forecast,55.4,84.0,Moderate,Sarawak
+Sarawak,Pantai Mukah,MMQC017,2026,81.1,forecast,66.9,95.4,Good,Sarawak
+Sarawak,Tanjung Kidurong,MMQC018,2026,73.4,forecast,59.2,87.7,Moderate,Sarawak
+Sarawak,Pasir Pandak,MMQC019,2026,79.9,forecast,65.6,94.1,Moderate,Sarawak
+Sarawak,Rambungan,MMQC020,2026,81.9,forecast,67.6,96.2,Good,Sarawak
+Sarawak,Sri Tanjung Lawas,MMQC021,2026,69.5,forecast,55.2,83.8,Moderate,Sarawak
+Sarawak,Pantai Luak,MMQC022,2026,67.3,forecast,53.0,81.6,Moderate,Sarawak
+Sarawak,Pasir Panjang,MMQC023,2026,74.0,forecast,59.7,88.3,Moderate,Sarawak
+Sabah,Pantai Teluk Brunei 1,MMSC001,2026,67.7,forecast,53.4,82.0,Moderate,Sabah
+Sabah,Pantai Teluk Brunei 2,MMSC002,2026,75.2,forecast,60.9,89.5,Moderate,Sabah
+Sabah,Pantai Teluk Brunei 3,MMSC003,2026,67.5,forecast,53.2,81.8,Moderate,Sabah
+Sabah,Pantai Teluk Brunei 4,MMSC004,2026,73.2,forecast,58.9,87.5,Moderate,Sabah
+Sabah,Pantai Teluk Brunei 5,MMSC005,2026,65.9,forecast,51.6,80.2,Moderate,Sabah
+Sabah,Pantai Teluk Brunei 6,MMSC006,2026,70.9,forecast,56.6,85.2,Moderate,Sabah
+Sabah,Borneo Golf Seawater,MMSC007,2026,68.9,forecast,54.7,83.2,Moderate,Sabah
+Sabah,Pantai Manis Papar,MMSC008,2026,64.0,forecast,49.8,78.3,Moderate,Sabah
+Sabah,Pantai Melinsung,MMSC009,2026,63.0,forecast,48.7,77.3,Moderate,Sabah
+Sabah,Pantai Tanjung Aru (Roll Skating),MMSC010,2026,68.9,forecast,54.6,83.2,Moderate,Sabah
+Sabah,Pantai Tanjung Aru (No. 3),MMSC011,2026,72.3,forecast,58.0,86.6,Moderate,Sabah
+Sabah,Pantai Lok Kawi,MMSC012,2026,67.3,forecast,53.0,81.6,Moderate,Sabah
+Sabah,Pantai Dalit Tuaran,MMSC013,2026,61.8,forecast,47.5,76.1,Moderate,Sabah
+Sabah,Mangrove Paradise,MMSC014,2026,63.8,forecast,49.5,78.1,Moderate,Sabah
+Sabah,Pantai Sabandar,MMSC015,2026,62.5,forecast,48.2,76.8,Moderate,Sabah
+Sabah,Pantai Bak-Bak Kudat,MMSC016,2026,72.5,forecast,58.2,86.8,Moderate,Sabah
+Sabah,Pasir Putih Sandakan,MMSC017,2026,74.1,forecast,59.8,88.4,Moderate,Sabah
+Sabah,Pantai TLDM,MMSC018,2026,75.5,forecast,61.2,89.7,Moderate,Sabah
+Sabah,Pantai Batu Sapi,MMSC019,2026,74.4,forecast,60.1,88.7,Moderate,Sabah
+Sabah,Pantai Ulu Tungku,MMSC020,2026,62.3,forecast,48.0,76.6,Moderate,Sabah
+Sabah,Pantai Sarina Kunak,MMSC021,2026,62.3,forecast,48.0,76.6,Moderate,Sabah
+Sabah,Pantai Kg. Lamak,MMSC022,2026,66.9,forecast,52.6,81.2,Moderate,Sabah
+Sabah,Pantai Tinagat,MMSC023,2026,66.5,forecast,52.2,80.8,Moderate,Sabah
+Sabah,Pantai Tanjung Aru (Rest Lido),MMSC024,2026,74.9,forecast,60.6,89.2,Moderate,Sabah
+W.P. Labuan,Pulau Papan,MMLC001,2026,65.9,forecast,51.6,80.2,Moderate,Labuan
+W.P. Labuan,Kiamsam,MMLC002,2026,67.4,forecast,53.1,81.7,Moderate,Labuan
+W.P. Labuan,Sungai Pagar,MMLC003,2026,67.1,forecast,52.8,81.4,Moderate,Labuan
+W.P. Labuan,LayangLayangan,MMLC004,2026,70.3,forecast,56.0,84.6,Moderate,Labuan
+W.P. Labuan,Tanjung Aru,MMLC005,2026,64.0,forecast,49.7,78.3,Moderate,Labuan

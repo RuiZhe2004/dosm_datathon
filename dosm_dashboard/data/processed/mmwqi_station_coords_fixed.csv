@@ -1,0 +1,189 @@
+station,state,area,lat,lon,match,query_used,precision
+MMKC001,Kedah,Pantai Merdeka,5.6679342,100.3688798,"Pantai Merdeka, K14, Kampong Bukit Kechil, Kampung Bagan Ulu, Kuala Muda, Kedah, 08110, Malaysia","Pantai Merdeka, Kedah, Malaysia",geocoded
+MMKC002,Kedah,Langkawi Island Resort,6.2757253,99.734134,"Royale Chenang Resort, 735c, Jalan Pantai Tengah, Pantai Tengah, Langkawi, Kedah, 07100, Malaysia",Langkawi Island Resort,geocoded
+MMKC003,Kedah,Pantai Kok,6.364685,99.6834089,"Pantai Kok, Langkawi, Kedah, Malaysia","Pantai Kok, Kedah, Malaysia",geocoded
+MMKC004,Kedah,Pantai Kuah,6.296145,99.8618787,"Pantai Beringin, Kuah, Langkawi, Kedah, Malaysia","Pantai Kuah, Kedah, Malaysia",geocoded
+MMKC005,Kedah,Pantai Pasir Tengkorak,6.4306215,99.725943,Google Maps: Sandy Skulls Beach,"Pantai Pasir Tengkorak, Malaysia",geocoded
+MMKC006,Kedah,Pantai Teluk Burau,6.3648692,99.6731387,Google Maps: Teluk Burau,"Pantai Teluk Burau, Malaysia",geocoded
+MMKC007,Kedah,Pantai Teluk Nibong,6.3601023,99.7030568,"Pantai Teluk Nibong, Kuala Teriang, Langkawi, Kedah, Malaysia","Pantai Teluk Nibong, Kedah, Malaysia",geocoded
+MMKC008,Kedah,Pantai Tengah,6.2814791,99.7304458,"Pantai Tengah, Langkawi, Kedah, Malaysia","Pantai Tengah, Kedah, Malaysia",geocoded
+MMKC009,Kedah,Pantai Beras Basah,6.2249159,99.7160604,Google Maps: Pantai Beras Basah area,"Pantai Beras Basah, Malaysia",geocoded
+MMPC001,P. Pinang,Gertak Sanggul,5.2848183,100.1941399,Google Maps: Gertak Sanggul (island),"Gertak Sanggul, Penang, Malaysia",geocoded
+MMPC002,P. Pinang,Kawasan Perindustrian Bayan Lepas 1,5.308987,100.2832409,Google Maps: Bayan Lepas Free Industrial Zone (island),"Kawasan Perindustrian Bayan Lepas 1, Malaysia",geocoded
+MMPC003,P. Pinang,Pantai Bersih,5.4447898,100.3789818,Google Maps: Pantai Bersih (mainland Perai),"Pantai Bersih, Penang, Malaysia",geocoded
+MMPC004,P. Pinang,Pantai Miami,5.4779361,100.2680632,Google Maps: Miami Beach / Pantai Miami (island),"Pantai Miami, Penang, Malaysia",geocoded
+MMPC005,P. Pinang,Pantai Pasir Panjang,5.2990405,100.1846266,Google Maps: Pantai Pasir Panjang (island),"Pantai Pasir Panjang, Penang, Malaysia",geocoded
+MMPC006,P. Pinang,Batu Feringgi (Casuarina),5.4728306,100.2466205,Google Maps: Casuarina Beach Resort (island),"Batu Feringgi (Casuarina), Malaysia",geocoded
+MMPC007,P. Pinang,Luar Pantai Teluk Bahang,5.4605907,100.2142058,Google Maps: Teluk Bahang area (island),"Luar Pantai Teluk Bahang, Malaysia",geocoded
+MMPC008,P. Pinang,Persiaran Gurney,5.434655,100.3146159,Google Maps: Gurney Dr (island),"Persiaran Gurney, Penang, Malaysia",geocoded
+MMPC009,P. Pinang,Rumah Pam Baru Perai,5.3422195,100.4292878,Google Maps: Perai area (mainland),"Rumah Pam Baru Perai, Malaysia",geocoded
+MMPC010,P. Pinang,Rumah Pam Lama Perai,5.3798718,100.3887654,Google Maps: Perai area (mainland),"Rumah Pam Lama Perai, Malaysia",geocoded
+MMPC011,P. Pinang,Selat PP Selatan (Jelutong),5.3960464,100.317182,Google Maps: Jelutong strait (island),"Selat PP Selatan (Jelutong), Malaysia",geocoded
+MMPC012,P. Pinang,Tanjung Bungah,5.465118,100.2822098,Google Maps: Tanjung Bungah (island),"Tanjung Bungah, Penang, Malaysia",geocoded
+MMPC013,P. Pinang,Tanjung Bungah 2,5.4577252,100.2815577,"Tenby Schools Penang, 2, Lintang Lembah Permai 1, Mukim 18, Timur Laut, George Town, Pulau Pinang, 11200, Malaysia","Tanjung Bungah 2, Penang, Malaysia",geocoded
+MMPC014,P. Pinang,Batu Maung 2,5.283818,100.2900359,Google Maps: Batu Maung (island),"Batu Maung 2, Penang, Malaysia",geocoded
+MMPC015,P. Pinang,Pantai Sungai Batu Ferringhi 3,5.4726785,100.2458335,Google Maps: Batu Ferringhi area (island),"Pantai Sungai Batu Ferringhi 3, Malaysia",geocoded
+MMPC016,P. Pinang,Pantai Sungai Batu Ferringhi 2,5.4726785,100.2458335,Google Maps: Batu Ferringhi area (island),"Pantai Sungai Batu Ferringhi 2, Malaysia",geocoded
+MMPC017,P. Pinang,Pantai Sungai Batu Ferringhi 1,5.4726785,100.2458335,Google Maps: Batu Ferringhi area (island),"Pantai Sungai Batu Ferringhi 1, Malaysia",geocoded
+MMAC001,Perak,Pantai Pasir Bogak,4.2103744,100.5571362,"Pantai Pasir Bogak, Pulau Pangkor, Manjung, Perak, 32300, Malaysia","Pantai Pasir Bogak, Perak, Malaysia",geocoded
+MMAC002,Perak,Pantai Teluk Dalam,4.2525144,100.5461023,"Pantai Puteri Dewi (private), Teluk Dalam, Manjung, Perak, 32300, Malaysia","Pantai Teluk Dalam, Perak, Malaysia",geocoded
+MMAC003,Perak,Pantai Teluk Batik,4.1869863,100.6079114,"Pantai Teluk Batik, Lumut, Manjung, Perak, Malaysia","Pantai Teluk Batik, Perak, Malaysia",geocoded
+MMAC004,Perak,Pantai Tanjung Batu,4.2835574,100.6722835,Google Maps: Tanjung Batu area,"Pantai Tanjung Batu, Malaysia",geocoded
+MMAC005,Perak,Pantai Teluk Rubiah,4.188066,100.6065589,Google Maps: substitute: Pantai Teluk Batik (nearby),"Pantai Teluk Rubiah, Malaysia",geocoded
+MMAC006,Perak,Pantai Damai Laut,4.2652439,100.5913318,Google Maps: Pantai Damai Laut,"Pantai Damai Laut, Malaysia",geocoded
+MMAC007,Perak,Pantai Teluk Senangin,4.3049791,100.5781114,"Pantai Teluk Senangin, Lumut, Manjung, Perak, 32200, Malaysia","Pantai Teluk Senangin, Perak, Malaysia",geocoded
+MMAC008,Perak,Pantai Pasir Panjang,4.3478606,100.5737287,Google Maps: Pantai Pasir Panjang Lumut,"Pantai Pasir Panjang, Malaysia",geocoded
+MMBC001,Selangor,Pantai Bagan Lalang,2.6061365,101.687697,"Pantai Bagan Lalang, Bagan Lalang, Sepang, Selangor, Malaysia","Pantai Bagan Lalang, Selangor, Malaysia",geocoded
+MMBC002,Selangor,Pantai Morib,2.7541244,101.4408708,"Pantai Morib, Morib, Banting, Kuala Langat, Selangor, Malaysia","Pantai Morib, Selangor, Malaysia",geocoded
+MMBC003,Selangor,Selat Pulau Babi,3.0166667,101.2666667,Google Maps: Pulau Babi,"Selat Pulau Babi, Malaysia",geocoded
+MMBC004,Selangor,Selat Klang Utara,3.0091287,101.3736914,"Kawasan Perindustrian Selat Klang Utara, Pelabuhan Klang, Bandaraya Klang, Klang, Selangor, Malaysia","Selat Klang Utara, Selangor, Malaysia",geocoded
+MMBC005,Selangor,Pantai Remis,3.2001649,101.3057717,"Pantai Remis, Sungai Sembilang, Kuala Selangor, Selangor, Malaysia","Pantai Remis, Selangor, Malaysia",geocoded
+MMBC006,Selangor,Pantai Klanang,2.7896752,101.410954,Google Maps: Pantai Kelanang,"Pantai Klanang, Malaysia",geocoded
+MMNC001,N. Sembilan,Bagan Pinang,2.5036076,101.8366923,"Hotel Seri Malaysia, Jalan Pantai, Taman Eastern, Si Rusa, Port Dickson, Negeri Sembilan, 71050, Malaysia","Bagan Pinang, Negeri Sembilan, Malaysia",geocoded
+MMNC002,N. Sembilan,Telok Sinting,2.4790558,101.8702805,Google Maps: Telok Sinting area,"Telok Sinting, Malaysia",geocoded
+MMNC003,N. Sembilan,Port Dickson Bandar,2.5609034,101.8098007,"Pos Malaysia, Tesco Lukut, Pusat Perniagaan Lukut Prima, Bandar Dataran Segar, Port Dickson, Negeri Sembilan, 71010, Malaysia","Port Dickson Bandar, Negeri Sembilan, Malaysia",geocoded
+MMNC004,N. Sembilan,Port Dickson Batu 4,2.5262491,101.8106156,"Port Dickson, Negeri Sembilan, 71000, Malaysia","Port Dickson Batu 4, Negeri Sembilan, Malaysia",geocoded
+MMNC005,N. Sembilan,Port Dickson Batu 5,2.5262491,101.8106156,"Port Dickson, Negeri Sembilan, 71000, Malaysia","Port Dickson Batu 5, Negeri Sembilan, Malaysia",geocoded
+MMNC006,N. Sembilan,Port Dickson Batu 6,2.5262491,101.8106156,"Port Dickson, Negeri Sembilan, 71000, Malaysia","Port Dickson Batu 6, Negeri Sembilan, Malaysia",geocoded
+MMNC007,N. Sembilan,Port Dickson Batu 7,2.5262491,101.8106156,"Port Dickson, Negeri Sembilan, 71000, Malaysia","Port Dickson Batu 7, Negeri Sembilan, Malaysia",geocoded
+MMNC008,N. Sembilan,Port Dickson Batu 8,2.5262491,101.8106156,"Port Dickson, Negeri Sembilan, 71000, Malaysia","Port Dickson Batu 8, Negeri Sembilan, Malaysia",geocoded
+MMNC009,N. Sembilan,Port Dickson Batu 10,2.4206838,101.8663432,"Port Dickson Methodist Centre, Jalan Pantai, Batu 10, Kampung Segenting, Port Dickson, Negeri Sembilan, 71050, Malaysia","Port Dickson Batu 10, Negeri Sembilan, Malaysia",geocoded
+MMNC010,N. Sembilan,Port Dickson Janakuasa TNB,2.5410912,101.8038231,Google Maps: Port Dickson power station area,"Port Dickson Janakuasa TNB, Malaysia",geocoded
+MMNC011,N. Sembilan,Telok Pelanduk,2.4188245,101.8925176,"Akademi Imigresen Malaysia, Jalan Kampung Telok Pelandok, Taman Green View, Teluk Pelanduk, Port Dickson, Negeri Sembilan, 71050, Malaysia","Telok Pelanduk, Negeri Sembilan, Malaysia",geocoded
+MMNC012,N. Sembilan,Pantai Cermin,2.4162147,101.8605396,"Pantai Cermin, Teluk Pelanduk, Port Dickson, Negeri Sembilan, Malaysia","Pantai Cermin, Negeri Sembilan, Malaysia",geocoded
+MMNC013,N. Sembilan,Pantai Teluk Kemang,2.4535662,101.8554244,"Pantai Teluk Kemang, Teluk Kemang, Port Dickson, Negeri Sembilan, Malaysia","Pantai Teluk Kemang, Negeri Sembilan, Malaysia",geocoded
+MMNC014,N. Sembilan,Pantai Seri Purnama,2.4436069,101.8559043,Google Maps: Pantai Purnama,"Pantai Seri Purnama, Malaysia",geocoded
+MMMC001,Melaka,Pantai Rombang,2.2364946,102.1450594,"Masjid Pantai Rombang, Jalan Tanjung Kling, Pantai Puteri, Tanjung Kling, Melaka Tengah, Melaka, 76400, Malaysia","Pantai Rombang, Melaka, Malaysia",geocoded
+MMMC002,Melaka,Pantai Kundur,2.2491112,102.1379176,"Kampung Pantai Kundur, Bandaraya Melaka, Melaka Tengah, Melaka, 76400, Malaysia","Pantai Kundur, Melaka, Malaysia",geocoded
+MMMC003,Melaka,Pantai Tanjung Bidara,2.3140936,102.0728181,"Pantai Pengkalan Balak, Pengkalan Balak, Alor Gajah, Melaka, Malaysia","Pantai Tanjung Bidara, Melaka, Malaysia",geocoded
+MMMC004,Melaka,Teluk Gong,2.3502375,102.0499638,"Bukit Telok Gong, Kuala Sungai Baru, Alor Gajah, Melaka, 78200, Malaysia","Teluk Gong, Melaka, Malaysia",geocoded
+MMMC005,Melaka,Pulau Melaka Point A1,2.1796865,102.2512155,Google Maps: Pulau Melaka / Malacca Island,"Pulau Melaka Point A1, Malaysia",geocoded
+MMMC006,Melaka,Pulau Melaka Point A2,2.1796865,102.2512155,Google Maps: Pulau Melaka / Malacca Island,"Pulau Melaka Point A2, Malaysia",geocoded
+MMMC007,Melaka,Pulau Melaka Point B1,2.1796865,102.2512155,Google Maps: Pulau Melaka / Malacca Island,"Pulau Melaka Point B1, Malaysia",geocoded
+MMMC008,Melaka,Pulau Melaka Point B2,2.1796865,102.2512155,Google Maps: Pulau Melaka / Malacca Island,"Pulau Melaka Point B2, Malaysia",geocoded
+MMMC009,Melaka,Pantai Klebang,2.2099789,102.2137403,"Jalan Pantai Klebang, Taman Klebang Jaya, Kampung Pokok Mangga, Bandaraya Melaka, Melaka Tengah, Melaka, 75200, Malaysia","Pantai Klebang, Melaka, Malaysia",geocoded
+MMJC001,Johor,Tanjung Bin,1.3308581,103.5347257,"Stesen Janakuasa Tanjung Bin, Pontian, Johor, Malaysia","Tanjung Bin, Johor, Malaysia",geocoded
+MMJC002,Johor,Pelabuhan Tanjung Pelepas,1.3552449,103.5542256,"Pelabuhan Tanjung Pelepas, Kampung Tanjong Pelepas, Iskandar Puteri, Johor Bahru, Johor, Malaysia","Pelabuhan Tanjung Pelepas, Johor, Malaysia",geocoded
+MMJC003,Johor,Hadapan Jabatan Laut,1.4109039,103.7206629,Google Maps: Johor Bahru marine dept area,"Hadapan Jabatan Laut, Malaysia",geocoded
+MMJC004,Johor,Pantai Stulang Laut,1.4689049,103.7807463,Google Maps: Pantai Stulang Laut,"Pantai Stulang Laut, Malaysia",geocoded
+MMJC005,Johor,Jeti Teluk Jawa,1.478247,103.845852,Google Maps: Kampung Teluk Jawa,"Jeti Teluk Jawa, Malaysia",geocoded
+MMJC006,Johor,Pelabuhan Pasir Gudang,1.4390587,103.9015989,"Johor Port, Pasir Gudang, Johor Bahru, Johor, 81700, Malaysia","Pelabuhan Pasir Gudang, Johor, Malaysia",geocoded
+MMJC007,Johor,Hadapan HSAJB,1.4584962,103.7460342,Google Maps: Hospital Sultanah Aminah JB,"Hadapan HSAJB, Malaysia",geocoded
+MMJC008,Johor,Pantai Lido,1.4644922,103.7255228,"Google Maps: Lido Beach, Johor Bahru (corrected from a Kota Kinabalu street-name false match)","Pantai Lido, Johor",geocoded
+MMJC009,Johor,Pantai Teluk Mahkota,1.8982291,104.1039804,Google Maps: Pantai Teluk Mahkota (Mersing),"Pantai Teluk Mahkota, Malaysia",geocoded
+MMJC010,Johor,Pantai Tanjung Leman,2.14211,104.0087,Google Maps: Pantai Tanjung Leman,"Pantai Tanjung Leman, Malaysia",geocoded
+MMJC011,Johor,Pantai Sri Pantai,2.3927417,103.8520048,"Taman Sri Pantai, Kampung Sri Pantai, Mersing, Johor, Malaysia","Pantai Sri Pantai, Johor, Malaysia",geocoded
+MMJC012,Johor,Tanjung Merak,1.3626676,104.110054,"Tanjung Merak, Tanjung Pengelih, Kota Tinggi, Johor, Malaysia","Tanjung Merak, Johor, Malaysia",geocoded
+MMJC013,Johor,Tanjung Pengelih,1.367714,104.103142,"Tanjung Pengelih, Kota Tinggi, Johor, Malaysia","Tanjung Pengelih, Johor, Malaysia",geocoded
+MMJC014,Johor,Pantai Tanjong Stapa,1.6085218,104.1531048,Google Maps: substitute: Tanjong Surat (nearby),"Pantai Tanjong Stapa, Malaysia",geocoded
+MMJC015,Johor,Pantai Teluk Gorek,2.5733389,103.8152629,"Pantai Teluk Gorek, Kampong Tanjung Resang, Mersing, Johor, Malaysia","Pantai Teluk Gorek, Johor, Malaysia",geocoded
+MMJC016,Johor,Pantai Air Papan,2.5207231,103.8318307,"Pantai Air Papan, Teluk Buih, Air Papan, Mersing, Johor, Malaysia","Pantai Air Papan, Johor",geocoded
+MMJC017,Johor,Jeti Kukup,1.3255801,103.4412418,Google Maps: Jeti Kukup,"Jeti Kukup, Malaysia",geocoded
+MMJC018,Johor,Pasir Gogok,1.4203906,104.1030128,"Kampung Pasir Gogok, Kota Tinggi, Johor, Malaysia","Pasir Gogok, Johor, Malaysia",geocoded
+MMJC019,Johor,Tanjung Buai,1.4959968,104.0406254,"Tanjung Buai, Kota Tinggi, Johor, Malaysia","Tanjung Buai, Johor, Malaysia",geocoded
+MMJC020,Johor,Pantai Desaru,1.550558,104.2609235,"Pantai Desaru, Desaru, Bandar Penawar, Kota Tinggi, Johor, Malaysia","Pantai Desaru, Johor, Malaysia",geocoded
+MMJC021,Johor,Tanjung Sepang,1.380628,104.280204,"Tanjung Sepang, Kota Tinggi, Johor, Malaysia","Tanjung Sepang, Johor, Malaysia",geocoded
+MMJC022,Johor,Tanjung Penyusup,1.378148,104.2818829,Google Maps: Tanjung Penyusup area,"Tanjung Penyusup, Malaysia",geocoded
+MMJC023,Johor,Pantai Sungai Lurus,1.7278076,103.0284467,"Pantai Sungai Lurus, Jalan Parit Rasip, Senggarang, Batu Pahat, Johor, 83200, Malaysia","Pantai Sungai Lurus, Johor, Malaysia",geocoded
+MMJC024,Johor,Punggur,1.9941799,102.633586,"Jalan Parit Punggur Tengah, Parit Bakar, Bukit Bakri, Muar, Johor, 84010, Malaysia","Punggur, Johor, Malaysia",geocoded
+MMJC025,Johor,Pantai Penyabung,2.6474679,103.7493561,"Kampung Penyabung, Jalan Penyabong - Endau, Kampung Penyabong Pantai, Mersing, Johor, Malaysia",Pantai Penyabung,geocoded
+MMJC026,Johor,Tanjung Resang,2.5830919,103.8231402,"Tanjung Resang, Kampong Tanjung Resang, Mersing, Johor, Malaysia","Tanjung Resang, Johor, Malaysia",geocoded
+MMJC027,Johor,Tanjung Balau,1.6130765,104.257987,"Tanjung Balau, Kota Tinggi, Johor, 80000, Malaysia","Tanjung Balau, Johor, Malaysia",geocoded
+MMJC028,Johor,Batu Layar,1.4470479,104.295689,"Batu Layar, Jalan Kampong Punggai-Desaru, Kampung Punggai, Kota Tinggi, Johor, Malaysia","Batu Layar, Johor, Malaysia",geocoded
+MMJC029,Johor,Tanjung Sengat,1.5455018,104.0423717,"To Tanjung Buai, Teluk Sengat, Kota Tinggi, Johor, 81940, Malaysia","Tanjung Sengat, Johor, Malaysia",geocoded
+MMCC001,Pahang,Pantai Cherating (Club Med A),4.121152,103.3886881,"Pantai Cherating, Cherating, Kuantan, Pahang, Malaysia",Pantai Cherating,geocoded
+MMCC002,Pahang,Pantai Cherating (Club Med B),4.121152,103.3886881,"Pantai Cherating, Cherating, Kuantan, Pahang, Malaysia",Pantai Cherating,geocoded
+MMCC003,Pahang,Pantai Cherating (Legend A),4.121152,103.3886881,"Pantai Cherating, Cherating, Kuantan, Pahang, Malaysia",Pantai Cherating,geocoded
+MMCC004,Pahang,Pantai Cherating (Legend B),4.121152,103.3886881,"Pantai Cherating, Cherating, Kuantan, Pahang, Malaysia",Pantai Cherating,geocoded
+MMCC005,Pahang,Pantai Muhibbah Balok A,3.921659,103.370889,Google Maps: Pantai Balok,"Pantai Muhibbah Balok A, Malaysia",geocoded
+MMCC006,Pahang,Pantai Muhibbah Balok B,3.921659,103.370889,Google Maps: Pantai Balok,"Pantai Muhibbah Balok B, Malaysia",geocoded
+MMCC007,Pahang,Pantai Batu Hitam A,3.8892058,103.3663122,"Jalan Pantai Batu Hitam, Taman Batu Hitam, Kampung Sungai Karang Darat, Kuantan, Pahang, 26100, Malaysia","Pantai Batu Hitam A, Pahang, Malaysia",geocoded
+MMCC008,Pahang,Pantai Batu Hitam B,3.8892058,103.3663122,"Jalan Pantai Batu Hitam, Taman Batu Hitam, Kampung Sungai Karang Darat, Kuantan, Pahang, 26100, Malaysia","Pantai Batu Hitam B, Pahang, Malaysia",geocoded
+MMCC009,Pahang,Pantai Berserah A,3.8740531,103.3670072,Google Maps: Beserah Beach,"Pantai Berserah A, Malaysia",geocoded
+MMCC010,Pahang,Pantai Berserah B,3.8740531,103.3670072,Google Maps: Beserah Beach,"Pantai Berserah B, Malaysia",geocoded
+MMCC011,Pahang,Pantai Teluk Cempedak A,3.8047225,103.3673566,"Pantai Teluk Sisek, Teluk Cempedak, Kuantan, Pahang, Malaysia",Pantai Teluk Cempedak,geocoded
+MMCC012,Pahang,Pantai Teluk Cempedak B,3.8047225,103.3673566,"Pantai Teluk Sisek, Teluk Cempedak, Kuantan, Pahang, Malaysia",Pantai Teluk Cempedak,geocoded
+MMCC013,Pahang,Pantai Teluk Gelora A,3.8069267,103.3466838,Google Maps: Pantai Gelora Kuantan,"Pantai Teluk Gelora A, Malaysia",geocoded
+MMCC014,Pahang,Pantai Teluk Gelora B,3.8069267,103.3466838,Google Maps: Pantai Gelora Kuantan,"Pantai Teluk Gelora B, Malaysia",geocoded
+MMCC015,Pahang,Pantai Sepat A,3.7394424,103.3161286,"Jalan Pantai Sepat, Kuantan, Pahang, 26060, Malaysia","Pantai Sepat A, Pahang, Malaysia",geocoded
+MMCC016,Pahang,Pantai Sepat B,3.7394424,103.3161286,"Jalan Pantai Sepat, Kuantan, Pahang, 26060, Malaysia","Pantai Sepat B, Pahang, Malaysia",geocoded
+MMCC017,Pahang,Pantai Legenda A,3.5622486,103.432897,Google Maps: Pantai Lagenda,"Pantai Legenda A, Malaysia",geocoded
+MMCC018,Pahang,Pantai Legenda B,3.5622486,103.432897,Google Maps: Pantai Lagenda,"Pantai Legenda B, Malaysia",geocoded
+MMCC019,Pahang,Pantai Kuala Api-Api,3.931782,103.365744,Google Maps: Kuala Api-Api area (Kuantan),"Pantai Kuala Api-Api, Malaysia",geocoded
+MMCC020,Pahang,Pantai Tanjung Batu,3.206249,103.4465495,Google Maps: Pantai Tanjung Batu (Pahang),"Pantai Tanjung Batu, Malaysia",geocoded
+MMCC021,Pahang,Pantai Chendor,4.1768043,103.423273,"Pantai Chendor, Cendur, Kuantan, Pahang, Malaysia","Pantai Chendor, Pahang, Malaysia",geocoded
+MMCC022,Pahang,Pantai Lanjut,2.8424532,103.4667537,Google Maps: Pantai Lanjut,"Pantai Lanjut, Malaysia",geocoded
+MMTC001,Terengganu,Pantai Batu Buruk,5.3125143,103.1611589,"Pantai Batu Buruk, Batu Buruk, Kuala Terengganu, Terengganu, Malaysia","Pantai Batu Buruk, Terengganu, Malaysia",geocoded
+MMTC002,Terengganu,Pantai Bukit Keluang,5.8016581,102.6046306,"Pantai Bukit Keluang, Besut, Terengganu, Malaysia","Pantai Bukit Keluang, Terengganu, Malaysia",geocoded
+MMTC003,Terengganu,Pantai Chendering,5.2718504,103.1826955,Google Maps: substitute: Pantai Pandak (nearby),"Pantai Chendering, Malaysia",geocoded
+MMTC004,Terengganu,Pantai Rantau Abang,4.864542,103.3932989,Google Maps: Rantau Abang,"Pantai Rantau Abang, Malaysia",geocoded
+MMTC005,Terengganu,KIPC Utara,4.2452042,103.4430478,Google Maps: Kemaman industrial coast area,"KIPC Utara, Malaysia",geocoded
+MMTC006,Terengganu,KIPC Tengah,4.2452042,103.4430478,Google Maps: Kemaman industrial coast area,"KIPC Tengah, Malaysia",geocoded
+MMTC007,Terengganu,KIPC Selatan,4.2452042,103.4430478,Google Maps: Kemaman industrial coast area,"KIPC Selatan, Malaysia",geocoded
+MMTC008,Terengganu,Pantai Rhu 10,4.9069665769886734,102.96076899300763,"Jalan Persisiran Pantai Kelantan, Kampung Dalam Rhu, Kampung Telaga Papan, ڤاسير ڤوتيه / Pasir Puteh, Kelantan, 16700, Malaysia","Pantai Rhu 10, Terengganu, Malaysia",state_approx
+MMTC009,Terengganu,Pantai Tok Jembal,5.4029853,103.098949,"Jalan Pantai Tok Jembal, Kampung Kubang Badak, Gong Badak, Kuala Nerus, Terengganu, 21030, Malaysia","Pantai Tok Jembal, Terengganu, Malaysia",geocoded
+MMTC010,Terengganu,Pantai Kelulut,5.1667649,103.2325902,"Pantai Peranginan Kelulut, Jalan Kuantan-Kuala Terengganu, Kampung Kelulut, Marang, Terengganu, 21600, Malaysia","Pantai Kelulut, Terengganu, Malaysia",geocoded
+MMTC011,Terengganu,Pantai Teluk Ketapang,5.378119,103.1188773,"Taman Rekreasi Pantai Teluk Ketapang, Kuala Nerus, Terengganu, 21300, Malaysia","Pantai Teluk Ketapang, Terengganu, Malaysia",geocoded
+MMTC012,Terengganu,Pantai Kuala Abang,4.864542,103.3932989,Google Maps: weak match: same as Rantau Abang area,"Pantai Kuala Abang, Malaysia",geocoded
+MMTC013,Terengganu,Pantai Teluk Kalong,4.2848055,103.4773483,Google Maps: Pantai Teluk Kalong,"Pantai Teluk Kalong, Malaysia",geocoded
+MMTC014,Terengganu,Pantai Sura,4.7703598,103.4218135,"Jalan Pantai Sura, Kuala Dungun, Kampung Teluk Lipat, Dungun, Terengganu, 23000, Malaysia","Pantai Sura, Terengganu, Malaysia",geocoded
+MMTC015,Terengganu,Pantai Tanjung Bidara,4.879493340557429,103.03701382587082,"Pantai Pengkalan Balak, Pengkalan Balak, Alor Gajah, Melaka, Malaysia","Pantai Tanjung Bidara, Malaysia",state_approx
+MMTC016,Terengganu,Pantai Kemasik,4.4160546,103.4567814,"Pantai Kemasik, Kemasik, Kemaman, Terengganu, Malaysia","Pantai Kemasik, Terengganu, Malaysia",geocoded
+MMDC001,Kelantan,Pantai Seri Tujuh,6.2197786,102.1294642,Google Maps: Pantai Sri Tujuh Tumpat,"Pantai Seri Tujuh, Malaysia",geocoded
+MMDC002,Kelantan,Pantai Cahaya Bulan,6.193524,102.279373,"Pantai Cahaya Bulan, Kampung Semut Api, Kampung Badang, Kota Bharu, Kelantan, 15350, Malaysia","Pantai Cahaya Bulan, Kelantan, Malaysia",geocoded
+MMDC003,Kelantan,Pantai Sabak,6.1755955,102.319861,"Jalan Pantai Sabak, Sabak, Kampung Tebing Tinggi, Kampung Sabak, Kota Bharu, Kelantan, 16100, Malaysia","Pantai Sabak, Kelantan, Malaysia",geocoded
+MMDC004,Kelantan,Pantai Irama Bachok,6.0778022,102.3952405,"Pantai Irama, Kampung Kubang Kawah, Kampung Perupok, باچوق / Bachok, Kelantan, Malaysia","Pantai Irama Bachok, Kelantan, Malaysia",geocoded
+MMDC005,Kelantan,Pantai Bisikan Bayu,5.864754,102.5143985,"Pantai Bisikan Bayu, ڤاسير ڤوتيه / Pasir Puteh, Kelantan, 16700, Malaysia","Pantai Bisikan Bayu, Kelantan, Malaysia",geocoded
+MMDC006,Kelantan,Pantai Melawi,6.0173125,102.4096069,"Jalan Persisiran Pantai Kelantan, Melawi, Kampung Repek, باچوق / Bachok, Kelantan, 16310, Malaysia","Pantai Melawi, Kelantan, Malaysia",geocoded
+MMQC001,Sarawak,Pantai Sematan,1.8859177,109.7201924,Google Maps: Sematan area,"Pantai Sematan, Malaysia",geocoded
+MMQC002,Sarawak,Pantai Pandan,1.763055,109.8665798,"Pantai Pandan, Kampung Bajo, Lundu, Bahagian Kuching, Sarawak, Malaysia","Pantai Pandan, Sarawak, Malaysia",geocoded
+MMQC003,Sarawak,Pantai Pasir Putih,2.9310888338146217,113.63817418847928,"Pantai Pasir Putih, Kampung Pukat, Sandakan, Sandakan District, Bahagian Sandakan, Sabah, 90009, Malaysia","Pantai Pasir Putih, Malaysia",state_approx
+MMQC004,Sarawak,Pantai Bako,1.685101,110.4488039,Google Maps: Bako area,"Pantai Bako, Malaysia",geocoded
+MMQC005,Sarawak,Pantai Damai,1.749109,110.312957,Google Maps: Damai Beach Santubong,"Pantai Damai, Malaysia",geocoded
+MMQC006,Sarawak,Pantai Tanjung Kembang,1.8194489,111.1031763,Google Maps: Pantai Tanjung Kembang,"Pantai Tanjung Kembang, Malaysia",geocoded
+MMQC007,Sarawak,Pantai Harmoni Mukah,2.8920883,112.0921699,Google Maps: Mukah area,"Pantai Harmoni Mukah, Malaysia",geocoded
+MMQC008,Sarawak,Pantai Tanjung Batu,3.2098283,113.0462643,"Batu Cape Beach, Jalan Tanjung Batu, Bintulu, Bahagian Bintulu, Sarawak, 97000, Malaysia","Pantai Tanjung Batu, Sarawak, Malaysia",geocoded
+MMQC009,Sarawak,Pantai Likau,3.2873116,113.1325683,Google Maps: Kampung Likau area,"Pantai Likau, Malaysia",geocoded
+MMQC010,Sarawak,Pantai Emas,2.9009974852005227,113.61734041909898,"Taman Pantai Emas, Kampung Batang Tiga Timur, Bandaraya Melaka, Melaka Tengah, Melaka, 76400, Malaysia","Pantai Emas, Malaysia",state_approx
+MMQC011,Sarawak,Pantai Piasau,4.4320335,113.9966029,"Pantai Piasau Residence, Piasau, Miri, Bahagian Miri, Sarawak, Malaysia","Pantai Piasau, Sarawak, Malaysia",geocoded
+MMQC012,Sarawak,Pantai Brighton,4.37009,113.9677173,"Pantai Tanjong Lobang, Brighton, Miri, Bahagian Miri, Sarawak, Malaysia","Pantai Brighton, Sarawak, Malaysia",geocoded
+MMQC013,Sarawak,Pantai Esplaned,2.2852244,111.830643,Google Maps: Sibu esplanade area,"Pantai Esplaned, Malaysia",geocoded
+MMQC014,Sarawak,Pantai Beraya,4.202229,113.8879505,"Pantai Kampung Beraya, Miri, Bahagian Miri, Sarawak, Malaysia","Pantai Beraya, Sarawak, Malaysia",geocoded
+MMQC015,Sarawak,Pantai Bungai,4.0612418,113.7838904,"Pantai Bungai, Kampung Pantai Bungai, Subis, Bahagian Miri, Sarawak, Malaysia","Pantai Bungai, Sarawak, Malaysia",geocoded
+MMQC016,Sarawak,Pantai Belawai,2.2311901,111.2160226,Google Maps: Belawai area,"Pantai Belawai, Malaysia",geocoded
+MMQC017,Sarawak,Pantai Mukah,2.9113264,112.0895815,"Pantai Mukah, Mukah, Bahagian Mukah, Sarawak, Malaysia","Pantai Mukah, Sarawak, Malaysia",geocoded
+MMQC018,Sarawak,Tanjung Kidurong,3.239764,113.0958404,"Tanjung Kidurong, Bintulu, Bahagian Bintulu, Sarawak, 97300, Malaysia","Tanjung Kidurong, Sarawak, Malaysia",geocoded
+MMQC019,Sarawak,Pasir Pandak,1.6981774,110.3122901,"Kampung Pasir Pandak, Kuching, Bahagian Kuching, Sarawak, 99350, Malaysia","Pasir Pandak, Sarawak, Malaysia",geocoded
+MMQC020,Sarawak,Rambungan,0.9115594,110.5172488,"Bukit Rambungan, Kampung Terbat Mawang, Tebedu, Bahagian Serian, Sarawak, Malaysia","Rambungan, Sarawak, Malaysia",geocoded
+MMQC021,Sarawak,Sri Tanjung Lawas,2.917995496478744,113.67103209004335,,"Sri Tanjung Lawas, Malaysia",state_approx
+MMQC022,Sarawak,Pantai Luak,4.3097404,113.9637763,"Taman Pantai Luak, Holiday Park, Miri, Bahagian Miri, Sarawak, Malaysia","Pantai Luak, Sarawak, Malaysia",geocoded
+MMQC023,Sarawak,Pasir Panjang,1.6924088,110.3046059,"Pantai Pasir Panjang, Petra Jaya, Kampung Pasir Pandak, Kuching, Bahagian Kuching, Sarawak, Malaysia","Pasir Panjang, Sarawak, Malaysia",geocoded
+MMSC001,Sabah,Pantai Teluk Brunei 1,5.4977429,115.5444231,"Google Maps: Kuala Penyu, Sabah (Sabah-side shore of Brunei Bay, corrected from a mid-bay point that fell outside the Sabah polygon)","Pantai Teluk Brunei 1, Malaysia",geocoded
+MMSC002,Sabah,Pantai Teluk Brunei 2,5.4977429,115.5444231,"Google Maps: Kuala Penyu, Sabah (Sabah-side shore of Brunei Bay, corrected from a mid-bay point that fell outside the Sabah polygon)","Pantai Teluk Brunei 2, Malaysia",geocoded
+MMSC003,Sabah,Pantai Teluk Brunei 3,5.4977429,115.5444231,"Google Maps: Kuala Penyu, Sabah (Sabah-side shore of Brunei Bay, corrected from a mid-bay point that fell outside the Sabah polygon)","Pantai Teluk Brunei 3, Malaysia",geocoded
+MMSC004,Sabah,Pantai Teluk Brunei 4,5.4977429,115.5444231,"Google Maps: Kuala Penyu, Sabah (Sabah-side shore of Brunei Bay, corrected from a mid-bay point that fell outside the Sabah polygon)","Pantai Teluk Brunei 4, Malaysia",geocoded
+MMSC005,Sabah,Pantai Teluk Brunei 5,5.4977429,115.5444231,"Google Maps: Kuala Penyu, Sabah (Sabah-side shore of Brunei Bay, corrected from a mid-bay point that fell outside the Sabah polygon)","Pantai Teluk Brunei 5, Malaysia",geocoded
+MMSC006,Sabah,Pantai Teluk Brunei 6,5.4977429,115.5444231,"Google Maps: Kuala Penyu, Sabah (Sabah-side shore of Brunei Bay, corrected from a mid-bay point that fell outside the Sabah polygon)","Pantai Teluk Brunei 6, Malaysia",geocoded
+MMSC007,Sabah,Borneo Golf Seawater,5.9675263,116.0597399,Google Maps: Sutera Harbour Golf Club KK,"Borneo Golf Seawater, Malaysia",geocoded
+MMSC008,Sabah,Pantai Manis Papar,5.7430718,115.9009882,"Sekolah Agama Pantai Manis, Lorong Kosan, Papar, Bahagian Pantai Barat, Sabah, 89608, Malaysia","Pantai Manis Papar, Sabah, Malaysia",geocoded
+MMSC009,Sabah,Pantai Melinsung,5.774752,115.9669214,"Melinsung Summer Bay Resort Apartment, Jalan Pengalat-Lok Kawi, Taman Pengalat Besar, Kampung Pengalat Besar, Papar, Bahagian Pantai Barat, Sabah, 89600, Malaysia",Pantai Melinsung,geocoded
+MMSC010,Sabah,Pantai Tanjung Aru (Roll Skating),5.9356507,116.0466981,"Pantai Tanjung Aru, Kota Kinabalu, Bahagian Pantai Barat, Sabah, 88100, Malaysia",Pantai Tanjung Aru,geocoded
+MMSC011,Sabah,Pantai Tanjung Aru (No. 3),5.9356507,116.0466981,"Pantai Tanjung Aru, Kota Kinabalu, Bahagian Pantai Barat, Sabah, 88100, Malaysia","Pantai Tanjung Aru (No. 3), Sabah, Malaysia",geocoded
+MMSC012,Sabah,Pantai Lok Kawi,5.8381078,116.0428368,"Pusat Internet 1 Malaysia, Jalan Pengalat-Lok Kawi, Lok Kawi Heights, Kinarut, Papar, Bahagian Pantai Barat, Sabah, Malaysia","Pantai Lok Kawi, Sabah, Malaysia",geocoded
+MMSC013,Sabah,Pantai Dalit Tuaran,6.1427755,116.1378774,Google Maps: Pantai Dalit Tuaran area,"Pantai Dalit Tuaran, Malaysia",geocoded
+MMSC014,Sabah,Mangrove Paradise,5.533685503492455,117.19432742947276,,"Mangrove Paradise, Malaysia",state_approx
+MMSC015,Sabah,Pantai Sabandar,6.194789,116.1910592,"Lorong Sri Sabandar 4, Kampung Bolong, Tuaran, Bahagian Pantai Barat, Sabah, 89208, Malaysia",Pantai Sabandar,geocoded
+MMSC016,Sabah,Pantai Bak-Bak Kudat,6.9467783,116.8398289,"Jalan Pantai Bak Bak, Kudat, Bahagian Kudat, Sabah, 89050, Malaysia",Pantai Bak-Bak Kudat,geocoded
+MMSC017,Sabah,Pasir Putih Sandakan,5.8246843,118.0829613,"Pantai Pasir Putih, Kampung Pukat, Sandakan, Sandakan District, Bahagian Sandakan, Sabah, 90009, Malaysia","Pasir Putih Sandakan, Sabah, Malaysia",geocoded
+MMSC018,Sabah,Pantai TLDM,6.090274,116.1069291,"Pangkalan TLDM Kota Kinabalu, Jalan Mawilla 2, Kampung Lokbuno, Kota Kinabalu, Bahagian Pantai Barat, Sabah, 88846, Malaysia",Pantai TLDM,geocoded
+MMSC019,Sabah,Pantai Batu Sapi,5.8068281,118.0542514,Google Maps: Sandakan coastal area,"Pantai Batu Sapi, Malaysia",geocoded
+MMSC020,Sabah,Pantai Ulu Tungku,5.0120835,118.876559,Google Maps: Semporna area,"Pantai Ulu Tungku, Malaysia",geocoded
+MMSC021,Sabah,Pantai Sarina Kunak,4.6606742,118.2850056,"Pantai Sarina Beach Recreation Center (Knak NT Adventure Sdn Bhd), Kampung Hampilan, Kunak, Bahagian Tawau, Sabah, Malaysia","Pantai Sarina Kunak, Sabah, Malaysia",geocoded
+MMSC022,Sabah,Pantai Kg. Lamak,4.9427006,118.189935,Google Maps: Kg Lamak Lahad Datu,"Pantai Kg. Lamak, Malaysia",geocoded
+MMSC023,Sabah,Pantai Tinagat,4.223742,117.987862,Google Maps: Tinagat Beach Tawau,"Pantai Tinagat, Malaysia",geocoded
+MMSC024,Sabah,Pantai Tanjung Aru (Rest Lido),5.9356507,116.0466981,"Pantai Tanjung Aru, Kota Kinabalu, Bahagian Pantai Barat, Sabah, 88100, Malaysia",Pantai Tanjung Aru,geocoded
+MMLC001,W.P. Labuan,Pulau Papan,5.2534704,115.2710188,"Pulau Papan, Bandar Victoria, Labuan, Malaysia","Pulau Papan, Labuan, Malaysia",geocoded
+MMLC002,W.P. Labuan,Kiamsam,5.2602125,115.1741384,Google Maps: Labuan island (address match only),"Kiamsam, Malaysia",geocoded
+MMLC003,W.P. Labuan,Sungai Pagar,5.300473,115.1756715,"Sungai Pagar Beach, Bandar Victoria, Labuan, Malaysia","Sungai Pagar, Labuan, Malaysia",geocoded
+MMLC004,W.P. Labuan,LayangLayangan,5.34113,115.2000551,Google Maps: Layang-Layangan Labuan,"LayangLayangan, Malaysia",geocoded
+MMLC005,W.P. Labuan,Tanjung Aru,5.3346044,115.2464216,"Kampung Tanjung Aru Nelayan, Labuan, Malaysia","Tanjung Aru, Labuan, Malaysia",geocoded
